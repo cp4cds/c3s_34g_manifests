@@ -1,0 +1,11 @@
+description:
+  data-type: Grided
+  file-format: NetCDF4
+  horizontal-coverage: Global
+  horizontal-resolution: Resolution is dependent on the model
+  Projection: 'Regular lat-lon'
+  temporal-coverage: 1850-2300, dependent on experiment .
+  temporal-resolution: Daily and monthly
+  vertical-coverage: N/A
+  vertical-resolution: Single level
+  update-frequency: N/A
