@@ -1,3 +1,7 @@
+variable_names.txt
+vars_list
+manifest_c3s-34g-cmip6-r1-all-2020-07-29.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
