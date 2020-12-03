@@ -1,5 +1,5 @@
-project: c3s-cmip6
-base_dir: /badc/cmip6/data
+- project: c3s-cmip6
+  base_dir: /badc/cmip6/data
 
 - path: CMIP6/ScenarioMIP/CCCma/CanESM5/ssp370/r1i1p1f1/Amon/rsutcs/gn/v20190429
   ds_id: CMIP6.ScenarioMIP.CCCma.CanESM5.ssp370.r1i1p1f1.Amon.rsutcs.gn.v20190429
