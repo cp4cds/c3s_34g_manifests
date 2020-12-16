@@ -418,29 +418,6 @@
     grid_label: gr1
     version: v20190618
 
-- path: CMIP6/CMIP/IPSL/IPSL-CM6A-LR/historical/r1i1p1f1/Amon/rtmt/gr/v20180803
-  ds_id: CMIP6.CMIP.IPSL.IPSL-CM6A-LR.historical.r1i1p1f1.Amon.rtmt.gr.v20180803
-  var_id: rtmt
-  array_dims: time lat lon
-  array_shape: 1980 143 144
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -90.00 90.00
-  longitude: 0.00 357.50
-  size: 163137308
-  size_gb: 0.16
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: IPSL
-    source_id: IPSL-CM6A-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Amon
-    variable_id: rtmt
-    grid_label: gr
-    version: v20180803
-
 - path: CMIP6/ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp370/r1i1p1f1/Amon/ps/gn/v20190710
   ds_id: CMIP6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp370.r1i1p1f1.Amon.ps.gn.v20190710
   var_id: ps
@@ -837,29 +814,6 @@
     grid_label: gr1
     version: v20190618
 
-- path: CMIP6/CMIP/IPSL/IPSL-CM6A-LR/historical/r1i1p1f1/LImon/snc/gr/v20180803
-  ds_id: CMIP6.CMIP.IPSL.IPSL-CM6A-LR.historical.r1i1p1f1.LImon.snc.gr.v20180803
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1980 143 144
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -90.00 90.00
-  longitude: 0.00 357.50
-  size: 163137308
-  size_gb: 0.16
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: IPSL
-    source_id: IPSL-CM6A-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
-    grid_label: gr
-    version: v20180803
-
 - path: CMIP6/ScenarioMIP/INM/INM-CM5-0/ssp585/r1i1p1f1/Amon/evspsbl/gr1/v20190724
   ds_id: CMIP6.ScenarioMIP.INM.INM-CM5-0.ssp585.r1i1p1f1.Amon.evspsbl.gr1.v20190724
   var_id: evspsbl
@@ -1043,29 +997,6 @@
     variable_id: psl
     grid_label: gr1
     version: v20190724
-
-- path: CMIP6/ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp370/r1i1p1f1/Lmon/mrso/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp370.r1i1p1f1.Lmon.mrso.gn.v20190710
-  var_id: mrso
-  array_dims: time lat lon
-  array_shape: 1032 96 192
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 80869824
-  size_gb: 0.08
-  file_count: 5
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: ssp370
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: mrso
-    grid_label: gn
-    version: v20190710
 
 - path: CMIP6/ScenarioMIP/CCCma/CanESM5/ssp370/r1i1p1f1/day/tas/gn/v20190429
   ds_id: CMIP6.ScenarioMIP.CCCma.CanESM5.ssp370.r1i1p1f1.day.tas.gn.v20190429
@@ -2275,29 +2206,6 @@
     grid_label: gr
     version: v20190119
 
-- path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp119/r1i1p1f1/Amon/sbl/gn/v20190222
-  ds_id: CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp119.r1i1p1f1.Amon.sbl.gn.v20190222
-  var_id: sbl
-  array_dims: time lat lon
-  array_shape: 1032 160 320
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 211389888
-  size_gb: 0.21
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MRI
-    source_id: MRI-ESM2-0
-    experiment_id: ssp119
-    member_id: r1i1p1f1
-    table_id: Amon
-    variable_id: sbl
-    grid_label: gn
-    version: v20190222
-
 - path: CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp245/r1i1p1f1/Amon/hfls/gr/v20190119
   ds_id: CMIP6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp245.r1i1p1f1.Amon.hfls.gr.v20190119
   var_id: hfls
@@ -2855,29 +2763,6 @@
     variable_id: ta
     grid_label: gn
     version: v20190429
-
-- path: CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp245/r1i1p1f1/LImon/snc/gr/v20190119
-  ds_id: CMIP6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp245.r1i1p1f1.LImon.snc.gr.v20190119
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1032 143 144
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -90.00 90.00
-  longitude: 0.00 357.50
-  size: 85029692
-  size_gb: 0.09
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: IPSL
-    source_id: IPSL-CM6A-LR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
-    grid_label: gr
-    version: v20190119
 
 - path: CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp370/r1i1p1f1/Amon/evspsbl/gr/v20190119
   ds_id: CMIP6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp370.r1i1p1f1.Amon.evspsbl.gr.v20190119
@@ -3927,30 +3812,6 @@
     grid_label: gn
     version: v20190731
 
-- path: CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp460/r1i1p1f1/day/hurs/gr/v20200219
-  ds_id: CMIP6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp460.r1i1p1f1.day.hurs.gr.v20200219
-  var_id: hurs
-  array_dims: time lat lon
-  array_shape: 31411 143 144
-  time: 2015-01-01T12:00:00 2100-12-31T12:00:00
-  level: 2.00 2.00
-  latitude: -90.00 90.00
-  longitude: 0.00 357.50
-  size: 2588016268
-  size_gb: 2.59
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: IPSL
-    source_id: IPSL-CM6A-LR
-    experiment_id: ssp460
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: hurs
-    grid_label: gr
-    version: v20200219
-
 - path: CMIP6/ScenarioMIP/INM/INM-CM5-0/ssp245/r1i1p1f1/Amon/ta/gr1/v20190619
   ds_id: CMIP6.ScenarioMIP.INM.INM-CM5-0.ssp245.r1i1p1f1.Amon.ta.gr1.v20190619
   var_id: ta
@@ -4253,30 +4114,6 @@
     grid_label: gr
     version: v20190909
 
-- path: CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp119/r1i1p1f1/day/zg/gr/v20190410
-  ds_id: CMIP6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp119.r1i1p1f1.day.zg.gr.v20190410
-  var_id: zg
-  array_dims: time plev lat lon
-  array_shape: 31411 8 143 144
-  time: 2015-01-01T12:00:00 2100-12-31T12:00:00
-  latitude: -90.00 90.00
-  longitude: 0.00 357.50
-  level: 1000.00 100000.00
-  size: 20698845028
-  size_gb: 20.7
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: IPSL
-    source_id: IPSL-CM6A-LR
-    experiment_id: ssp119
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: zg
-    grid_label: gr
-    version: v20190410
-
 - path: CMIP6/ScenarioMIP/NUIST/NESM3/ssp585/r1i1p1f1/Amon/ps/gn/v20190728
   ds_id: CMIP6.ScenarioMIP.NUIST.NESM3.ssp585.r1i1p1f1.Amon.ps.gn.v20190728
   var_id: ps
@@ -4533,30 +4370,6 @@
     variable_id: ta
     grid_label: gr
     version: v20190909
-
-- path: CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp534-over/r1i1p1f1/day/hurs/gr/v20200219
-  ds_id: CMIP6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp534-over.r1i1p1f1.day.hurs.gr.v20200219
-  var_id: hurs
-  array_dims: time lat lon
-  array_shape: 95328 143 144
-  time: 2040-01-01T12:00:00 2300-12-31T12:00:00
-  level: 2.00 2.00
-  latitude: -90.00 90.00
-  longitude: 0.00 357.50
-  size: 7854265732
-  size_gb: 7.85
-  file_count: 2
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: IPSL
-    source_id: IPSL-CM6A-LR
-    experiment_id: ssp534-over
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: hurs
-    grid_label: gr
-    version: v20200219
 
 - path: CMIP6/ScenarioMIP/MIROC/MIROC6/ssp119/r1i1p1f1/Amon/ta/gn/v20190807
   ds_id: CMIP6.ScenarioMIP.MIROC.MIROC6.ssp119.r1i1p1f1.Amon.ta.gn.v20190807
@@ -5030,30 +4843,6 @@
     grid_label: gn
     version: v20191016
 
-- path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp245/r1i1p1f1/Amon/co2/gn/v20190308
-  ds_id: CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp245.r1i1p1f1.Amon.co2.gn.v20190308
-  var_id: co2
-  array_dims: time plev lat lon
-  array_shape: 1032 19 64 128
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -87.86 87.86
-  longitude: 0.00 357.19
-  level: 100.00 100000.00
-  size: 645711704
-  size_gb: 0.65
-  file_count: 2
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MRI
-    source_id: MRI-ESM2-0
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: Amon
-    variable_id: co2
-    grid_label: gn
-    version: v20190308
-
 - path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp245/r1i1p1f1/Amon/ta/gn/v20190308
   ds_id: CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp245.r1i1p1f1.Amon.ta.gn.v20190308
   var_id: ta
@@ -5173,30 +4962,6 @@
     variable_id: sfcWindmax
     grid_label: gn
     version: v20191016
-
-- path: CMIP6/ScenarioMIP/NCC/NorESM2-LM/ssp245/r1i1p1f1/Amon/co2/gn/v20191108
-  ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-LM.ssp245.r1i1p1f1.Amon.co2.gn.v20191108
-  var_id: co2
-  array_dims: time plev lat lon
-  array_shape: 1032 19 96 144
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -90.00 90.00
-  longitude: 0.00 357.50
-  level: 100.00 100000.00
-  size: 1088233688
-  size_gb: 1.09
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: NCC
-    source_id: NorESM2-LM
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: Amon
-    variable_id: co2
-    grid_label: gn
-    version: v20191108
 
 - path: CMIP6/ScenarioMIP/NCC/NorESM2-LM/ssp245/r1i1p1f1/Amon/hus/gn/v20191108
   ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-LM.ssp245.r1i1p1f1.Amon.hus.gn.v20191108
@@ -5366,30 +5131,6 @@
     grid_label: gn
     version: v20191016
 
-- path: CMIP6/ScenarioMIP/NCC/NorESM2-MM/ssp245/r1i1p1f1/Amon/co2/gn/v20191108
-  ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-MM.ssp245.r1i1p1f1.Amon.co2.gn.v20191108
-  var_id: co2
-  array_dims: time plev lat lon
-  array_shape: 1032 19 192 288
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -90.00 90.00
-  longitude: 0.00 358.75
-  level: 100.00 100000.00
-  size: 4344930392
-  size_gb: 4.34
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: NCC
-    source_id: NorESM2-MM
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: Amon
-    variable_id: co2
-    grid_label: gn
-    version: v20191108
-
 - path: CMIP6/ScenarioMIP/NCC/NorESM2-MM/ssp245/r1i1p1f1/Amon/hus/gn/v20191108
   ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-MM.ssp245.r1i1p1f1.Amon.hus.gn.v20191108
   var_id: hus
@@ -5558,30 +5299,6 @@
     grid_label: gr1
     version: v20180701
 
-- path: CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp245/r1i1p1f1/Amon/co2/gr1/v20180701
-  ds_id: CMIP6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp245.r1i1p1f1.Amon.co2.gr1.v20180701
-  var_id: co2
-  array_dims: time plev lat lon
-  array_shape: 1032 19 180 288
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -89.50 89.50
-  longitude: 0.62 359.38
-  level: 100.00 100000.00
-  size: 4065951048
-  size_gb: 4.07
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: NOAA-GFDL
-    source_id: GFDL-ESM4
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: Amon
-    variable_id: co2
-    grid_label: gr1
-    version: v20180701
-
 - path: CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp245/r1i1p1f1/Amon/ta/gr1/v20180701
   ds_id: CMIP6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp245.r1i1p1f1.Amon.ta.gr1.v20180701
   var_id: ta
@@ -5726,150 +5443,6 @@
     grid_label: gn
     version: v20190728
 
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/3hr/huss/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp126.r1i1p1f1.3hr.huss.gn.v20190710
-  var_id: huss
-  array_dims: time lat lon
-  array_shape: 251288 192 384
-  time: 2015-01-01T03:00:00 2101-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 76425731784
-  size_gb: 76.43
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp126
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: huss
-    grid_label: gn
-    version: v20190710
-
-- path: CMIP6/ScenarioMIP/AWI/AWI-CM-1-1-MR/ssp126/r1i1p1f1/3hr/tas/gn/v20190529
-  ds_id: CMIP6.ScenarioMIP.AWI.AWI-CM-1-1-MR.ssp126.r1i1p1f1.3hr.tas.gn.v20190529
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 251288 192 384
-  time: 2015-01-01T03:00:00 2101-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 76425731784
-  size_gb: 76.43
-  file_count: 86
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: AWI
-    source_id: AWI-CM-1-1-MR
-    experiment_id: ssp126
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20190529
-
-- path: CMIP6/CMIP/MIROC/MIROC6/historical/r1i1p1f1/3hr/huss/gn/v20190912
-  ds_id: CMIP6.CMIP.MIROC.MIROC6.historical.r1i1p1f1.3hr.huss.gn.v20190912
-  var_id: huss
-  array_dims: time lat lon
-  array_shape: 482120 128 256
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -88.93 88.93
-  longitude: 0.00 358.59
-  size: 66158437960
-  size_gb: 66.16
-  file_count: 165
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MIROC
-    source_id: MIROC6
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: huss
-    grid_label: gn
-    version: v20190912
-
-- path: CMIP6/ScenarioMIP/MIROC/MIROC6/ssp126/r1i1p1f1/3hr/huss/gn/v20190912
-  ds_id: CMIP6.ScenarioMIP.MIROC.MIROC6.ssp126.r1i1p1f1.3hr.huss.gn.v20190912
-  var_id: huss
-  array_dims: time lat lon
-  array_shape: 251288 128 256
-  time: 2015-01-01T03:00:00 2101-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -88.93 88.93
-  longitude: 0.00 358.59
-  size: 34482747592
-  size_gb: 34.48
-  file_count: 86
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MIROC
-    source_id: MIROC6
-    experiment_id: ssp126
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: huss
-    grid_label: gn
-    version: v20190912
-
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/3hr/tas/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp126.r1i1p1f1.3hr.tas.gn.v20190710
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 251288 192 384
-  time: 2015-01-01T03:00:00 2101-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 76425731784
-  size_gb: 76.43
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp126
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20190710
-
-- path: CMIP6/ScenarioMIP/AWI/AWI-CM-1-1-MR/ssp126/r1i1p1f1/3hr/vas/gn/v20190529
-  ds_id: CMIP6.ScenarioMIP.AWI.AWI-CM-1-1-MR.ssp126.r1i1p1f1.3hr.vas.gn.v20190529
-  var_id: vas
-  array_dims: time lat lon
-  array_shape: 251288 192 384
-  time: 2015-01-01T03:00:00 2101-01-01T00:00:00
-  level: 10.00 10.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 76425731784
-  size_gb: 76.43
-  file_count: 86
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: AWI
-    source_id: AWI-CM-1-1-MR
-    experiment_id: ssp126
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: vas
-    grid_label: gn
-    version: v20190529
-
 - path: CMIP6/ScenarioMIP/AWI/AWI-CM-1-1-MR/ssp126/r1i1p1f1/Amon/evspsbl/gn/v20190529
   ds_id: CMIP6.ScenarioMIP.AWI.AWI-CM-1-1-MR.ssp126.r1i1p1f1.Amon.evspsbl.gn.v20190529
   var_id: evspsbl
@@ -5916,30 +5489,6 @@
     variable_id: hurs
     grid_label: gn
     version: v20190529
-
-- path: CMIP6/ScenarioMIP/MIROC/MIROC6/ssp126/r1i1p1f1/3hr/vas/gn/v20190912
-  ds_id: CMIP6.ScenarioMIP.MIROC.MIROC6.ssp126.r1i1p1f1.3hr.vas.gn.v20190912
-  var_id: vas
-  array_dims: time lat lon
-  array_shape: 251288 128 256
-  time: 2015-01-01T03:00:00 2101-01-01T00:00:00
-  level: 10.00 10.00
-  latitude: -88.93 88.93
-  longitude: 0.00 358.59
-  size: 34482747592
-  size_gb: 34.48
-  file_count: 86
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MIROC
-    source_id: MIROC6
-    experiment_id: ssp126
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: vas
-    grid_label: gn
-    version: v20190912
 
 - path: CMIP6/ScenarioMIP/MIROC/MIROC6/ssp126/r1i1p1f1/Amon/evspsbl/gn/v20190627
   ds_id: CMIP6.ScenarioMIP.MIROC.MIROC6.ssp126.r1i1p1f1.Amon.evspsbl.gn.v20190627
@@ -6449,30 +5998,6 @@
     grid_label: gn
     version: v20190529
 
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/3hr/vas/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp126.r1i1p1f1.3hr.vas.gn.v20190710
-  var_id: vas
-  array_dims: time lat lon
-  array_shape: 251288 192 384
-  time: 2015-01-01T03:00:00 2101-01-01T00:00:00
-  level: 10.00 10.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 76425731784
-  size_gb: 76.43
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp126
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: vas
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/Amon/evspsbl/gn/v20190710
   ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp126.r1i1p1f1.Amon.evspsbl.gn.v20190710
   var_id: evspsbl
@@ -6542,30 +6067,6 @@
     variable_id: rsutcs
     grid_label: gn
     version: v20190529
-
-- path: CMIP6/CMIP/MIROC/MIROC6/historical/r1i1p1f1/3hr/tas/gn/v20190912
-  ds_id: CMIP6.CMIP.MIROC.MIROC6.historical.r1i1p1f1.3hr.tas.gn.v20190912
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 482120 128 256
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -88.93 88.93
-  longitude: 0.00 358.59
-  size: 66158437960
-  size_gb: 66.16
-  file_count: 165
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MIROC
-    source_id: MIROC6
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20190912
 
 - path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/Amon/prsn/gn/v20190710
   ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp126.r1i1p1f1.Amon.prsn.gn.v20190710
@@ -6868,29 +6369,6 @@
     grid_label: gn
     version: v20190710
 
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/day/mrro/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp126.r1i1p1f1.day.mrro.gn.v20190710
-  var_id: mrro
-  array_dims: time lat lon
-  array_shape: 31411 192 384
-  time: 2015-01-01T12:00:00 2100-12-31T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 9553723080
-  size_gb: 9.55
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp126
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: mrro
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/day/pr/gn/v20190710
   ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp126.r1i1p1f1.day.pr.gn.v20190710
   var_id: pr
@@ -6959,30 +6437,6 @@
     variable_id: psl
     grid_label: gn
     version: v20190710
-
-- path: CMIP6/CMIP/AWI/AWI-CM-1-1-MR/historical/r1i1p1f1/3hr/tas/gn/v20181218
-  ds_id: CMIP6.CMIP.AWI.AWI-CM-1-1-MR.historical.r1i1p1f1.3hr.tas.gn.v20181218
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 482120 192 384
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 146630052936
-  size_gb: 146.63
-  file_count: 165
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: AWI
-    source_id: AWI-CM-1-1-MR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20181218
 
 - path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/day/tas/gn/v20190710
   ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp126.r1i1p1f1.day.tas.gn.v20190710
@@ -7102,29 +6556,6 @@
     grid_label: gn
     version: v20190710
 
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/Lmon/mrso/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp126.r1i1p1f1.Lmon.mrso.gn.v20190710
-  var_id: mrso
-  array_dims: time lat lon
-  array_shape: 1032 192 384
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 313889472
-  size_gb: 0.31
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp126
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: mrso
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/ScenarioMIP/AWI/AWI-CM-1-1-MR/ssp126/r1i1p1f1/day/sfcWindmax/gn/v20190529
   ds_id: CMIP6.ScenarioMIP.AWI.AWI-CM-1-1-MR.ssp126.r1i1p1f1.day.sfcWindmax.gn.v20190529
   var_id: sfcWindmax
@@ -7220,54 +6651,6 @@
     variable_id: tasmin
     grid_label: gn
     version: v20190529
-
-- path: CMIP6/ScenarioMIP/MIROC/MIROC6/ssp245/r1i1p1f1/3hr/huss/gn/v20190912
-  ds_id: CMIP6.ScenarioMIP.MIROC.MIROC6.ssp245.r1i1p1f1.3hr.huss.gn.v20190912
-  var_id: huss
-  array_dims: time lat lon
-  array_shape: 251288 128 256
-  time: 2015-01-01T03:00:00 2101-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -88.93 88.93
-  longitude: 0.00 358.59
-  size: 34482747592
-  size_gb: 34.48
-  file_count: 86
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MIROC
-    source_id: MIROC6
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: huss
-    grid_label: gn
-    version: v20190912
-
-- path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp126/r1i1p1f1/3hr/tas/gn/v20191108
-  ds_id: CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp126.r1i1p1f1.3hr.tas.gn.v20191108
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 835672 160 320
-  time: 2015-01-01T00:00:00 2300-12-31T21:00:00
-  level: 2.00 2.00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 177570275784
-  size_gb: 177.57
-  file_count: 29
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MRI
-    source_id: MRI-ESM2-0
-    experiment_id: ssp126
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20191108
 
 - path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp126/r1i1p1f1/Amon/prw/gn/v20191108
   ds_id: CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp126.r1i1p1f1.Amon.prw.gn.v20191108
@@ -7385,30 +6768,6 @@
     grid_label: gn
     version: v20191108
 
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp245/r1i1p1f1/3hr/huss/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp245.r1i1p1f1.3hr.huss.gn.v20190710
-  var_id: huss
-  array_dims: time lat lon
-  array_shape: 251288 192 384
-  time: 2015-01-01T03:00:00 2101-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 76425731784
-  size_gb: 76.43
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: huss
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp126/r1i1p1f1/day/pr/gn/v20191108
   ds_id: CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp126.r1i1p1f1.day.pr.gn.v20191108
   var_id: pr
@@ -7454,30 +6813,6 @@
     variable_id: psl
     grid_label: gn
     version: v20191108
-
-- path: CMIP6/ScenarioMIP/MIROC/MIROC6/ssp245/r1i1p1f1/3hr/vas/gn/v20190912
-  ds_id: CMIP6.ScenarioMIP.MIROC.MIROC6.ssp245.r1i1p1f1.3hr.vas.gn.v20190912
-  var_id: vas
-  array_dims: time lat lon
-  array_shape: 251288 128 256
-  time: 2015-01-01T03:00:00 2101-01-01T00:00:00
-  level: 10.00 10.00
-  latitude: -88.93 88.93
-  longitude: 0.00 358.59
-  size: 34482747592
-  size_gb: 34.48
-  file_count: 86
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MIROC
-    source_id: MIROC6
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: vas
-    grid_label: gn
-    version: v20190912
 
 - path: CMIP6/ScenarioMIP/MIROC/MIROC6/ssp245/r1i1p1f1/Amon/clt/gn/v20190627
   ds_id: CMIP6.ScenarioMIP.MIROC.MIROC6.ssp245.r1i1p1f1.Amon.clt.gn.v20190627
@@ -7824,30 +7159,6 @@
     grid_label: gn
     version: v20190627
 
-- path: CMIP6/ScenarioMIP/AWI/AWI-CM-1-1-MR/ssp245/r1i1p1f1/3hr/tas/gn/v20190529
-  ds_id: CMIP6.ScenarioMIP.AWI.AWI-CM-1-1-MR.ssp245.r1i1p1f1.3hr.tas.gn.v20190529
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 251288 192 384
-  time: 2015-01-01T03:00:00 2101-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 76425731784
-  size_gb: 76.43
-  file_count: 86
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: AWI
-    source_id: AWI-CM-1-1-MR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20190529
-
 - path: CMIP6/ScenarioMIP/MIROC/MIROC6/ssp245/r1i1p1f1/day/pr/gn/v20191016
   ds_id: CMIP6.ScenarioMIP.MIROC.MIROC6.ssp245.r1i1p1f1.day.pr.gn.v20191016
   var_id: pr
@@ -7941,30 +7252,6 @@
     grid_label: gn
     version: v20190529
 
-- path: CMIP6/CMIP/MIROC/MIROC6/historical/r1i1p1f1/3hr/uas/gn/v20190912
-  ds_id: CMIP6.CMIP.MIROC.MIROC6.historical.r1i1p1f1.3hr.uas.gn.v20190912
-  var_id: uas
-  array_dims: time lat lon
-  array_shape: 482120 128 256
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 10.00 10.00
-  latitude: -88.93 88.93
-  longitude: 0.00 358.59
-  size: 66158437960
-  size_gb: 66.16
-  file_count: 165
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MIROC
-    source_id: MIROC6
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: uas
-    grid_label: gn
-    version: v20190912
-
 - path: CMIP6/ScenarioMIP/AWI/AWI-CM-1-1-MR/ssp245/r1i1p1f1/Amon/hfls/gn/v20190529
   ds_id: CMIP6.ScenarioMIP.AWI.AWI-CM-1-1-MR.ssp245.r1i1p1f1.Amon.hfls.gn.v20190529
   var_id: hfls
@@ -8011,29 +7298,6 @@
     variable_id: tasmin
     grid_label: gn
     version: v20191016
-
-- path: CMIP6/ScenarioMIP/MIROC/MIROC6/ssp245/r1i1p1f1/LImon/snc/gn/v20190627
-  ds_id: CMIP6.ScenarioMIP.MIROC.MIROC6.ssp245.r1i1p1f1.LImon.snc.gn.v20190627
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1032 128 256
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -88.93 88.93
-  longitude: 0.00 358.59
-  size: 135300288
-  size_gb: 0.14
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MIROC
-    source_id: MIROC6
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
-    grid_label: gn
-    version: v20190627
 
 - path: CMIP6/ScenarioMIP/MIROC/MIROC6/ssp370/r1i1p1f1/Amon/evspsbl/gn/v20190627
   ds_id: CMIP6.ScenarioMIP.MIROC.MIROC6.ssp370.r1i1p1f1.Amon.evspsbl.gn.v20190627
@@ -8427,30 +7691,6 @@
     variable_id: tas
     grid_label: gn
     version: v20191016
-
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp245/r1i1p1f1/3hr/tas/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp245.r1i1p1f1.3hr.tas.gn.v20190710
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 251288 192 384
-  time: 2015-01-01T03:00:00 2101-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 76425731784
-  size_gb: 76.43
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20190710
 
 - path: CMIP6/ScenarioMIP/AWI/AWI-CM-1-1-MR/ssp245/r1i1p1f1/Amon/psl/gn/v20190529
   ds_id: CMIP6.ScenarioMIP.AWI.AWI-CM-1-1-MR.ssp245.r1i1p1f1.Amon.psl.gn.v20190529
@@ -9352,29 +8592,6 @@
     grid_label: gn
     version: v20191016
 
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp245/r1i1p1f1/day/mrro/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp245.r1i1p1f1.day.mrro.gn.v20190710
-  var_id: mrro
-  array_dims: time lat lon
-  array_shape: 31411 192 384
-  time: 2015-01-01T12:00:00 2100-12-31T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 9553723080
-  size_gb: 9.55
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: mrro
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp245/r1i1p1f1/day/pr/gn/v20190710
   ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp245.r1i1p1f1.day.pr.gn.v20190710
   var_id: pr
@@ -9817,29 +9034,6 @@
     grid_label: gn
     version: v20190710
 
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp245/r1i1p1f1/Lmon/gpp/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp245.r1i1p1f1.Lmon.gpp.gn.v20190710
-  var_id: gpp
-  array_dims: time lat lon
-  array_shape: 1032 192 384
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 313889472
-  size_gb: 0.31
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: gpp
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp126/r1i1p1f1/Lmon/mrros/gn/v20190710
   ds_id: CMIP6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp126.r1i1p1f1.Lmon.mrros.gn.v20190710
   var_id: mrros
@@ -9860,29 +9054,6 @@
     member_id: r1i1p1f1
     table_id: Lmon
     variable_id: mrros
-    grid_label: gn
-    version: v20190710
-
-- path: CMIP6/ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp126/r1i1p1f1/Lmon/mrso/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp126.r1i1p1f1.Lmon.mrso.gn.v20190710
-  var_id: mrso
-  array_dims: time lat lon
-  array_shape: 1032 96 192
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 80869824
-  size_gb: 0.08
-  file_count: 5
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: ssp126
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: mrso
     grid_label: gn
     version: v20190710
 
@@ -10067,29 +9238,6 @@
     member_id: r1i1p1f1
     table_id: Amon
     variable_id: pr
-    grid_label: gn
-    version: v20190710
-
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp245/r1i1p1f1/Lmon/mrso/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp245.r1i1p1f1.Lmon.mrso.gn.v20190710
-  var_id: mrso
-  array_dims: time lat lon
-  array_shape: 1032 192 384
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 313889472
-  size_gb: 0.31
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: mrso
     grid_label: gn
     version: v20190710
 
@@ -10371,29 +9519,6 @@
     grid_label: gn
     version: v20190710
 
-- path: CMIP6/ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp245/r1i1p1f1/LImon/snc/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp245.r1i1p1f1.LImon.snc.gn.v20190710
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1032 96 192
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 80869824
-  size_gb: 0.08
-  file_count: 5
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/ScenarioMIP/AWI/AWI-CM-1-1-MR/ssp245/r1i1p1f1/day/tasmax/gn/v20190529
   ds_id: CMIP6.ScenarioMIP.AWI.AWI-CM-1-1-MR.ssp245.r1i1p1f1.day.tasmax.gn.v20190529
   var_id: tasmax
@@ -10417,29 +9542,6 @@
     variable_id: tasmax
     grid_label: gn
     version: v20190529
-
-- path: CMIP6/ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp245/r1i1p1f1/Lmon/lai/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp245.r1i1p1f1.Lmon.lai.gn.v20190710
-  var_id: lai
-  array_dims: time lat lon
-  array_shape: 1032 96 192
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 80869824
-  size_gb: 0.08
-  file_count: 5
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: lai
-    grid_label: gn
-    version: v20190710
 
 - path: CMIP6/ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp245/r1i1p1f1/Lmon/mrro/gn/v20190710
   ds_id: CMIP6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp245.r1i1p1f1.Lmon.mrro.gn.v20190710
@@ -10765,30 +9867,6 @@
     grid_label: gn
     version: v20190529
 
-- path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp245/r1i1p1f1/3hr/huss/gn/v20190829
-  ds_id: CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp245.r1i1p1f1.3hr.huss.gn.v20190829
-  var_id: huss
-  array_dims: time lat lon
-  array_shape: 251288 160 320
-  time: 2015-01-01T00:00:00 2100-12-31T21:00:00
-  level: 2.00 2.00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 53395688392
-  size_gb: 53.4
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MRI
-    source_id: MRI-ESM2-0
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: huss
-    grid_label: gn
-    version: v20190829
-
 - path: CMIP6/ScenarioMIP/AWI/AWI-CM-1-1-MR/ssp370/r1i1p1f1/day/huss/gn/v20190529
   ds_id: CMIP6.ScenarioMIP.AWI.AWI-CM-1-1-MR.ssp370.r1i1p1f1.day.huss.gn.v20190529
   var_id: huss
@@ -10812,30 +9890,6 @@
     variable_id: huss
     grid_label: gn
     version: v20190529
-
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp370/r1i1p1f1/3hr/tas/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp370.r1i1p1f1.3hr.tas.gn.v20190710
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 251288 192 384
-  time: 2015-01-01T03:00:00 2101-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 76425731784
-  size_gb: 76.43
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp370
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20190710
 
 - path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp370/r1i1p1f1/Amon/evspsbl/gn/v20190710
   ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp370.r1i1p1f1.Amon.evspsbl.gn.v20190710
@@ -11160,29 +10214,6 @@
     grid_label: gn
     version: v20190710
 
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp370/r1i1p1f1/day/mrro/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp370.r1i1p1f1.day.mrro.gn.v20190710
-  var_id: mrro
-  array_dims: time lat lon
-  array_shape: 31411 192 384
-  time: 2015-01-01T12:00:00 2100-12-31T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 9553723080
-  size_gb: 9.55
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp370
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: mrro
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/ScenarioMIP/AWI/AWI-CM-1-1-MR/ssp370/r1i1p1f1/day/tasmin/gn/v20190529
   ds_id: CMIP6.ScenarioMIP.AWI.AWI-CM-1-1-MR.ssp370.r1i1p1f1.day.tasmin.gn.v20190529
   var_id: tasmin
@@ -11206,30 +10237,6 @@
     variable_id: tasmin
     grid_label: gn
     version: v20190529
-
-- path: CMIP6/CMIP/MIROC/MIROC6/historical/r1i1p1f1/3hr/vas/gn/v20190912
-  ds_id: CMIP6.CMIP.MIROC.MIROC6.historical.r1i1p1f1.3hr.vas.gn.v20190912
-  var_id: vas
-  array_dims: time lat lon
-  array_shape: 482120 128 256
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 10.00 10.00
-  latitude: -88.93 88.93
-  longitude: 0.00 358.59
-  size: 66158437960
-  size_gb: 66.16
-  file_count: 165
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MIROC
-    source_id: MIROC6
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: vas
-    grid_label: gn
-    version: v20190912
 
 - path: CMIP6/CMIP/MIROC/MIROC6/historical/r1i1p1f1/Amon/clt/gn/v20190311
   ds_id: CMIP6.CMIP.MIROC.MIROC6.historical.r1i1p1f1.Amon.clt.gn.v20190311
@@ -11600,29 +10607,6 @@
     grid_label: gn
     version: v20190311
 
-- path: CMIP6/CMIP/MIROC/MIROC6/historical/r1i1p1f1/Amon/rtmt/gn/v20181212
-  ds_id: CMIP6.CMIP.MIROC.MIROC6.historical.r1i1p1f1.Amon.rtmt.gn.v20181212
-  var_id: rtmt
-  array_dims: time lat lon
-  array_shape: 1980 128 256
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -88.93 88.93
-  longitude: 0.00 358.59
-  size: 271738272
-  size_gb: 0.27
-  file_count: 2
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MIROC
-    source_id: MIROC6
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Amon
-    variable_id: rtmt
-    grid_label: gn
-    version: v20181212
-
 - path: CMIP6/CMIP/MIROC/MIROC6/historical/r1i1p1f1/Amon/ts/gn/v20181212
   ds_id: CMIP6.CMIP.MIROC.MIROC6.historical.r1i1p1f1.Amon.ts.gn.v20181212
   var_id: ts
@@ -11689,29 +10673,6 @@
     member_id: r1i1p1f1
     table_id: Lmon
     variable_id: mrros
-    grid_label: gn
-    version: v20190710
-
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp370/r1i1p1f1/Lmon/mrso/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp370.r1i1p1f1.Lmon.mrso.gn.v20190710
-  var_id: mrso
-  array_dims: time lat lon
-  array_shape: 1032 192 384
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 313889472
-  size_gb: 0.31
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp370
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: mrso
     grid_label: gn
     version: v20190710
 
@@ -11810,30 +10771,6 @@
     grid_label: gn
     version: v20191016
 
-- path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp245/r1i1p1f1/3hr/tas/gn/v20190829
-  ds_id: CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp245.r1i1p1f1.3hr.tas.gn.v20190829
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 251288 160 320
-  time: 2015-01-01T00:00:00 2100-12-31T21:00:00
-  level: 2.00 2.00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 53395688392
-  size_gb: 53.4
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MRI
-    source_id: MRI-ESM2-0
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20190829
-
 - path: CMIP6/CMIP/MIROC/MIROC6/historical/r1i1p1f1/day/tasmin/gn/v20191016
   ds_id: CMIP6.CMIP.MIROC.MIROC6.historical.r1i1p1f1.day.tasmin.gn.v20191016
   var_id: tasmin
@@ -11880,29 +10817,6 @@
     variable_id: clt
     grid_label: gn
     version: v20190222
-
-- path: CMIP6/CMIP/MIROC/MIROC6/historical/r1i1p1f1/LImon/snc/gn/v20181212
-  ds_id: CMIP6.CMIP.MIROC.MIROC6.historical.r1i1p1f1.LImon.snc.gn.v20181212
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1980 128 256
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -88.93 88.93
-  longitude: 0.00 358.59
-  size: 271738272
-  size_gb: 0.27
-  file_count: 2
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MIROC
-    source_id: MIROC6
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
-    grid_label: gn
-    version: v20181212
 
 - path: CMIP6/CMIP/MIROC/MIROC6/historical/r1i1p1f1/Omon/sos/gn/v20181212
   ds_id: CMIP6.CMIP.MIROC.MIROC6.historical.r1i1p1f1.Omon.sos.gn.v20181212
@@ -12203,29 +11117,6 @@
     grid_label: gn
     version: v20190222
 
-- path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp245/r1i1p1f1/Amon/sbl/gn/v20190222
-  ds_id: CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp245.r1i1p1f1.Amon.sbl.gn.v20190222
-  var_id: sbl
-  array_dims: time lat lon
-  array_shape: 1032 160 320
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 211389888
-  size_gb: 0.21
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MRI
-    source_id: MRI-ESM2-0
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: Amon
-    variable_id: sbl
-    grid_label: gn
-    version: v20190222
-
 - path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp245/r1i1p1f1/Amon/ts/gn/v20190222
   ds_id: CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp245.r1i1p1f1.Amon.ts.gn.v20190222
   var_id: ts
@@ -12319,30 +11210,6 @@
     grid_label: gn
     version: v20190603
 
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp585/r1i1p1f1/3hr/tas/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp585.r1i1p1f1.3hr.tas.gn.v20190710
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 251288 192 384
-  time: 2015-01-01T03:00:00 2101-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 76425731784
-  size_gb: 76.43
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp585
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp245/r1i1p1f1/day/tas/gn/v20190603
   ds_id: CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp245.r1i1p1f1.day.tas.gn.v20190603
   var_id: tas
@@ -12389,30 +11256,6 @@
     variable_id: evspsbl
     grid_label: gn
     version: v20190710
-
-- path: CMIP6/ScenarioMIP/AWI/AWI-CM-1-1-MR/ssp585/r1i1p1f1/3hr/tas/gn/v20190529
-  ds_id: CMIP6.ScenarioMIP.AWI.AWI-CM-1-1-MR.ssp585.r1i1p1f1.3hr.tas.gn.v20190529
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 251288 192 384
-  time: 2015-01-01T03:00:00 2101-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 76425731784
-  size_gb: 76.43
-  file_count: 86
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: AWI
-    source_id: AWI-CM-1-1-MR
-    experiment_id: ssp585
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20190529
 
 - path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp585/r1i1p1f1/Amon/pr/gn/v20190710
   ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp585.r1i1p1f1.Amon.pr.gn.v20190710
@@ -12785,29 +11628,6 @@
     grid_label: gn
     version: v20190529
 
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp585/r1i1p1f1/day/mrro/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp585.r1i1p1f1.day.mrro.gn.v20190710
-  var_id: mrro
-  array_dims: time lat lon
-  array_shape: 31411 192 384
-  time: 2015-01-01T12:00:00 2100-12-31T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 9553723080
-  size_gb: 9.55
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp585
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: mrro
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/ScenarioMIP/AWI/AWI-CM-1-1-MR/ssp585/r1i1p1f1/Amon/ps/gn/v20190529
   ds_id: CMIP6.ScenarioMIP.AWI.AWI-CM-1-1-MR.ssp585.r1i1p1f1.Amon.ps.gn.v20190529
   var_id: ps
@@ -12992,29 +11812,6 @@
     variable_id: rlut
     grid_label: gn
     version: v20190529
-
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp585/r1i1p1f1/Lmon/mrso/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp585.r1i1p1f1.Lmon.mrso.gn.v20190710
-  var_id: mrso
-  array_dims: time lat lon
-  array_shape: 1032 192 384
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 313889472
-  size_gb: 0.31
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp585
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: mrso
-    grid_label: gn
-    version: v20190710
 
 - path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp585/r1i1p1f1/Lmon/mrsos/gn/v20190710
   ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp585.r1i1p1f1.Lmon.mrsos.gn.v20190710
@@ -13223,30 +12020,6 @@
     variable_id: prsn
     grid_label: gr1
     version: v20190603
-
-- path: CMIP6/CMIP/AWI/AWI-CM-1-1-MR/historical/r1i1p1f1/3hr/vas/gn/v20181218
-  ds_id: CMIP6.CMIP.AWI.AWI-CM-1-1-MR.historical.r1i1p1f1.3hr.vas.gn.v20181218
-  var_id: vas
-  array_dims: time lat lon
-  array_shape: 482120 192 384
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 10.00 10.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 146630052936
-  size_gb: 146.63
-  file_count: 165
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: AWI
-    source_id: AWI-CM-1-1-MR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: vas
-    grid_label: gn
-    version: v20181218
 
 - path: CMIP6/ScenarioMIP/INM/INM-CM4-8/ssp126/r1i1p1f1/Amon/prw/gr1/v20190603
   ds_id: CMIP6.ScenarioMIP.INM.INM-CM4-8.ssp126.r1i1p1f1.Amon.prw.gr1.v20190603
@@ -15545,29 +14318,6 @@
     grid_label: gr1
     version: v20190619
 
-- path: CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp245/r1i1p1f1/LImon/snc/gn/v20190308
-  ds_id: CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp245.r1i1p1f1.LImon.snc.gn.v20190308
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1032 160 320
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 211389888
-  size_gb: 0.21
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: BCC
-    source_id: BCC-CSM2-MR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
-    grid_label: gn
-    version: v20190308
-
 - path: CMIP6/ScenarioMIP/INM/INM-CM5-0/ssp126/r1i1p1f1/day/tas/gr1/v20190619
   ds_id: CMIP6.ScenarioMIP.INM.INM-CM5-0.ssp126.r1i1p1f1.day.tas.gr1.v20190619
   var_id: tas
@@ -15846,30 +14596,6 @@
     variable_id: rlut
     grid_label: gn
     version: v20190314
-
-- path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp370/r1i1p1f1/3hr/tas/gn/v20190829
-  ds_id: CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp370.r1i1p1f1.3hr.tas.gn.v20190829
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 251288 160 320
-  time: 2015-01-01T00:00:00 2100-12-31T21:00:00
-  level: 2.00 2.00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 53395688392
-  size_gb: 53.4
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MRI
-    source_id: MRI-ESM2-0
-    experiment_id: ssp370
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20190829
 
 - path: CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp585/r1i1p1f1/Amon/rsds/gn/v20190314
   ds_id: CMIP6.ScenarioMIP.BCC.BCC-CSM2-MR.ssp585.r1i1p1f1.Amon.rsds.gn.v20190314
@@ -16194,29 +14920,6 @@
     grid_label: gr1
     version: v20190619
 
-- path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp370/r1i1p1f1/Amon/sbl/gn/v20190222
-  ds_id: CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp370.r1i1p1f1.Amon.sbl.gn.v20190222
-  var_id: sbl
-  array_dims: time lat lon
-  array_shape: 1032 160 320
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 211389888
-  size_gb: 0.21
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MRI
-    source_id: MRI-ESM2-0
-    experiment_id: ssp370
-    member_id: r1i1p1f1
-    table_id: Amon
-    variable_id: sbl
-    grid_label: gn
-    version: v20190222
-
 - path: CMIP6/ScenarioMIP/CAMS/CAMS-CSM1-0/ssp119/r1i1p1f1/Amon/rlut/gn/v20190708
   ds_id: CMIP6.ScenarioMIP.CAMS.CAMS-CSM1-0.ssp119.r1i1p1f1.Amon.rlut.gn.v20190708
   var_id: rlut
@@ -16262,30 +14965,6 @@
     variable_id: rsut
     grid_label: gn
     version: v20190708
-
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/3hr/huss/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.3hr.huss.gn.v20190710
-  var_id: huss
-  array_dims: time lat lon
-  array_shape: 482120 192 384
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 146630052936
-  size_gb: 146.63
-  file_count: 33
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-HR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: huss
-    grid_label: gn
-    version: v20190710
 
 - path: CMIP6/ScenarioMIP/CAMS/CAMS-CSM1-0/ssp119/r1i1p1f1/Amon/ts/gn/v20190708
   ds_id: CMIP6.ScenarioMIP.CAMS.CAMS-CSM1-0.ssp119.r1i1p1f1.Amon.ts.gn.v20190708
@@ -17302,29 +15981,6 @@
     grid_label: gn
     version: v20190708
 
-- path: CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/Amon/rtmt/gn/v20181126
-  ds_id: CMIP6.CMIP.BCC.BCC-CSM2-MR.historical.r1i1p1f1.Amon.rtmt.gn.v20181126
-  var_id: rtmt
-  array_dims: time lat lon
-  array_shape: 1980 160 320
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 405563040
-  size_gb: 0.41
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: BCC
-    source_id: BCC-CSM2-MR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Amon
-    variable_id: rtmt
-    grid_label: gn
-    version: v20181126
-
 - path: CMIP6/ScenarioMIP/CAMS/CAMS-CSM1-0/ssp370/r1i1p1f1/Amon/rsut/gn/v20190708
   ds_id: CMIP6.ScenarioMIP.CAMS.CAMS-CSM1-0.ssp370.r1i1p1f1.Amon.rsut.gn.v20190708
   var_id: rsut
@@ -17393,29 +16049,6 @@
     variable_id: ts
     grid_label: gn
     version: v20190708
-
-- path: CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/LImon/snc/gn/v20181114
-  ds_id: CMIP6.CMIP.BCC.BCC-CSM2-MR.historical.r1i1p1f1.LImon.snc.gn.v20181114
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1980 160 320
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 405563040
-  size_gb: 0.41
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: BCC
-    source_id: BCC-CSM2-MR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
-    grid_label: gn
-    version: v20181114
 
 - path: CMIP6/ScenarioMIP/CAMS/CAMS-CSM1-0/ssp585/r1i1p1f1/Amon/pr/gn/v20190708
   ds_id: CMIP6.ScenarioMIP.CAMS.CAMS-CSM1-0.ssp585.r1i1p1f1.Amon.pr.gn.v20190708
@@ -17785,29 +16418,6 @@
     grid_label: gn
     version: v20181214
 
-- path: CMIP6/CMIP/BCC/BCC-ESM1/historical/r1i1p1f1/Amon/rtmt/gn/v20181214
-  ds_id: CMIP6.CMIP.BCC.BCC-ESM1.historical.r1i1p1f1.Amon.rtmt.gn.v20181214
-  var_id: rtmt
-  array_dims: time lat lon
-  array_shape: 1980 64 128
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -87.86 87.86
-  longitude: 0.00 357.19
-  size: 64932768
-  size_gb: 0.06
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: BCC
-    source_id: BCC-ESM1
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Amon
-    variable_id: rtmt
-    grid_label: gn
-    version: v20181214
-
 - path: CMIP6/CMIP/BCC/BCC-ESM1/historical/r1i1p1f1/Amon/ts/gn/v20181214
   ds_id: CMIP6.CMIP.BCC.BCC-ESM1.historical.r1i1p1f1.Amon.ts.gn.v20181214
   var_id: ts
@@ -18015,30 +16625,6 @@
     variable_id: rlut
     grid_label: gn
     version: v20191108
-
-- path: CMIP6/ScenarioMIP/CAS/FGOALS-g3/ssp119/r1i1p1f1/day/hurs/gn/v20191201
-  ds_id: CMIP6.ScenarioMIP.CAS.FGOALS-g3.ssp119.r1i1p1f1.day.hurs.gn.v20191201
-  var_id: hurs
-  array_dims: time lat lon
-  array_shape: 31390 80 180
-  time: 2015-01-01T12:00:00 2100-12-31T12:00:00
-  level: 2.00 2.00
-  latitude: -90.00 90.00
-  longitude: 0.00 358.00
-  size: 1939401848
-  size_gb: 1.94
-  file_count: 86
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: CAS
-    source_id: FGOALS-g3
-    experiment_id: ssp119
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: hurs
-    grid_label: gn
-    version: v20191201
 
 - path: CMIP6/CMIP/BCC/BCC-ESM1/historical/r1i1p1f1/day/tas/gn/v20181220
   ds_id: CMIP6.CMIP.BCC.BCC-ESM1.historical.r1i1p1f1.day.tas.gn.v20181220
@@ -18854,30 +17440,6 @@
     grid_label: gn
     version: v20190429
 
-- path: CMIP6/ScenarioMIP/CCCma/CanESM5/ssp119/r1i1p1f1/day/hurs/gn/v20190429
-  ds_id: CMIP6.ScenarioMIP.CCCma.CanESM5.ssp119.r1i1p1f1.day.hurs.gn.v20190429
-  var_id: hurs
-  array_dims: time lat lon
-  array_shape: 31390 64 128
-  time: 2015-01-01T12:00:00 2100-12-31T12:00:00
-  level: 2.00 2.00
-  latitude: -87.86 87.86
-  longitude: 0.00 357.19
-  size: 1029345496
-  size_gb: 1.03
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: CCCma
-    source_id: CanESM5
-    experiment_id: ssp119
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: hurs
-    grid_label: gn
-    version: v20190429
-
 - path: CMIP6/ScenarioMIP/CCCma/CanESM5/ssp119/r1i1p1f1/day/huss/gn/v20190429
   ds_id: CMIP6.ScenarioMIP.CCCma.CanESM5.ssp119.r1i1p1f1.day.huss.gn.v20190429
   var_id: huss
@@ -19391,30 +17953,6 @@
     grid_label: gr
     version: v20191019
 
-- path: CMIP6/ScenarioMIP/CCCma/CanESM5/ssp126/r1i1p1f1/day/hurs/gn/v20190429
-  ds_id: CMIP6.ScenarioMIP.CCCma.CanESM5.ssp126.r1i1p1f1.day.hurs.gn.v20190429
-  var_id: hurs
-  array_dims: time lat lon
-  array_shape: 104390 64 128
-  time: 2015-01-01T12:00:00 2300-12-31T12:00:00
-  level: 2.00 2.00
-  latitude: -87.86 87.86
-  longitude: 0.00 357.19
-  size: 3743844504
-  size_gb: 3.74
-  file_count: 2
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: CCCma
-    source_id: CanESM5
-    experiment_id: ssp126
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: hurs
-    grid_label: gn
-    version: v20190429
-
 - path: CMIP6/ScenarioMIP/CCCma/CanESM5/ssp126/r1i1p1f1/day/huss/gn/v20190429
   ds_id: CMIP6.ScenarioMIP.CCCma.CanESM5.ssp126.r1i1p1f1.day.huss.gn.v20190429
   var_id: huss
@@ -19438,30 +17976,6 @@
     variable_id: huss
     grid_label: gn
     version: v20190429
-
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/3hr/tas/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.3hr.tas.gn.v20190710
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 482120 192 384
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 146630052936
-  size_gb: 146.63
-  file_count: 33
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-HR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20190710
 
 - path: CMIP6/CMIP/CAS/FGOALS-f3-L/historical/r1i1p1f1/day/tas/gr/v20191019
   ds_id: CMIP6.CMIP.CAS.FGOALS-f3-L.historical.r1i1p1f1.day.tas.gr.v20191019
@@ -20135,30 +18649,6 @@
     grid_label: gn
     version: v20190818
 
-- path: CMIP6/ScenarioMIP/CCCma/CanESM5/ssp245/r1i1p1f1/day/hurs/gn/v20190429
-  ds_id: CMIP6.ScenarioMIP.CCCma.CanESM5.ssp245.r1i1p1f1.day.hurs.gn.v20190429
-  var_id: hurs
-  array_dims: time lat lon
-  array_shape: 31390 64 128
-  time: 2015-01-01T12:00:00 2100-12-31T12:00:00
-  level: 2.00 2.00
-  latitude: -87.86 87.86
-  longitude: 0.00 357.19
-  size: 1029345496
-  size_gb: 1.03
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: CCCma
-    source_id: CanESM5
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: hurs
-    grid_label: gn
-    version: v20190429
-
 - path: CMIP6/CMIP/CAS/FGOALS-g3/historical/r1i1p1f1/Amon/rsds/gn/v20190818
   ds_id: CMIP6.CMIP.CAS.FGOALS-g3.historical.r1i1p1f1.Amon.rsds.gn.v20190818
   var_id: rsds
@@ -20739,29 +19229,6 @@
     grid_label: gn
     version: v20190429
 
-- path: CMIP6/ScenarioMIP/CCCma/CanESM5/ssp245/r1i1p1f1/LImon/snc/gn/v20190429
-  ds_id: CMIP6.ScenarioMIP.CCCma.CanESM5.ssp245.r1i1p1f1.LImon.snc.gn.v20190429
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1032 64 128
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -87.86 87.86
-  longitude: 0.00 357.19
-  size: 33845952
-  size_gb: 0.03
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: CCCma
-    source_id: CanESM5
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
-    grid_label: gn
-    version: v20190429
-
 - path: CMIP6/ScenarioMIP/CCCma/CanESM5/ssp370/r1i1p1f1/Amon/evspsbl/gn/v20190429
   ds_id: CMIP6.ScenarioMIP.CCCma.CanESM5.ssp370.r1i1p1f1.Amon.evspsbl.gn.v20190429
   var_id: evspsbl
@@ -20970,30 +19437,6 @@
     grid_label: gn
     version: v20190429
 
-- path: CMIP6/CMIP/CCCma/CanESM5/historical/r1i1p1f1/day/hurs/gn/v20190429
-  ds_id: CMIP6.CMIP.CCCma.CanESM5.historical.r1i1p1f1.day.hurs.gn.v20190429
-  var_id: hurs
-  array_dims: time lat lon
-  array_shape: 60225 64 128
-  time: 1850-01-01T12:00:00 2014-12-31T12:00:00
-  level: 2.00 2.00
-  latitude: -87.86 87.86
-  longitude: 0.00 357.19
-  size: 1974902816
-  size_gb: 1.97
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: CCCma
-    source_id: CanESM5
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: hurs
-    grid_label: gn
-    version: v20190429
-
 - path: CMIP6/CMIP/CCCma/CanESM5/historical/r1i1p1f1/day/huss/gn/v20190429
   ds_id: CMIP6.CMIP.CCCma.CanESM5.historical.r1i1p1f1.day.huss.gn.v20190429
   var_id: huss
@@ -21110,29 +19553,6 @@
     member_id: r1i1p1f1
     table_id: day
     variable_id: tasmin
-    grid_label: gn
-    version: v20190429
-
-- path: CMIP6/CMIP/CCCma/CanESM5/historical/r1i1p1f1/LImon/snc/gn/v20190429
-  ds_id: CMIP6.CMIP.CCCma.CanESM5.historical.r1i1p1f1.LImon.snc.gn.v20190429
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1980 64 128
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -87.86 87.86
-  longitude: 0.00 357.19
-  size: 64932768
-  size_gb: 0.06
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: CCCma
-    source_id: CanESM5
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
     grid_label: gn
     version: v20190429
 
@@ -22429,30 +20849,6 @@
     grid_label: gr1
     version: v20190610
 
-- path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp585/r1i1p1f1/3hr/tas/gn/v20191108
-  ds_id: CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp585.r1i1p1f1.3hr.tas.gn.v20191108
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 835672 160 320
-  time: 2015-01-01T00:00:00 2300-12-31T21:00:00
-  level: 2.00 2.00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 177570275784
-  size_gb: 177.57
-  file_count: 29
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MRI
-    source_id: MRI-ESM2-0
-    experiment_id: ssp585
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20191108
-
 - path: CMIP6/CMIP/INM/INM-CM5-0/historical/r1i1p1f1/Amon/rlutcs/gr1/v20190610
   ds_id: CMIP6.CMIP.INM.INM-CM5-0.historical.r1i1p1f1.Amon.rlutcs.gr1.v20190610
   var_id: rlutcs
@@ -23380,29 +21776,6 @@
     grid_label: gn
     version: v20191108
 
-- path: CMIP6/ScenarioMIP/NCC/NorESM2-LM/ssp126/r1i1p1f1/Omon/prsn/gn/v20191108
-  ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-LM.ssp126.r1i1p1f1.Omon.prsn.gn.v20191108
-  var_id: prsn
-  array_dims: time j i
-  array_shape: 1032 385 360
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -80.11 89.76
-  longitude: 0.00 359.99
-  size: 9728638948
-  size_gb: 9.73
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: NCC
-    source_id: NorESM2-LM
-    experiment_id: ssp126
-    member_id: r1i1p1f1
-    table_id: Omon
-    variable_id: prsn
-    grid_label: gn
-    version: v20191108
-
 - path: CMIP6/ScenarioMIP/NCC/NorESM2-LM/ssp126/r1i1p1f1/Omon/zos/gn/v20191108
   ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-LM.ssp126.r1i1p1f1.Omon.zos.gn.v20191108
   var_id: zos
@@ -23794,52 +22167,6 @@
     grid_label: gn
     version: v20191108
 
-- path: CMIP6/ScenarioMIP/NCC/NorESM2-LM/ssp245/r1i1p1f1/LImon/snc/gn/v20191108
-  ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-LM.ssp245.r1i1p1f1.LImon.snc.gn.v20191108
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1031 96 144
-  time: 2015-02-15T00:00:00 2100-12-16T12:00:00
-  latitude: -90.00 90.00
-  longitude: 0.00 357.50
-  size: 60995880
-  size_gb: 0.06
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: NCC
-    source_id: NorESM2-LM
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
-    grid_label: gn
-    version: v20191108
-
-- path: CMIP6/ScenarioMIP/NCC/NorESM2-LM/ssp245/r1i1p1f1/Omon/prsn/gn/v20191108
-  ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-LM.ssp245.r1i1p1f1.Omon.prsn.gn.v20191108
-  var_id: prsn
-  array_dims: time j i
-  array_shape: 1032 385 360
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -80.11 89.76
-  longitude: 0.00 359.99
-  size: 9728638948
-  size_gb: 9.73
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: NCC
-    source_id: NorESM2-LM
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: Omon
-    variable_id: prsn
-    grid_label: gn
-    version: v20191108
-
 - path: CMIP6/ScenarioMIP/NCC/NorESM2-LM/ssp245/r1i1p1f1/Omon/sos/gn/v20191108
   ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-LM.ssp245.r1i1p1f1.Omon.sos.gn.v20191108
   var_id: sos
@@ -24139,29 +22466,6 @@
     grid_label: gn
     version: v20191108
 
-- path: CMIP6/ScenarioMIP/NCC/NorESM2-LM/ssp370/r1i1p1f1/Omon/prsn/gn/v20191108
-  ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-LM.ssp370.r1i1p1f1.Omon.prsn.gn.v20191108
-  var_id: prsn
-  array_dims: time j i
-  array_shape: 1032 385 360
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -80.11 89.76
-  longitude: 0.00 359.99
-  size: 9728638948
-  size_gb: 9.73
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: NCC
-    source_id: NorESM2-LM
-    experiment_id: ssp370
-    member_id: r1i1p1f1
-    table_id: Omon
-    variable_id: prsn
-    grid_label: gn
-    version: v20191108
-
 - path: CMIP6/ScenarioMIP/NCC/NorESM2-LM/ssp370/r1i1p1f1/Omon/zos/gn/v20191108
   ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-LM.ssp370.r1i1p1f1.Omon.zos.gn.v20191108
   var_id: zos
@@ -24415,29 +22719,6 @@
     grid_label: gn
     version: v20191108
 
-- path: CMIP6/ScenarioMIP/NCC/NorESM2-LM/ssp585/r1i1p1f1/Omon/prsn/gn/v20191108
-  ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-LM.ssp585.r1i1p1f1.Omon.prsn.gn.v20191108
-  var_id: prsn
-  array_dims: time j i
-  array_shape: 1032 385 360
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -80.11 89.76
-  longitude: 0.00 359.99
-  size: 9728638948
-  size_gb: 9.73
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: NCC
-    source_id: NorESM2-LM
-    experiment_id: ssp585
-    member_id: r1i1p1f1
-    table_id: Omon
-    variable_id: prsn
-    grid_label: gn
-    version: v20191108
-
 - path: CMIP6/ScenarioMIP/NCC/NorESM2-LM/ssp585/r1i1p1f1/Omon/zos/gn/v20191108
   ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-LM.ssp585.r1i1p1f1.Omon.zos.gn.v20191108
   var_id: zos
@@ -24483,30 +22764,6 @@
     variable_id: evspsbl
     grid_label: gn
     version: v20191108
-
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/3hr/vas/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.3hr.vas.gn.v20190710
-  var_id: vas
-  array_dims: time lat lon
-  array_shape: 482120 192 384
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 10.00 10.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 146630052936
-  size_gb: 146.63
-  file_count: 33
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-HR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: vas
-    grid_label: gn
-    version: v20190710
 
 - path: CMIP6/ScenarioMIP/NCC/NorESM2-MM/ssp126/r1i1p1f1/Amon/pr/gn/v20191108
   ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-MM.ssp126.r1i1p1f1.Amon.pr.gn.v20191108
@@ -24898,29 +23155,6 @@
     variable_id: psl
     grid_label: gn
     version: v20190710
-
-- path: CMIP6/ScenarioMIP/NCC/NorESM2-MM/ssp126/r1i1p1f1/Omon/prsn/gn/v20191108
-  ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-MM.ssp126.r1i1p1f1.Omon.prsn.gn.v20191108
-  var_id: prsn
-  array_dims: time j i
-  array_shape: 1032 385 360
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -80.11 89.76
-  longitude: 0.00 359.99
-  size: 9728638948
-  size_gb: 9.73
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: NCC
-    source_id: NorESM2-MM
-    experiment_id: ssp126
-    member_id: r1i1p1f1
-    table_id: Omon
-    variable_id: prsn
-    grid_label: gn
-    version: v20191108
 
 - path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/rlds/gn/v20190710
   ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.Amon.rlds.gn.v20190710
@@ -25475,29 +23709,6 @@
     grid_label: gn
     version: v20190710
 
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/day/mrro/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.day.mrro.gn.v20190710
-  var_id: mrro
-  array_dims: time lat lon
-  array_shape: 60265 192 384
-  time: 1850-01-01T12:00:00 2014-12-31T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 18329724888
-  size_gb: 18.33
-  file_count: 33
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-HR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: mrro
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/ScenarioMIP/NCC/NorESM2-MM/ssp245/r1i1p1f1/day/pr/gn/v20191108
   ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-MM.ssp245.r1i1p1f1.day.pr.gn.v20191108
   var_id: pr
@@ -25518,29 +23729,6 @@
     member_id: r1i1p1f1
     table_id: day
     variable_id: pr
-    grid_label: gn
-    version: v20191108
-
-- path: CMIP6/ScenarioMIP/NCC/NorESM2-MM/ssp245/r1i1p1f1/LImon/snc/gn/v20191108
-  ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-MM.ssp245.r1i1p1f1.LImon.snc.gn.v20191108
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1031 192 288
-  time: 2015-02-15T00:00:00 2100-12-16T12:00:00
-  latitude: -90.00 90.00
-  longitude: 0.00 358.75
-  size: 235987368
-  size_gb: 0.24
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: NCC
-    source_id: NorESM2-MM
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
     grid_label: gn
     version: v20191108
 
@@ -25867,29 +24055,6 @@
     grid_label: gn
     version: v20191108
 
-- path: CMIP6/ScenarioMIP/NCC/NorESM2-MM/ssp370/r1i1p1f1/Omon/prsn/gn/v20191108
-  ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-MM.ssp370.r1i1p1f1.Omon.prsn.gn.v20191108
-  var_id: prsn
-  array_dims: time j i
-  array_shape: 1032 385 360
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -80.11 89.76
-  longitude: 0.00 359.99
-  size: 9728638948
-  size_gb: 9.73
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: NCC
-    source_id: NorESM2-MM
-    experiment_id: ssp370
-    member_id: r1i1p1f1
-    table_id: Omon
-    variable_id: prsn
-    grid_label: gn
-    version: v20191108
-
 - path: CMIP6/ScenarioMIP/NCC/NorESM2-MM/ssp370/r1i1p1f1/Omon/zos/gn/v20191108
   ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-MM.ssp370.r1i1p1f1.Omon.zos.gn.v20191108
   var_id: zos
@@ -25983,29 +24148,6 @@
     grid_label: gn
     version: v20191108
 
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/LImon/snc/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.LImon.snc.gn.v20190710
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1980 192 384
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 602225568
-  size_gb: 0.6
-  file_count: 33
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-HR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/ScenarioMIP/NCC/NorESM2-MM/ssp585/r1i1p1f1/Amon/ps/gn/v20191108
   ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-MM.ssp585.r1i1p1f1.Amon.ps.gn.v20191108
   var_id: ps
@@ -26052,29 +24194,6 @@
     grid_label: gn
     version: v20191108
 
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Lmon/gpp/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.Lmon.gpp.gn.v20190710
-  var_id: gpp
-  array_dims: time lat lon
-  array_shape: 1980 192 384
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 602225568
-  size_gb: 0.6
-  file_count: 33
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-HR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: gpp
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/ScenarioMIP/NCC/NorESM2-MM/ssp585/r1i1p1f1/Amon/rlutcs/gn/v20191108
   ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-MM.ssp585.r1i1p1f1.Amon.rlutcs.gn.v20191108
   var_id: rlutcs
@@ -26120,29 +24239,6 @@
     variable_id: rlut
     grid_label: gn
     version: v20191108
-
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Lmon/lai/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.Lmon.lai.gn.v20190710
-  var_id: lai
-  array_dims: time lat lon
-  array_shape: 1980 192 384
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 602225568
-  size_gb: 0.6
-  file_count: 33
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-HR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: lai
-    grid_label: gn
-    version: v20190710
 
 - path: CMIP6/ScenarioMIP/NCC/NorESM2-MM/ssp585/r1i1p1f1/Amon/rsds/gn/v20191108
   ds_id: CMIP6.ScenarioMIP.NCC.NorESM2-MM.ssp585.r1i1p1f1.Amon.rsds.gn.v20191108
@@ -26282,29 +24378,6 @@
     grid_label: gn
     version: v20190710
 
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Lmon/mrso/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.Lmon.mrso.gn.v20190710
-  var_id: mrso
-  array_dims: time lat lon
-  array_shape: 1980 192 384
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 602225568
-  size_gb: 0.6
-  file_count: 33
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-HR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: mrso
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Lmon/mrsos/gn/v20190710
   ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.Lmon.mrsos.gn.v20190710
   var_id: mrsos
@@ -26326,29 +24399,6 @@
     member_id: r1i1p1f1
     table_id: Lmon
     variable_id: mrsos
-    grid_label: gn
-    version: v20190710
-
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Lmon/ra/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.Lmon.ra.gn.v20190710
-  var_id: ra
-  array_dims: time lat lon
-  array_shape: 1980 192 384
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 602225568
-  size_gb: 0.6
-  file_count: 33
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-HR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: ra
     grid_label: gn
     version: v20190710
 
@@ -26559,30 +24609,6 @@
     grid_label: gr1
     version: v20180701
 
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/3hr/huss/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.3hr.huss.gn.v20190710
-  var_id: huss
-  array_dims: time lat lon
-  array_shape: 482120 96 192
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 37771211592
-  size_gb: 37.77
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: huss
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/CMIP/IPSL/IPSL-CM6A-LR/historical/r1i1p1f1/Amon/psl/gr/v20180803
   ds_id: CMIP6.CMIP.IPSL.IPSL-CM6A-LR.historical.r1i1p1f1.Amon.psl.gr.v20180803
   var_id: psl
@@ -26674,29 +24700,6 @@
     variable_id: ts
     grid_label: gn
     version: v20190429
-
-- path: CMIP6/ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp245/r1i1p1f1/Lmon/mrso/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp245.r1i1p1f1.Lmon.mrso.gn.v20190710
-  var_id: mrso
-  array_dims: time lat lon
-  array_shape: 1032 96 192
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 80869824
-  size_gb: 0.08
-  file_count: 5
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: mrso
-    grid_label: gn
-    version: v20190710
 
 - path: CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp119/r1i1p1f1/Amon/ts/gr1/v20180701
   ds_id: CMIP6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp119.r1i1p1f1.Amon.ts.gr1.v20180701
@@ -26836,29 +24839,6 @@
     variable_id: rsds
     grid_label: gr1
     version: v20190618
-
-- path: CMIP6/ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp245/r1i1p1f1/Lmon/nbp/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp245.r1i1p1f1.Lmon.nbp.gn.v20190710
-  var_id: nbp
-  array_dims: time lat lon
-  array_shape: 1032 96 192
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 80869824
-  size_gb: 0.08
-  file_count: 5
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: nbp
-    grid_label: gn
-    version: v20190710
 
 - path: CMIP6/ScenarioMIP/INM/INM-CM5-0/ssp370/r1i1p1f1/day/tas/gr1/v20190618
   ds_id: CMIP6.ScenarioMIP.INM.INM-CM5-0.ssp370.r1i1p1f1.day.tas.gr1.v20190618
@@ -27208,30 +25188,6 @@
     grid_label: gr
     version: v20190410
 
-- path: CMIP6/ScenarioMIP/CCCma/CanESM5/ssp370/r1i1p1f1/day/hurs/gn/v20190429
-  ds_id: CMIP6.ScenarioMIP.CCCma.CanESM5.ssp370.r1i1p1f1.day.hurs.gn.v20190429
-  var_id: hurs
-  array_dims: time lat lon
-  array_shape: 31390 64 128
-  time: 2015-01-01T12:00:00 2100-12-31T12:00:00
-  level: 2.00 2.00
-  latitude: -87.86 87.86
-  longitude: 0.00 357.19
-  size: 1029345496
-  size_gb: 1.03
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: CCCma
-    source_id: CanESM5
-    experiment_id: ssp370
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: hurs
-    grid_label: gn
-    version: v20190429
-
 - path: CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp119/r1i1p1f1/Amon/ps/gr/v20190410
   ds_id: CMIP6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp119.r1i1p1f1.Amon.ps.gr.v20190410
   var_id: ps
@@ -27323,30 +25279,6 @@
     variable_id: psl
     grid_label: gn
     version: v20190710
-
-- path: CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp119/r1i1p1f1/day/hurs/gr/v20200219
-  ds_id: CMIP6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp119.r1i1p1f1.day.hurs.gr.v20200219
-  var_id: hurs
-  array_dims: time lat lon
-  array_shape: 31411 143 144
-  time: 2015-01-01T12:00:00 2100-12-31T12:00:00
-  level: 2.00 2.00
-  latitude: -90.00 90.00
-  longitude: 0.00 357.50
-  size: 2588016268
-  size_gb: 2.59
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: IPSL
-    source_id: IPSL-CM6A-LR
-    experiment_id: ssp119
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: hurs
-    grid_label: gr
-    version: v20200219
 
 - path: CMIP6/ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp585/r1i1p1f1/Amon/ts/gn/v20190710
   ds_id: CMIP6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp585.r1i1p1f1.Amon.ts.gn.v20190710
@@ -27673,29 +25605,6 @@
     grid_label: gr
     version: v20190119
 
-- path: CMIP6/ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp585/r1i1p1f1/Lmon/mrso/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp585.r1i1p1f1.Lmon.mrso.gn.v20190710
-  var_id: mrso
-  array_dims: time lat lon
-  array_shape: 1032 96 192
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 80869824
-  size_gb: 0.08
-  file_count: 5
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: ssp585
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: mrso
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/ScenarioMIP/CCCma/CanESM5/ssp370/r1i1p1f1/day/tasmin/gn/v20190429
   ds_id: CMIP6.ScenarioMIP.CCCma.CanESM5.ssp370.r1i1p1f1.day.tasmin.gn.v20190429
   var_id: tasmin
@@ -27719,29 +25628,6 @@
     variable_id: tasmin
     grid_label: gn
     version: v20190429
-
-- path: CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp245/r1i1p1f1/Amon/rtmt/gr/v20190119
-  ds_id: CMIP6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp245.r1i1p1f1.Amon.rtmt.gr.v20190119
-  var_id: rtmt
-  array_dims: time lat lon
-  array_shape: 1032 143 144
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -90.00 90.00
-  longitude: 0.00 357.50
-  size: 85029692
-  size_gb: 0.09
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: IPSL
-    source_id: IPSL-CM6A-LR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: Amon
-    variable_id: rtmt
-    grid_label: gr
-    version: v20190119
 
 - path: CMIP6/ScenarioMIP/CCCma/CanESM5/ssp534-over/r1i1p1f1/Amon/evspsbl/gn/v20190429
   ds_id: CMIP6.ScenarioMIP.CCCma.CanESM5.ssp534-over.r1i1p1f1.Amon.evspsbl.gn.v20190429
@@ -28416,30 +26302,6 @@
     grid_label: gr1
     version: v20180701
 
-- path: CMIP6/CMIP/CCCma/CanESM5/historical/r1i1p1f1/day/ua/gn/v20190429
-  ds_id: CMIP6.CMIP.CCCma.CanESM5.historical.r1i1p1f1.day.ua.gn.v20190429
-  var_id: ua
-  array_dims: time plev lat lon
-  array_shape: 60225 8 64 128
-  time: 1850-01-01T12:00:00 2014-12-31T12:00:00
-  latitude: -87.86 87.86
-  longitude: 0.00 357.19
-  level: 1000.00 100000.00
-  size: 15974080600
-  size_gb: 15.97
-  file_count: 17
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: CCCma
-    source_id: CanESM5
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: ua
-    grid_label: gn
-    version: v20190429
-
 - path: CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp126/r1i1p1f1/Amon/rsut/gr1/v20180701
   ds_id: CMIP6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp126.r1i1p1f1.Amon.rsut.gr1.v20180701
   var_id: rsut
@@ -28762,30 +26624,6 @@
     variable_id: ts
     grid_label: gn
     version: v20190807
-
-- path: CMIP6/ScenarioMIP/CCCma/CanESM5/ssp585/r1i1p1f1/day/hurs/gn/v20190429
-  ds_id: CMIP6.ScenarioMIP.CCCma.CanESM5.ssp585.r1i1p1f1.day.hurs.gn.v20190429
-  var_id: hurs
-  array_dims: time lat lon
-  array_shape: 60590 64 128
-  time: 2015-01-01T12:00:00 2180-12-31T12:00:00
-  level: 2.00 2.00
-  latitude: -87.86 87.86
-  longitude: 0.00 357.19
-  size: 2173001304
-  size_gb: 2.17
-  file_count: 2
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: CCCma
-    source_id: CanESM5
-    experiment_id: ssp585
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: hurs
-    grid_label: gn
-    version: v20190429
 
 - path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp119/r1i1p1f1/day/pr/gn/v20190603
   ds_id: CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp119.r1i1p1f1.day.pr.gn.v20190603
@@ -29904,54 +27742,6 @@
     grid_label: gn
     version: v20190314
 
-- path: CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp119/r1i1p1f1/day/ua/gr/v20190410
-  ds_id: CMIP6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp119.r1i1p1f1.day.ua.gr.v20190410
-  var_id: ua
-  array_dims: time plev lat lon
-  array_shape: 31411 8 143 144
-  time: 2015-01-01T12:00:00 2100-12-31T12:00:00
-  latitude: -90.00 90.00
-  longitude: 0.00 357.50
-  level: 1000.00 100000.00
-  size: 20698845028
-  size_gb: 20.7
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: IPSL
-    source_id: IPSL-CM6A-LR
-    experiment_id: ssp119
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: ua
-    grid_label: gr
-    version: v20190410
-
-- path: CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp119/r1i1p1f1/day/va/gr/v20190410
-  ds_id: CMIP6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp119.r1i1p1f1.day.va.gr.v20190410
-  var_id: va
-  array_dims: time plev lat lon
-  array_shape: 31411 8 143 144
-  time: 2015-01-01T12:00:00 2100-12-31T12:00:00
-  latitude: -90.00 90.00
-  longitude: 0.00 357.50
-  level: 1000.00 100000.00
-  size: 20698845028
-  size_gb: 20.7
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: IPSL
-    source_id: IPSL-CM6A-LR
-    experiment_id: ssp119
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: va
-    grid_label: gr
-    version: v20190410
-
 - path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/Amon/ts/gn/v20190710
   ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp126.r1i1p1f1.Amon.ts.gn.v20190710
   var_id: ts
@@ -30600,29 +28390,6 @@
     grid_label: gn
     version: v20190708
 
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp245/r1i1p1f1/LImon/snc/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp245.r1i1p1f1.LImon.snc.gn.v20190710
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1032 192 384
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 313889472
-  size_gb: 0.31
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/ScenarioMIP/CAMS/CAMS-CSM1-0/ssp245/r1i1p1f1/Amon/ts/gn/v20190708
   ds_id: CMIP6.ScenarioMIP.CAMS.CAMS-CSM1-0.ssp245.r1i1p1f1.Amon.ts.gn.v20190708
   var_id: ts
@@ -30669,29 +28436,6 @@
     grid_label: gn
     version: v20190710
 
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp245/r1i1p1f1/Lmon/lai/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp245.r1i1p1f1.Lmon.lai.gn.v20190710
-  var_id: lai
-  array_dims: time lat lon
-  array_shape: 1032 192 384
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 313889472
-  size_gb: 0.31
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: lai
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/ScenarioMIP/CAMS/CAMS-CSM1-0/ssp370/r1i1p1f1/Amon/rsutcs/gn/v20190916
   ds_id: CMIP6.ScenarioMIP.CAMS.CAMS-CSM1-0.ssp370.r1i1p1f1.Amon.rsutcs.gn.v20190916
   var_id: rsutcs
@@ -30714,29 +28458,6 @@
     variable_id: rsutcs
     grid_label: gn
     version: v20190916
-
-- path: CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp245/r1i1p1f1/Lmon/landCoverFrac/gn/v20190815
-  ds_id: CMIP6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp245.r1i1p1f1.Lmon.landCoverFrac.gn.v20190815
-  var_id: landCoverFrac
-  array_dims: time type lat lon
-  array_shape: 1032 14 192 384
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 4270429284
-  size_gb: 4.27
-  file_count: 18
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: DKRZ
-    source_id: MPI-ESM1-2-HR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: landCoverFrac
-    grid_label: gn
-    version: v20190815
 
 - path: CMIP6/ScenarioMIP/CAMS/CAMS-CSM1-0/ssp585/r1i1p1f1/Amon/ps/gn/v20190708
   ds_id: CMIP6.ScenarioMIP.CAMS.CAMS-CSM1-0.ssp585.r1i1p1f1.Amon.ps.gn.v20190708
@@ -30827,29 +28548,6 @@
     member_id: r1i1p1f1
     table_id: Amon
     variable_id: rlutcs
-    grid_label: gn
-    version: v20190710
-
-- path: CMIP6/ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp245/r1i1p1f1/Lmon/gpp/gn/v20190710
-  ds_id: CMIP6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp245.r1i1p1f1.Lmon.gpp.gn.v20190710
-  var_id: gpp
-  array_dims: time lat lon
-  array_shape: 1032 96 192
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 80869824
-  size_gb: 0.08
-  file_count: 5
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: gpp
     grid_label: gn
     version: v20190710
 
@@ -31064,29 +28762,6 @@
     table_id: Amon
     variable_id: pr
     grid_label: gr1
-    version: v20190603
-
-- path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp245/r1i1p1f1/LImon/snc/gn/v20190603
-  ds_id: CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp245.r1i1p1f1.LImon.snc.gn.v20190603
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1032 160 320
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 211389888
-  size_gb: 0.21
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: MRI
-    source_id: MRI-ESM2-0
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
-    grid_label: gn
     version: v20190603
 
 - path: CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp370/r1i1p1f1/Amon/evspsbl/gn/v20190222
@@ -31827,30 +29502,6 @@
     grid_label: gn
     version: v20191108
 
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/3hr/uas/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.3hr.uas.gn.v20190710
-  var_id: uas
-  array_dims: time lat lon
-  array_shape: 482120 192 384
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 10.00 10.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 146630052936
-  size_gb: 146.63
-  file_count: 33
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-HR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: uas
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/rsutcs/gn/v20190710
   ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.Amon.rsutcs.gn.v20190710
   var_id: rsutcs
@@ -31897,54 +29548,6 @@
     variable_id: tas
     grid_label: gn
     version: v20190710
-
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/3hr/tas/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.3hr.tas.gn.v20190710
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 482120 96 192
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 37771211592
-  size_gb: 37.77
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20190710
-
-- path: CMIP6/CMIP/AWI/AWI-CM-1-1-MR/historical/r1i1p1f1/3hr/uas/gn/v20181218
-  ds_id: CMIP6.CMIP.AWI.AWI-CM-1-1-MR.historical.r1i1p1f1.3hr.uas.gn.v20181218
-  var_id: uas
-  array_dims: time lat lon
-  array_shape: 482120 192 384
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 10.00 10.00
-  latitude: -89.28 89.28
-  longitude: 0.00 359.06
-  size: 146630052936
-  size_gb: 146.63
-  file_count: 165
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: AWI
-    source_id: AWI-CM-1-1-MR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: uas
-    grid_label: gn
-    version: v20181218
 
 - path: CMIP6/CMIP/AWI/AWI-CM-1-1-MR/historical/r1i1p1f1/day/tas/gn/v20181218
   ds_id: CMIP6.CMIP.AWI.AWI-CM-1-1-MR.historical.r1i1p1f1.day.tas.gn.v20181218
@@ -32177,30 +29780,6 @@
     grid_label: gn
     version: v20190818
 
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/3hr/uas/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.3hr.uas.gn.v20190710
-  var_id: uas
-  array_dims: time lat lon
-  array_shape: 482120 96 192
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 10.00 10.00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 37771211592
-  size_gb: 37.77
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: uas
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/CMIP/CCCma/CanESM5/historical/r1i1p1f1/Amon/rsutcs/gn/v20190429
   ds_id: CMIP6.CMIP.CCCma.CanESM5.historical.r1i1p1f1.Amon.rsutcs.gn.v20190429
   var_id: rsutcs
@@ -32269,30 +29848,6 @@
     variable_id: rsds
     grid_label: gr1
     version: v20190610
-
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/3hr/vas/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.3hr.vas.gn.v20190710
-  var_id: vas
-  array_dims: time lat lon
-  array_shape: 482120 96 192
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 10.00 10.00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 37771211592
-  size_gb: 37.77
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: vas
-    grid_label: gn
-    version: v20190710
 
 - path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/Amon/clt/gn/v20190710
   ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.Amon.clt.gn.v20190710
@@ -32709,29 +30264,6 @@
     grid_label: gn
     version: v20190710
 
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/day/mrro/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.day.mrro.gn.v20190710
-  var_id: mrro
-  array_dims: time lat lon
-  array_shape: 60265 96 192
-  time: 1850-01-01T12:00:00 2014-12-31T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 4722367704
-  size_gb: 4.72
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: day
-    variable_id: mrro
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/day/pr/gn/v20190710
   ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.day.pr.gn.v20190710
   var_id: pr
@@ -32827,121 +30359,6 @@
     grid_label: gn
     version: v20190710
 
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/LImon/snc/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.LImon.snc.gn.v20190710
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1980 96 192
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 155155104
-  size_gb: 0.16
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
-    grid_label: gn
-    version: v20190710
-
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/Lmon/cProduct/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.Lmon.cProduct.gn.v20190710
-  var_id: cProduct
-  array_dims: time lat lon
-  array_shape: 1980 96 192
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 155155104
-  size_gb: 0.16
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: cProduct
-    grid_label: gn
-    version: v20190710
-
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/Lmon/gpp/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.Lmon.gpp.gn.v20190710
-  var_id: gpp
-  array_dims: time lat lon
-  array_shape: 1980 96 192
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 155155104
-  size_gb: 0.16
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: gpp
-    grid_label: gn
-    version: v20190710
-
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/Lmon/lai/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.Lmon.lai.gn.v20190710
-  var_id: lai
-  array_dims: time lat lon
-  array_shape: 1980 96 192
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 155155104
-  size_gb: 0.16
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: lai
-    grid_label: gn
-    version: v20190710
-
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/Lmon/landCoverFrac/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.Lmon.landCoverFrac.gn.v20190710
-  var_id: landCoverFrac
-  array_dims: time type lat lon
-  array_shape: 1980 14 96 192
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 2052914244
-  size_gb: 2.05
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: landCoverFrac
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/Lmon/mrro/gn/v20190710
   ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.Lmon.mrro.gn.v20190710
   var_id: mrro
@@ -32988,29 +30405,6 @@
     grid_label: gn
     version: v20190710
 
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/Lmon/mrso/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.Lmon.mrso.gn.v20190710
-  var_id: mrso
-  array_dims: time lat lon
-  array_shape: 1980 96 192
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 155155104
-  size_gb: 0.16
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: mrso
-    grid_label: gn
-    version: v20190710
-
 - path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/Lmon/mrsos/gn/v20190710
   ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.Lmon.mrsos.gn.v20190710
   var_id: mrsos
@@ -33034,171 +30428,6 @@
     variable_id: mrsos
     grid_label: gn
     version: v20190710
-
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/Lmon/nbp/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.Lmon.nbp.gn.v20190710
-  var_id: nbp
-  array_dims: time lat lon
-  array_shape: 1980 96 192
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 155155104
-  size_gb: 0.16
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: nbp
-    grid_label: gn
-    version: v20190710
-
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/Lmon/ra/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.Lmon.ra.gn.v20190710
-  var_id: ra
-  array_dims: time lat lon
-  array_shape: 1980 96 192
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 155155104
-  size_gb: 0.16
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: ra
-    grid_label: gn
-    version: v20190710
-
-- path: CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/Lmon/rh/gn/v20190710
-  ds_id: CMIP6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.Lmon.rh.gn.v20190710
-  var_id: rh
-  array_dims: time lat lon
-  array_shape: 1980 96 192
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -88.57 88.57
-  longitude: 0.00 358.12
-  size: 155155104
-  size_gb: 0.16
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MPI-M
-    source_id: MPI-ESM1-2-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: rh
-    grid_label: gn
-    version: v20190710
-
-- path: CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/3hr/huss/gn/v20190722
-  ds_id: CMIP6.CMIP.MRI.MRI-ESM2-0.historical.r1i1p1f1.3hr.huss.gn.v20190722
-  var_id: huss
-  array_dims: time lat lon
-  array_shape: 160712 160 320
-  time: 1960-01-01T00:00:00 2014-12-31T21:00:00
-  level: 2.00 2.00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 34149375304
-  size_gb: 34.15
-  file_count: 6
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MRI
-    source_id: MRI-ESM2-0
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: huss
-    grid_label: gn
-    version: v20190722
-
-- path: CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/3hr/tas/gn/v20190722
-  ds_id: CMIP6.CMIP.MRI.MRI-ESM2-0.historical.r1i1p1f1.3hr.tas.gn.v20190722
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 160712 160 320
-  time: 1960-01-01T00:00:00 2014-12-31T21:00:00
-  level: 2.00 2.00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 34149375304
-  size_gb: 34.15
-  file_count: 6
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MRI
-    source_id: MRI-ESM2-0
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20190722
-
-- path: CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/3hr/uas/gn/v20190722
-  ds_id: CMIP6.CMIP.MRI.MRI-ESM2-0.historical.r1i1p1f1.3hr.uas.gn.v20190722
-  var_id: uas
-  array_dims: time lat lon
-  array_shape: 160712 160 320
-  time: 1960-01-01T00:00:00 2014-12-31T21:00:00
-  level: 10.00 10.00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 34149375304
-  size_gb: 34.15
-  file_count: 6
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MRI
-    source_id: MRI-ESM2-0
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: uas
-    grid_label: gn
-    version: v20190722
-
-- path: CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/3hr/vas/gn/v20190722
-  ds_id: CMIP6.CMIP.MRI.MRI-ESM2-0.historical.r1i1p1f1.3hr.vas.gn.v20190722
-  var_id: vas
-  array_dims: time lat lon
-  array_shape: 160712 160 320
-  time: 1960-01-01T00:00:00 2014-12-31T21:00:00
-  level: 10.00 10.00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 34149375304
-  size_gb: 34.15
-  file_count: 6
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MRI
-    source_id: MRI-ESM2-0
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: vas
-    grid_label: gn
-    version: v20190722
 
 - path: CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Amon/clt/gn/v20190222
   ds_id: CMIP6.CMIP.MRI.MRI-ESM2-0.historical.r1i1p1f1.Amon.clt.gn.v20190222
@@ -33568,29 +30797,6 @@
     grid_label: gn
     version: v20190222
 
-- path: CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Amon/sbl/gn/v20190222
-  ds_id: CMIP6.CMIP.MRI.MRI-ESM2-0.historical.r1i1p1f1.Amon.sbl.gn.v20190222
-  var_id: sbl
-  array_dims: time lat lon
-  array_shape: 1980 160 320
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 405563040
-  size_gb: 0.41
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MRI
-    source_id: MRI-ESM2-0
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Amon
-    variable_id: sbl
-    grid_label: gn
-    version: v20190222
-
 - path: CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Amon/ts/gn/v20190222
   ds_id: CMIP6.CMIP.MRI.MRI-ESM2-0.historical.r1i1p1f1.Amon.ts.gn.v20190222
   var_id: ts
@@ -33733,125 +30939,6 @@
     grid_label: gn
     version: v20190603
 
-- path: CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/LImon/snc/gn/v20190603
-  ds_id: CMIP6.CMIP.MRI.MRI-ESM2-0.historical.r1i1p1f1.LImon.snc.gn.v20190603
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1980 160 320
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -89.14 89.14
-  longitude: 0.00 358.88
-  size: 405563040
-  size_gb: 0.41
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: MRI
-    source_id: MRI-ESM2-0
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
-    grid_label: gn
-    version: v20190603
-
-- path: CMIP6/CMIP/NASA-GISS/GISS-E2-1-G/historical/r1i1p1f1/3hr/huss/gn/v20181015
-  ds_id: CMIP6.CMIP.NASA-GISS.GISS-E2-1-G.historical.r1i1p1f1.3hr.huss.gn.v20181015
-  var_id: huss
-  array_dims: time lat lon
-  array_shape: 189800 90 144
-  time: 1950-01-01T03:00:00 2015-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -89.00 89.00
-  longitude: 1.25 358.75
-  size: 10551363480
-  size_gb: 10.55
-  file_count: 7
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: NASA-GISS
-    source_id: GISS-E2-1-G
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: huss
-    grid_label: gn
-    version: v20181015
-
-- path: CMIP6/CMIP/NASA-GISS/GISS-E2-1-G/historical/r1i1p1f1/3hr/tas/gn/v20181015
-  ds_id: CMIP6.CMIP.NASA-GISS.GISS-E2-1-G.historical.r1i1p1f1.3hr.tas.gn.v20181015
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 189800 90 144
-  time: 1950-01-01T03:00:00 2015-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -89.00 89.00
-  longitude: 1.25 358.75
-  size: 10551363480
-  size_gb: 10.55
-  file_count: 7
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: NASA-GISS
-    source_id: GISS-E2-1-G
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gn
-    version: v20181015
-
-- path: CMIP6/CMIP/NASA-GISS/GISS-E2-1-G/historical/r1i1p1f1/3hr/uas/gn/v20181015
-  ds_id: CMIP6.CMIP.NASA-GISS.GISS-E2-1-G.historical.r1i1p1f1.3hr.uas.gn.v20181015
-  var_id: uas
-  array_dims: time lat lon
-  array_shape: 189800 90 144
-  time: 1950-01-01T03:00:00 2015-01-01T00:00:00
-  level: 10.00 10.00
-  latitude: -89.00 89.00
-  longitude: 1.25 358.75
-  size: 10551363480
-  size_gb: 10.55
-  file_count: 7
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: NASA-GISS
-    source_id: GISS-E2-1-G
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: uas
-    grid_label: gn
-    version: v20181015
-
-- path: CMIP6/CMIP/NASA-GISS/GISS-E2-1-G/historical/r1i1p1f1/3hr/vas/gn/v20181015
-  ds_id: CMIP6.CMIP.NASA-GISS.GISS-E2-1-G.historical.r1i1p1f1.3hr.vas.gn.v20181015
-  var_id: vas
-  array_dims: time lat lon
-  array_shape: 189800 90 144
-  time: 1950-01-01T03:00:00 2015-01-01T00:00:00
-  level: 10.00 10.00
-  latitude: -89.00 89.00
-  longitude: 1.25 358.75
-  size: 10551363480
-  size_gb: 10.55
-  file_count: 7
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: NASA-GISS
-    source_id: GISS-E2-1-G
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: vas
-    grid_label: gn
-    version: v20181015
-
 - path: CMIP6/CMIP/NASA-GISS/GISS-E2-1-G/historical/r1i1p1f1/Amon/rlus/gn/v20180827
   ds_id: CMIP6.CMIP.NASA-GISS.GISS-E2-1-G.historical.r1i1p1f1.Amon.rlus.gn.v20180827
   var_id: rlus
@@ -33872,29 +30959,6 @@
     member_id: r1i1p1f1
     table_id: Amon
     variable_id: rlus
-    grid_label: gn
-    version: v20180827
-
-- path: CMIP6/CMIP/NASA-GISS/GISS-E2-1-G/historical/r1i1p1f1/Amon/rtmt/gn/v20180827
-  ds_id: CMIP6.CMIP.NASA-GISS.GISS-E2-1-G.historical.r1i1p1f1.Amon.rtmt.gn.v20180827
-  var_id: rtmt
-  array_dims: time lat lon
-  array_shape: 1980 90 144
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -89.00 89.00
-  longitude: 1.25 358.75
-  size: 110105712
-  size_gb: 0.11
-  file_count: 4
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: NASA-GISS
-    source_id: GISS-E2-1-G
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Amon
-    variable_id: rtmt
     grid_label: gn
     version: v20180827
 
@@ -33943,29 +31007,6 @@
     member_id: r1i1p1f1
     table_id: day
     variable_id: tasmin
-    grid_label: gn
-    version: v20181015
-
-- path: CMIP6/CMIP/NASA-GISS/GISS-E2-1-G/historical/r1i1p1f1/LImon/snc/gn/v20181015
-  ds_id: CMIP6.CMIP.NASA-GISS.GISS-E2-1-G.historical.r1i1p1f1.LImon.snc.gn.v20181015
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1980 90 144
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -89.00 89.00
-  longitude: 1.25 358.75
-  size: 110105712
-  size_gb: 0.11
-  file_count: 4
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: NASA-GISS
-    source_id: GISS-E2-1-G
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
     grid_label: gn
     version: v20181015
 
@@ -34358,29 +31399,6 @@
     member_id: r1i1p1f1
     table_id: Amon
     variable_id: ts
-    grid_label: gn
-    version: v20190403
-
-- path: CMIP6/CMIP/NASA-GISS/GISS-E2-1-H/historical/r1i1p1f1/LImon/snc/gn/v20190403
-  ds_id: CMIP6.CMIP.NASA-GISS.GISS-E2-1-H.historical.r1i1p1f1.LImon.snc.gn.v20190403
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1980 90 144
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -89.00 89.00
-  longitude: 1.25 358.75
-  size: 110105712
-  size_gb: 0.11
-  file_count: 4
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: NASA-GISS
-    source_id: GISS-E2-1-H
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
     grid_label: gn
     version: v20190403
 
@@ -34893,52 +31911,6 @@
     grid_label: gn
     version: v20191108
 
-- path: CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/LImon/snc/gn/v20191108
-  ds_id: CMIP6.CMIP.NCC.NorESM2-MM.historical.r1i1p1f1.LImon.snc.gn.v20191108
-  var_id: snc
-  array_dims: time lat lon
-  array_shape: 1980 192 288
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -90.00 90.00
-  longitude: 0.00 358.75
-  size: 453202080
-  size_gb: 0.45
-  file_count: 17
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: NCC
-    source_id: NorESM2-MM
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: LImon
-    variable_id: snc
-    grid_label: gn
-    version: v20191108
-
-- path: CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Omon/prsn/gn/v20191108
-  ds_id: CMIP6.CMIP.NCC.NorESM2-MM.historical.r1i1p1f1.Omon.prsn.gn.v20191108
-  var_id: prsn
-  array_dims: time j i
-  array_shape: 1980 385 360
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -80.11 89.76
-  longitude: 0.00 359.99
-  size: 18663372100
-  size_gb: 18.66
-  file_count: 17
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: NCC
-    source_id: NorESM2-MM
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Omon
-    variable_id: prsn
-    grid_label: gn
-    version: v20191108
-
 - path: CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Omon/sos/gn/v20191108
   ds_id: CMIP6.CMIP.NCC.NorESM2-MM.historical.r1i1p1f1.Omon.sos.gn.v20191108
   var_id: sos
@@ -34984,30 +31956,6 @@
     variable_id: zos
     grid_label: gn
     version: v20191108
-
-- path: CMIP6/CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/3hr/huss/gr1/v20190726
-  ds_id: CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.3hr.huss.gr1.v20190726
-  var_id: huss
-  array_dims: time lat lon
-  array_shape: 481800 180 288
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -89.50 89.50
-  longitude: 0.62 359.38
-  size: 103517624552
-  size_gb: 103.52
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: NOAA-GFDL
-    source_id: GFDL-ESM4
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: huss
-    grid_label: gr1
-    version: v20190726
 
 - path: CMIP6/ScenarioMIP/CCCma/CanESM5/ssp370/r1i1p1f1/Amon/rsut/gn/v20190429
   ds_id: CMIP6.ScenarioMIP.CCCma.CanESM5.ssp370.r1i1p1f1.Amon.rsut.gn.v20190429
@@ -35543,78 +32491,6 @@
     variable_id: rsds
     grid_label: gn
     version: v20190429
-
-- path: CMIP6/CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/3hr/tas/gr1/v20190726
-  ds_id: CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.3hr.tas.gr1.v20190726
-  var_id: tas
-  array_dims: time lat lon
-  array_shape: 481800 180 288
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 2.00 2.00
-  latitude: -89.50 89.50
-  longitude: 0.62 359.38
-  size: 103517624552
-  size_gb: 103.52
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: NOAA-GFDL
-    source_id: GFDL-ESM4
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: tas
-    grid_label: gr1
-    version: v20190726
-
-- path: CMIP6/CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/3hr/uas/gr1/v20190726
-  ds_id: CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.3hr.uas.gr1.v20190726
-  var_id: uas
-  array_dims: time lat lon
-  array_shape: 481800 180 288
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 10.00 10.00
-  latitude: -89.50 89.50
-  longitude: 0.62 359.38
-  size: 103517624552
-  size_gb: 103.52
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: NOAA-GFDL
-    source_id: GFDL-ESM4
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: uas
-    grid_label: gr1
-    version: v20190726
-
-- path: CMIP6/CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/3hr/vas/gr1/v20190726
-  ds_id: CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.3hr.vas.gr1.v20190726
-  var_id: vas
-  array_dims: time lat lon
-  array_shape: 481800 180 288
-  time: 1850-01-01T03:00:00 2015-01-01T00:00:00
-  level: 10.00 10.00
-  latitude: -89.50 89.50
-  longitude: 0.62 359.38
-  size: 103517624552
-  size_gb: 103.52
-  file_count: 9
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: NOAA-GFDL
-    source_id: GFDL-ESM4
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: 3hr
-    variable_id: vas
-    grid_label: gr1
-    version: v20190726
 
 - path: CMIP6/CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/Amon/evspsbl/gr1/v20190726
   ds_id: CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.Amon.evspsbl.gr1.v20190726
@@ -36839,49 +33715,3 @@
     variable_id: rsds
     grid_label: gn
     version: v20190708
-
-- path: CMIP6/CMIP/IPSL/IPSL-CM6A-LR/historical/r1i1p1f1/Lmon/landCoverFrac/gr/v20180803
-  ds_id: CMIP6.CMIP.IPSL.IPSL-CM6A-LR.historical.r1i1p1f1.Lmon.landCoverFrac.gr.v20180803
-  var_id: landCoverFrac
-  array_dims: time type lat lon
-  array_shape: 1980 15 143 144
-  time: 1850-01-16T12:00:00 2014-12-16T12:00:00
-  latitude: -90.00 90.00
-  longitude: 0.00 357.50
-  size: 2446382093
-  size_gb: 2.45
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: CMIP
-    institution_id: IPSL
-    source_id: IPSL-CM6A-LR
-    experiment_id: historical
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: landCoverFrac
-    grid_label: gr
-    version: v20180803
-
-- path: CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp245/r1i1p1f1/Lmon/landCoverFrac/gr/v20190119
-  ds_id: CMIP6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp245.r1i1p1f1.Lmon.landCoverFrac.gr.v20190119
-  var_id: landCoverFrac
-  array_dims: time type lat lon
-  array_shape: 1032 15 143 144
-  time: 2015-01-16T12:00:00 2100-12-16T12:00:00
-  latitude: -90.00 90.00
-  longitude: 0.00 357.50
-  size: 1275086381
-  size_gb: 1.28
-  file_count: 1
-  facets:
-    mip_era: CMIP6
-    activity_id: ScenarioMIP
-    institution_id: IPSL
-    source_id: IPSL-CM6A-LR
-    experiment_id: ssp245
-    member_id: r1i1p1f1
-    table_id: Lmon
-    variable_id: landCoverFrac
-    grid_label: gr
-    version: v20190119
