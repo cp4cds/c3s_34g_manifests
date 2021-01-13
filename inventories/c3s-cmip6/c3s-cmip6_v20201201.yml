@@ -33715,3 +33715,49 @@
     variable_id: rsds
     grid_label: gn
     version: v20190708
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp119/r1i1p1f1/Ofx/sftof/gn/v20190807
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp119.r1i1p1f1.Ofx.sftof.gn.v20190807
+  var_id: sftof
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069827
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190807
+
+- path: ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp119/r1i1p1f1/fx/mrsofc/gr/v20190410
+  ds_id: c3s-cmip6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp119.r1i1p1f1.fx.mrsofc.gr.v20190410
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 143 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 83516
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gr
+    version: v20190410
