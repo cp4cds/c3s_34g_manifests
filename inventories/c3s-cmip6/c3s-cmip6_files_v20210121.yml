@@ -50843,3 +50843,6502 @@
   files:
   - rsds_Amon_CAMS-CSM1-0_ssp585_r1i1p1f1_gn_201501-209912.nc
 
+- path: CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/Ofx/areacello/gr/v20190726
+  ds_id: c3s-cmip6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.Ofx.areacello.gr.v20190726
+  var_id: areacello
+  array_dims: lat lon
+  array_shape: 180 360
+  time: undefined
+  latitude: -89.50 89.50
+  longitude: 0.50 359.50
+  size: 272160
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: NOAA-GFDL
+    source_id: GFDL-ESM4
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: areacello
+    grid_label: gr
+    version: v20190726
+  files:
+  - areacello_Ofx_GFDL-ESM4_historical_r1i1p1f1_gr.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp370/r1i1p1f1/fx/sftlf/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp370.r1i1p1f1.fx.sftlf.gn.v20190429
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37380
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftlf_fx_CanESM5_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp534-over/r1i1p1f1/fx/orog/gr/v20190909
+  ds_id: c3s-cmip6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp534-over.r1i1p1f1.fx.orog.gr.v20190909
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 143 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 83516
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: ssp534-over
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gr
+    version: v20190909
+  files:
+  - orog_fx_IPSL-CM6A-LR_ssp534-over_r1i1p1f1_gr.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp126/r1i1p1f1/fx/orog/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp126.r1i1p1f1.fx.orog.gn.v20190603
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216320
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190603
+  files:
+  - orog_fx_MRI-ESM2-0_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp245/r1i1p1f1/fx/sftlf/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp245.r1i1p1f1.fx.sftlf.gn.v20191108
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 96 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 61056
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftlf_fx_NorESM2-LM_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp585/r1i1p1f1/fx/orog/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp585.r1i1p1f1.fx.orog.gn.v20191108
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 96 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 61056
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20191108
+  files:
+  - orog_fx_NorESM2-LM_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp370/r1i1p1f1/Ofx/sftof/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp370.r1i1p1f1.Ofx.sftof.gn.v20191108
+  var_id: sftof
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftof_Ofx_NorESM2-MM_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp370/r1i1p1f1/Ofx/deptho/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp370.r1i1p1f1.Ofx.deptho.gn.v20190627
+  var_id: deptho
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069824
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190627
+  files:
+  - deptho_Ofx_MIROC6_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp585/r1i1p1f1/fx/sftgif/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp585.r1i1p1f1.fx.sftgif.gn.v20190710
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftgif_fx_MPI-ESM1-2-HR_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp245/r1i1p1f1/fx/orog/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp245.r1i1p1f1.fx.orog.gn.v20190710
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190710
+  files:
+  - orog_fx_MPI-ESM1-2-HR_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM5-0/ssp245/r1i1p1f1/fx/sftlf/gr1/v20190619
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM5-0.ssp245.r1i1p1f1.fx.sftlf.gr1.v20190619
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93604
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM5-0
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gr1
+    version: v20190619
+  files:
+  - sftlf_fx_INM-CM5-0_ssp245_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp534-over/r1i1p1f1/fx/sftgif/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp534-over.r1i1p1f1.fx.sftgif.gn.v20190429
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37376
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp534-over
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftgif_fx_CanESM5_ssp534-over_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp370/r1i1p1f1/fx/sftlf/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp370.r1i1p1f1.fx.sftlf.gn.v20190710
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftlf_fx_MPI-ESM1-2-LR_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp585/r1i1p1f1/fx/sftlf/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp585.r1i1p1f1.fx.sftlf.gn.v20190627
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 128 256
+  time: undefined
+  latitude: -88.93 88.93
+  longitude: 0.00 358.59
+  size: 140292
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190627
+  files:
+  - sftlf_fx_MIROC6_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp245/r1i1p1f1/fx/orog/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp245.r1i1p1f1.fx.orog.gn.v20190429
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37376
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190429
+  files:
+  - orog_fx_CanESM5_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp245/r1i1p1f1/fx/sftgif/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp245.r1i1p1f1.fx.sftgif.gn.v20190603
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216328
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190603
+  files:
+  - sftgif_fx_MRI-ESM2-0_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp119/r1i1p1f1/fx/sftlf/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp119.r1i1p1f1.fx.sftlf.gn.v20190603
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216324
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190603
+  files:
+  - sftlf_fx_MRI-ESM2-0_ssp119_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp245/r1i1p1f1/fx/sftgif/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp245.r1i1p1f1.fx.sftgif.gn.v20190710
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftgif_fx_MPI-ESM1-2-HR_ssp245_r1i1p1f1_gn.nc
+
+- path: CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/fx/orog/gn/v20190603
+  ds_id: c3s-cmip6.CMIP.MRI.MRI-ESM2-0.historical.r1i1p1f1.fx.orog.gn.v20190603
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216320
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190603
+  files:
+  - orog_fx_MRI-ESM2-0_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp245/r1i1p1f1/fx/mrsofc/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp245.r1i1p1f1.fx.mrsofc.gn.v20190710
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gn
+    version: v20190710
+  files:
+  - mrsofc_fx_MPI-ESM1-2-LR_ssp245_r1i1p1f1_gn.nc
+
+- path: CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/Ofx/areacello/gn/v20190710
+  ds_id: c3s-cmip6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.Ofx.areacello.gn.v20190710
+  var_id: areacello
+  array_dims: j i
+  array_shape: 220 256
+  time: undefined
+  latitude: -83.97 89.73
+  longitude: 0.01 360.00
+  size: 4732784
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: areacello
+    grid_label: gn
+    version: v20190710
+  files:
+  - areacello_Ofx_MPI-ESM1-2-LR_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp370/r1i1p1f1/fx/orog/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp370.r1i1p1f1.fx.orog.gn.v20191108
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 96 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 61056
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20191108
+  files:
+  - orog_fx_NorESM2-LM_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM5-0/ssp126/r1i1p1f1/fx/mrsofc/gr1/v20190619
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM5-0.ssp126.r1i1p1f1.fx.mrsofc.gr1.v20190619
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93600
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM5-0
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gr1
+    version: v20190619
+  files:
+  - mrsofc_fx_INM-CM5-0_ssp126_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp245/r1i1p1f1/fx/orog/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp245.r1i1p1f1.fx.orog.gn.v20191108
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 192 288
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 358.75
+  size: 232704
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20191108
+  files:
+  - orog_fx_NorESM2-MM_ssp245_r1i1p1f1_gn.nc
+
+- path: CMIP/CCCma/CanESM5/historical/r1i1p1f1/fx/orog/gn/v20190429
+  ds_id: c3s-cmip6.CMIP.CCCma.CanESM5.historical.r1i1p1f1.fx.orog.gn.v20190429
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37376
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190429
+  files:
+  - orog_fx_CanESM5_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp585/r1i1p1f1/fx/mrsofc/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp585.r1i1p1f1.fx.mrsofc.gn.v20190710
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gn
+    version: v20190710
+  files:
+  - mrsofc_fx_MPI-ESM1-2-HR_ssp585_r1i1p1f1_gn.nc
+
+- path: CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/fx/sftlf/gn/v20190710
+  ds_id: c3s-cmip6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.fx.sftlf.gn.v20190710
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-HR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftlf_fx_MPI-ESM1-2-HR_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp460/r1i1p1f1/fx/sftlf/gr/v20190506
+  ds_id: c3s-cmip6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp460.r1i1p1f1.fx.sftlf.gr.v20190506
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 143 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 83771
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: ssp460
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gr
+    version: v20190506
+  files:
+  - sftlf_fx_IPSL-CM6A-LR_ssp460_r1i1p1f1_gr.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp119/r1i1p1f1/fx/orog/gn/v20190807
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp119.r1i1p1f1.fx.orog.gn.v20190807
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 128 256
+  time: undefined
+  latitude: -88.93 88.93
+  longitude: 0.00 358.59
+  size: 140288
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190807
+  files:
+  - orog_fx_MIROC6_ssp119_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp585/r1i1p1f1/fx/orog/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp585.r1i1p1f1.fx.orog.gn.v20190710
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190710
+  files:
+  - orog_fx_MPI-ESM1-2-LR_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM4-8/ssp585/r1i1p1f1/fx/mrsofc/gr1/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM4-8.ssp585.r1i1p1f1.fx.mrsofc.gr1.v20190603
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93600
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM4-8
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gr1
+    version: v20190603
+  files:
+  - mrsofc_fx_INM-CM4-8_ssp585_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp370/r1i1p1f1/Ofx/deptho/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp370.r1i1p1f1.Ofx.deptho.gn.v20190710
+  var_id: deptho
+  array_dims: j i
+  array_shape: 404 802
+  time: undefined
+  latitude: -78.72 89.76
+  longitude: 0.01 360.00
+  size: 27221496
+  size_gb: 0.03
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190710
+  files:
+  - deptho_Ofx_MPI-ESM1-2-HR_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp126/r1i1p1f1/Ofx/deptho/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp126.r1i1p1f1.Ofx.deptho.gn.v20190710
+  var_id: deptho
+  array_dims: j i
+  array_shape: 220 256
+  time: undefined
+  latitude: -83.97 89.73
+  longitude: 0.01 360.00
+  size: 4732784
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190710
+  files:
+  - deptho_Ofx_MPI-ESM1-2-LR_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp370/r1i1p1f1/fx/sftgif/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp370.r1i1p1f1.fx.sftgif.gn.v20191108
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 96 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 61056
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftgif_fx_NorESM2-LM_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp460/r1i1p1f1/fx/mrsofc/gr/v20190506
+  ds_id: c3s-cmip6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp460.r1i1p1f1.fx.mrsofc.gr.v20190506
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 143 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 83516
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: ssp460
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gr
+    version: v20190506
+  files:
+  - mrsofc_fx_IPSL-CM6A-LR_ssp460_r1i1p1f1_gr.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp126/r1i1p1f1/Ofx/deptho/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp126.r1i1p1f1.Ofx.deptho.gn.v20191108
+  var_id: deptho
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20191108
+  files:
+  - deptho_Ofx_NorESM2-LM_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp585/r1i1p1f1/fx/sftlf/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp585.r1i1p1f1.fx.sftlf.gn.v20191108
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 192 288
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 358.75
+  size: 232704
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftlf_fx_NorESM2-MM_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp585/r1i1p1f1/fx/sftgif/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp585.r1i1p1f1.fx.sftgif.gn.v20191108
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 96 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 61056
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftgif_fx_NorESM2-LM_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp245/r1i1p1f1/Ofx/sftof/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp245.r1i1p1f1.Ofx.sftof.gn.v20190429
+  var_id: sftof
+  array_dims: j i
+  array_shape: 291 360
+  time: undefined
+  latitude: -78.39 89.74
+  longitude: 0.05 359.99
+  size: 8802447
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftof_Ofx_CanESM5_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp126/r1i1p1f1/Ofx/sftof/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp126.r1i1p1f1.Ofx.sftof.gn.v20190627
+  var_id: sftof
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069827
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190627
+  files:
+  - sftof_Ofx_MIROC6_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp534-over/r1i1p1f1/Ofx/sftof/gn/v20190807
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp534-over.r1i1p1f1.Ofx.sftof.gn.v20190807
+  var_id: sftof
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069827
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp534-over
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190807
+  files:
+  - sftof_Ofx_MIROC6_ssp534-over_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp126/r1i1p1f1/fx/orog/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp126.r1i1p1f1.fx.orog.gn.v20191108
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 96 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 61056
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20191108
+  files:
+  - orog_fx_NorESM2-LM_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp534-over/r1i1p1f1/fx/sftlf/gr/v20190909
+  ds_id: c3s-cmip6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp534-over.r1i1p1f1.fx.sftlf.gr.v20190909
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 143 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 83771
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: ssp534-over
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gr
+    version: v20190909
+  files:
+  - sftlf_fx_IPSL-CM6A-LR_ssp534-over_r1i1p1f1_gr.nc
+
+- path: CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/fx/mrsofc/gn/v20190710
+  ds_id: c3s-cmip6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.fx.mrsofc.gn.v20190710
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gn
+    version: v20190710
+  files:
+  - mrsofc_fx_MPI-ESM1-2-LR_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/Ofx/deptho/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp126.r1i1p1f1.Ofx.deptho.gn.v20190710
+  var_id: deptho
+  array_dims: j i
+  array_shape: 404 802
+  time: undefined
+  latitude: -78.72 89.76
+  longitude: 0.01 360.00
+  size: 27221496
+  size_gb: 0.03
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190710
+  files:
+  - deptho_Ofx_MPI-ESM1-2-HR_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp126/r1i1p1f1/fx/sftlf/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp126.r1i1p1f1.fx.sftlf.gn.v20191108
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 192 288
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 358.75
+  size: 232704
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftlf_fx_NorESM2-MM_ssp126_r1i1p1f1_gn.nc
+
+- path: CMIP/SNU/SAM0-UNICON/historical/r1i1p1f1/fx/orog/gn/v20190323
+  ds_id: c3s-cmip6.CMIP.SNU.SAM0-UNICON.historical.r1i1p1f1.fx.orog.gn.v20190323
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 192 288
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 358.75
+  size: 232704
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: SNU
+    source_id: SAM0-UNICON
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190323
+  files:
+  - orog_fx_SAM0-UNICON_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp534-over/r1i1p1f1/fx/orog/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp534-over.r1i1p1f1.fx.orog.gn.v20190429
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37376
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp534-over
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190429
+  files:
+  - orog_fx_CanESM5_ssp534-over_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM4-8/ssp245/r1i1p1f1/fx/mrsofc/gr1/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM4-8.ssp245.r1i1p1f1.fx.mrsofc.gr1.v20190603
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93600
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM4-8
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gr1
+    version: v20190603
+  files:
+  - mrsofc_fx_INM-CM4-8_ssp245_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp126/r1i1p1f1/fx/sftlf/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp126.r1i1p1f1.fx.sftlf.gn.v20191108
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 96 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 61056
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftlf_fx_NorESM2-LM_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp245/r1i1p1f1/fx/sftgif/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp245.r1i1p1f1.fx.sftgif.gn.v20190710
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftgif_fx_MPI-ESM1-2-LR_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp245/r1i1p1f1/fx/sftlf/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp245.r1i1p1f1.fx.sftlf.gn.v20190710
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftlf_fx_MPI-ESM1-2-LR_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM4-8/ssp370/r1i1p1f1/fx/mrsofc/gr1/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM4-8.ssp370.r1i1p1f1.fx.mrsofc.gr1.v20190603
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93600
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM4-8
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gr1
+    version: v20190603
+  files:
+  - mrsofc_fx_INM-CM4-8_ssp370_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp245/r1i1p1f1/Ofx/sftof/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp245.r1i1p1f1.Ofx.sftof.gn.v20191108
+  var_id: sftof
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftof_Ofx_NorESM2-LM_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM5-0/ssp245/r1i1p1f1/fx/orog/gr1/v20190619
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM5-0.ssp245.r1i1p1f1.fx.orog.gr1.v20190619
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93600
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM5-0
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gr1
+    version: v20190619
+  files:
+  - orog_fx_INM-CM5-0_ssp245_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp370/r1i1p1f1/fx/sftlf/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp370.r1i1p1f1.fx.sftlf.gn.v20191108
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 192 288
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 358.75
+  size: 232704
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftlf_fx_NorESM2-MM_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp370/r1i1p1f1/fx/sftlf/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp370.r1i1p1f1.fx.sftlf.gn.v20190710
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftlf_fx_MPI-ESM1-2-HR_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp585/r1i1p1f1/Ofx/deptho/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp585.r1i1p1f1.Ofx.deptho.gn.v20190710
+  var_id: deptho
+  array_dims: j i
+  array_shape: 404 802
+  time: undefined
+  latitude: -78.72 89.76
+  longitude: 0.01 360.00
+  size: 27221496
+  size_gb: 0.03
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190710
+  files:
+  - deptho_Ofx_MPI-ESM1-2-HR_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp245/r1i1p1f1/fx/sftlf/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp245.r1i1p1f1.fx.sftlf.gn.v20190429
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37380
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftlf_fx_CanESM5_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp370/r1i1p1f1/fx/sftlf/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp370.r1i1p1f1.fx.sftlf.gn.v20190603
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216324
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190603
+  files:
+  - sftlf_fx_MRI-ESM2-0_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp245/r1i1p1f1/fx/sftgif/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp245.r1i1p1f1.fx.sftgif.gn.v20191108
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 96 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 61056
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftgif_fx_NorESM2-LM_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp245/r1i1p1f1/fx/orog/gn/v20180701
+  ds_id: c3s-cmip6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp245.r1i1p1f1.fx.orog.gn.v20180701
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 96 96
+  time: undefined
+  latitude: 1.00 96.00
+  longitude: 1.00 96.00
+  size: 38400
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NOAA-GFDL
+    source_id: GFDL-ESM4
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20180701
+  files:
+  - orog_fx_GFDL-ESM4_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/fx/sftgif/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp126.r1i1p1f1.fx.sftgif.gn.v20190710
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftgif_fx_MPI-ESM1-2-HR_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/Ofx/sftof/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp126.r1i1p1f1.Ofx.sftof.gn.v20190710
+  var_id: sftof
+  array_dims: j i
+  array_shape: 404 802
+  time: undefined
+  latitude: -78.72 89.76
+  longitude: 0.01 360.00
+  size: 27221496
+  size_gb: 0.03
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftof_Ofx_MPI-ESM1-2-HR_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp245/r1i1p1f1/fx/sftlf/gr/v20190119
+  ds_id: c3s-cmip6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp245.r1i1p1f1.fx.sftlf.gr.v20190119
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 143 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 83771
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gr
+    version: v20190119
+  files:
+  - sftlf_fx_IPSL-CM6A-LR_ssp245_r1i1p1f1_gr.nc
+
+- path: ScenarioMIP/INM/INM-CM5-0/ssp126/r1i1p1f1/fx/sftlf/gr1/v20190619
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM5-0.ssp126.r1i1p1f1.fx.sftlf.gr1.v20190619
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93604
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM5-0
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gr1
+    version: v20190619
+  files:
+  - sftlf_fx_INM-CM5-0_ssp126_r1i1p1f1_gr1.nc
+
+- path: CMIP/CCCma/CanESM5/historical/r1i1p1f1/Ofx/sftof/gn/v20190429
+  ds_id: c3s-cmip6.CMIP.CCCma.CanESM5.historical.r1i1p1f1.Ofx.sftof.gn.v20190429
+  var_id: sftof
+  array_dims: j i
+  array_shape: 291 360
+  time: undefined
+  latitude: -78.39 89.74
+  longitude: 0.05 359.99
+  size: 8802447
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftof_Ofx_CanESM5_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp585/r1i1p1f1/fx/sftlf/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp585.r1i1p1f1.fx.sftlf.gn.v20190710
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftlf_fx_MPI-ESM1-2-LR_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp126/r1i1p1f1/fx/orog/gn/v20180701
+  ds_id: c3s-cmip6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp126.r1i1p1f1.fx.orog.gn.v20180701
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 96 96
+  time: undefined
+  latitude: 1.00 96.00
+  longitude: 1.00 96.00
+  size: 38400
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NOAA-GFDL
+    source_id: GFDL-ESM4
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20180701
+  files:
+  - orog_fx_GFDL-ESM4_ssp126_r1i1p1f1_gn.nc
+
+- path: CMIP/SNU/SAM0-UNICON/historical/r1i1p1f1/Ofx/areacello/gn/v20190323
+  ds_id: c3s-cmip6.CMIP.SNU.SAM0-UNICON.historical.r1i1p1f1.Ofx.areacello.gn.v20190323
+  var_id: areacello
+  array_dims: j i
+  array_shape: 384 320
+  time: undefined
+  latitude: -79.22 89.71
+  longitude: 0.01 360.00
+  size: 10324736
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: SNU
+    source_id: SAM0-UNICON
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: areacello
+    grid_label: gn
+    version: v20190323
+  files:
+  - areacello_Ofx_SAM0-UNICON_historical_r1i1p1f1_gn.nc
+
+- path: CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/Ofx/areacello/gn/v20190726
+  ds_id: c3s-cmip6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.Ofx.areacello.gn.v20190726
+  var_id: areacello
+  array_dims: y x
+  array_shape: 576 720
+  time: undefined
+  latitude: -77.91 89.88
+  longitude: -300.00 60.00
+  size: 18258048
+  size_gb: 0.02
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: NOAA-GFDL
+    source_id: GFDL-ESM4
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: areacello
+    grid_label: gn
+    version: v20190726
+  files:
+  - areacello_Ofx_GFDL-ESM4_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp585/r1i1p1f1/fx/sftlf/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp585.r1i1p1f1.fx.sftlf.gn.v20190429
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37380
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftlf_fx_CanESM5_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp126/r1i1p1f1/Ofx/deptho/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp126.r1i1p1f1.Ofx.deptho.gn.v20190627
+  var_id: deptho
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069824
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190627
+  files:
+  - deptho_Ofx_MIROC6_ssp126_r1i1p1f1_gn.nc
+
+- path: CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/fx/sftgif/gn/v20190710
+  ds_id: c3s-cmip6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.fx.sftgif.gn.v20190710
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-HR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftgif_fx_MPI-ESM1-2-HR_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp126/r1i1p1f1/Ofx/sftof/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp126.r1i1p1f1.Ofx.sftof.gn.v20190710
+  var_id: sftof
+  array_dims: j i
+  array_shape: 220 256
+  time: undefined
+  latitude: -83.97 89.73
+  longitude: 0.01 360.00
+  size: 4732784
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftof_Ofx_MPI-ESM1-2-LR_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM5-0/ssp245/r1i1p1f1/fx/mrsofc/gr1/v20190619
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM5-0.ssp245.r1i1p1f1.fx.mrsofc.gr1.v20190619
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93600
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM5-0
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gr1
+    version: v20190619
+  files:
+  - mrsofc_fx_INM-CM5-0_ssp245_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp119/r1i1p1f1/fx/orog/gr1/v20180701
+  ds_id: c3s-cmip6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp119.r1i1p1f1.fx.orog.gr1.v20180701
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 180 288
+  time: undefined
+  latitude: -89.50 89.50
+  longitude: 0.62 359.38
+  size: 218608
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NOAA-GFDL
+    source_id: GFDL-ESM4
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gr1
+    version: v20180701
+  files:
+  - orog_fx_GFDL-ESM4_ssp119_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp126/r1i1p1f1/fx/sftgif/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp126.r1i1p1f1.fx.sftgif.gn.v20191108
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 96 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 61056
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftgif_fx_NorESM2-LM_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp126/r1i1p1f1/fx/orog/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp126.r1i1p1f1.fx.orog.gn.v20191108
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 192 288
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 358.75
+  size: 232704
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20191108
+  files:
+  - orog_fx_NorESM2-MM_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp126/r1i1p1f1/fx/sftlf/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp126.r1i1p1f1.fx.sftlf.gn.v20190627
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 128 256
+  time: undefined
+  latitude: -88.93 88.93
+  longitude: 0.00 358.59
+  size: 140292
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190627
+  files:
+  - sftlf_fx_MIROC6_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp585/r1i1p1f1/fx/orog/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp585.r1i1p1f1.fx.orog.gn.v20190429
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37376
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190429
+  files:
+  - orog_fx_CanESM5_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM4-8/ssp126/r1i1p1f1/fx/sftlf/gr1/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM4-8.ssp126.r1i1p1f1.fx.sftlf.gr1.v20190603
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93604
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM4-8
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gr1
+    version: v20190603
+  files:
+  - sftlf_fx_INM-CM4-8_ssp126_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp245/r1i1p1f1/Ofx/sftof/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp245.r1i1p1f1.Ofx.sftof.gn.v20190627
+  var_id: sftof
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069827
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190627
+  files:
+  - sftof_Ofx_MIROC6_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp585/r1i1p1f1/Ofx/deptho/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp585.r1i1p1f1.Ofx.deptho.gn.v20190627
+  var_id: deptho
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069824
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190627
+  files:
+  - deptho_Ofx_MIROC6_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp585/r1i1p1f1/fx/orog/gr1/v20180701
+  ds_id: c3s-cmip6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp585.r1i1p1f1.fx.orog.gr1.v20180701
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 180 288
+  time: undefined
+  latitude: -89.50 89.50
+  longitude: 0.62 359.38
+  size: 218608
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NOAA-GFDL
+    source_id: GFDL-ESM4
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gr1
+    version: v20180701
+  files:
+  - orog_fx_GFDL-ESM4_ssp585_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp585/r1i1p1f1/fx/sftlf/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp585.r1i1p1f1.fx.sftlf.gn.v20190710
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftlf_fx_MPI-ESM1-2-HR_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp585/r1i1p1f1/Ofx/deptho/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp585.r1i1p1f1.Ofx.deptho.gn.v20190429
+  var_id: deptho
+  array_dims: j i
+  array_shape: 291 360
+  time: undefined
+  latitude: -78.39 89.74
+  longitude: 0.05 359.99
+  size: 8802444
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190429
+  files:
+  - deptho_Ofx_CanESM5_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp119/r1i1p1f1/fx/orog/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp119.r1i1p1f1.fx.orog.gn.v20190429
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37376
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190429
+  files:
+  - orog_fx_CanESM5_ssp119_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp119/r1i1p1f1/fx/mrsofc/gr/v20190410
+  ds_id: c3s-cmip6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp119.r1i1p1f1.fx.mrsofc.gr.v20190410
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 143 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 83516
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gr
+    version: v20190410
+  files:
+  - mrsofc_fx_IPSL-CM6A-LR_ssp119_r1i1p1f1_gr.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp370/r1i1p1f1/fx/orog/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp370.r1i1p1f1.fx.orog.gn.v20190710
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190710
+  files:
+  - orog_fx_MPI-ESM1-2-HR_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp585/r1i1p1f1/Ofx/sftof/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp585.r1i1p1f1.Ofx.sftof.gn.v20191108
+  var_id: sftof
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftof_Ofx_NorESM2-LM_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp126/r1i1p1f1/fx/mrsofc/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp126.r1i1p1f1.fx.mrsofc.gn.v20190710
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gn
+    version: v20190710
+  files:
+  - mrsofc_fx_MPI-ESM1-2-LR_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp119/r1i1p1f1/Ofx/sftof/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp119.r1i1p1f1.Ofx.sftof.gn.v20190429
+  var_id: sftof
+  array_dims: j i
+  array_shape: 291 360
+  time: undefined
+  latitude: -78.39 89.74
+  longitude: 0.05 359.99
+  size: 8802447
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftof_Ofx_CanESM5_ssp119_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp585/r1i1p1f1/fx/orog/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp585.r1i1p1f1.fx.orog.gn.v20190710
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190710
+  files:
+  - orog_fx_MPI-ESM1-2-HR_ssp585_r1i1p1f1_gn.nc
+
+- path: CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Ofx/deptho/gn/v20190710
+  ds_id: c3s-cmip6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.Ofx.deptho.gn.v20190710
+  var_id: deptho
+  array_dims: j i
+  array_shape: 404 802
+  time: undefined
+  latitude: -78.72 89.76
+  longitude: 0.01 360.00
+  size: 27221496
+  size_gb: 0.03
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-HR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190710
+  files:
+  - deptho_Ofx_MPI-ESM1-2-HR_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp126/r1i1p1f1/fx/sftgif/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp126.r1i1p1f1.fx.sftgif.gn.v20190710
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftgif_fx_MPI-ESM1-2-LR_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp585/r1i1p1f1/Ofx/sftof/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp585.r1i1p1f1.Ofx.sftof.gn.v20190710
+  var_id: sftof
+  array_dims: j i
+  array_shape: 404 802
+  time: undefined
+  latitude: -78.72 89.76
+  longitude: 0.01 360.00
+  size: 27221496
+  size_gb: 0.03
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftof_Ofx_MPI-ESM1-2-HR_ssp585_r1i1p1f1_gn.nc
+
+- path: CMIP/IPSL/IPSL-CM6A-LR/historical/r1i1p1f1/fx/sftlf/gr/v20180803
+  ds_id: c3s-cmip6.CMIP.IPSL.IPSL-CM6A-LR.historical.r1i1p1f1.fx.sftlf.gr.v20180803
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 143 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 83771
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gr
+    version: v20180803
+  files:
+  - sftlf_fx_IPSL-CM6A-LR_historical_r1i1p1f1_gr.nc
+
+- path: ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp245/r1i1p1f1/Ofx/areacello/gn/v20190119
+  ds_id: c3s-cmip6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp245.r1i1p1f1.Ofx.areacello.gn.v20190119
+  var_id: areacello
+  array_dims: y x
+  array_shape: 332 362
+  time: undefined
+  latitude: -85.79 89.74
+  longitude: -180.00 179.99
+  size: 5768832
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: areacello
+    grid_label: gn
+    version: v20190119
+  files:
+  - areacello_Ofx_IPSL-CM6A-LR_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp585/r1i1p1f1/fx/sftlf/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp585.r1i1p1f1.fx.sftlf.gn.v20190603
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216324
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190603
+  files:
+  - sftlf_fx_MRI-ESM2-0_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp370/r1i1p1f1/fx/sftgif/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp370.r1i1p1f1.fx.sftgif.gn.v20190710
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftgif_fx_MPI-ESM1-2-HR_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp119/r1i1p1f1/fx/orog/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp119.r1i1p1f1.fx.orog.gn.v20190603
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216320
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190603
+  files:
+  - orog_fx_MRI-ESM2-0_ssp119_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp370/r1i1p1f1/fx/sftgif/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp370.r1i1p1f1.fx.sftgif.gn.v20190710
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftgif_fx_MPI-ESM1-2-LR_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp126/r1i1p1f1/Ofx/sftof/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp126.r1i1p1f1.Ofx.sftof.gn.v20190429
+  var_id: sftof
+  array_dims: j i
+  array_shape: 291 360
+  time: undefined
+  latitude: -78.39 89.74
+  longitude: 0.05 359.99
+  size: 8802447
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftof_Ofx_CanESM5_ssp126_r1i1p1f1_gn.nc
+
+- path: CMIP/CCCma/CanESM5/historical/r1i1p1f1/Ofx/deptho/gn/v20190429
+  ds_id: c3s-cmip6.CMIP.CCCma.CanESM5.historical.r1i1p1f1.Ofx.deptho.gn.v20190429
+  var_id: deptho
+  array_dims: j i
+  array_shape: 291 360
+  time: undefined
+  latitude: -78.39 89.74
+  longitude: 0.05 359.99
+  size: 8802444
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190429
+  files:
+  - deptho_Ofx_CanESM5_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM4-8/ssp245/r1i1p1f1/fx/sftgif/gr1/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM4-8.ssp245.r1i1p1f1.fx.sftgif.gr1.v20190603
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93608
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM4-8
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gr1
+    version: v20190603
+  files:
+  - sftgif_fx_INM-CM4-8_ssp245_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp370/r1i1p1f1/Ofx/sftof/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp370.r1i1p1f1.Ofx.sftof.gn.v20190710
+  var_id: sftof
+  array_dims: j i
+  array_shape: 220 256
+  time: undefined
+  latitude: -83.97 89.73
+  longitude: 0.01 360.00
+  size: 4732784
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftof_Ofx_MPI-ESM1-2-LR_ssp370_r1i1p1f1_gn.nc
+
+- path: CMIP/SNU/SAM0-UNICON/historical/r1i1p1f1/fx/sftlf/gn/v20190323
+  ds_id: c3s-cmip6.CMIP.SNU.SAM0-UNICON.historical.r1i1p1f1.fx.sftlf.gn.v20190323
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 192 288
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 358.75
+  size: 232708
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: SNU
+    source_id: SAM0-UNICON
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190323
+  files:
+  - sftlf_fx_SAM0-UNICON_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp370/r1i1p1f1/fx/sftlf/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp370.r1i1p1f1.fx.sftlf.gn.v20190627
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 128 256
+  time: undefined
+  latitude: -88.93 88.93
+  longitude: 0.00 358.59
+  size: 140292
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190627
+  files:
+  - sftlf_fx_MIROC6_ssp370_r1i1p1f1_gn.nc
+
+- path: CMIP/IPSL/IPSL-CM6A-LR/historical/r1i1p1f1/fx/mrsofc/gr/v20180803
+  ds_id: c3s-cmip6.CMIP.IPSL.IPSL-CM6A-LR.historical.r1i1p1f1.fx.mrsofc.gr.v20180803
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 143 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 83516
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gr
+    version: v20180803
+  files:
+  - mrsofc_fx_IPSL-CM6A-LR_historical_r1i1p1f1_gr.nc
+
+- path: CMIP/MIROC/MIROC6/historical/r1i1p1f1/Ofx/deptho/gn/v20190311
+  ds_id: c3s-cmip6.CMIP.MIROC.MIROC6.historical.r1i1p1f1.Ofx.deptho.gn.v20190311
+  var_id: deptho
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069824
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190311
+  files:
+  - deptho_Ofx_MIROC6_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM5-0/ssp370/r1i1p1f1/fx/sftgif/gr1/v20190618
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM5-0.ssp370.r1i1p1f1.fx.sftgif.gr1.v20190618
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93608
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM5-0
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gr1
+    version: v20190618
+  files:
+  - sftgif_fx_INM-CM5-0_ssp370_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp534-over/r1i1p1f1/Ofx/sftof/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp534-over.r1i1p1f1.Ofx.sftof.gn.v20190429
+  var_id: sftof
+  array_dims: j i
+  array_shape: 291 360
+  time: undefined
+  latitude: -78.39 89.74
+  longitude: 0.05 359.99
+  size: 8802447
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp534-over
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftof_Ofx_CanESM5_ssp534-over_r1i1p1f1_gn.nc
+
+- path: CMIP/SNU/SAM0-UNICON/historical/r1i1p1f1/Ofx/deptho/gn/v20190323
+  ds_id: c3s-cmip6.CMIP.SNU.SAM0-UNICON.historical.r1i1p1f1.Ofx.deptho.gn.v20190323
+  var_id: deptho
+  array_dims: j i
+  array_shape: 384 320
+  time: undefined
+  latitude: -79.22 89.71
+  longitude: 0.01 360.00
+  size: 10324736
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: SNU
+    source_id: SAM0-UNICON
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190323
+  files:
+  - deptho_Ofx_SAM0-UNICON_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp585/r1i1p1f1/fx/sftlf/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp585.r1i1p1f1.fx.sftlf.gn.v20191108
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 96 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 61056
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftlf_fx_NorESM2-LM_ssp585_r1i1p1f1_gn.nc
+
+- path: CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/fx/sftgif/gn/v20190710
+  ds_id: c3s-cmip6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.fx.sftgif.gn.v20190710
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftgif_fx_MPI-ESM1-2-LR_historical_r1i1p1f1_gn.nc
+
+- path: CMIP/MIROC/MIROC6/historical/r1i1p1f1/fx/orog/gn/v20190311
+  ds_id: c3s-cmip6.CMIP.MIROC.MIROC6.historical.r1i1p1f1.fx.orog.gn.v20190311
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 128 256
+  time: undefined
+  latitude: -88.93 88.93
+  longitude: 0.00 358.59
+  size: 140288
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190311
+  files:
+  - orog_fx_MIROC6_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp585/r1i1p1f1/fx/mrsofc/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp585.r1i1p1f1.fx.mrsofc.gn.v20190710
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gn
+    version: v20190710
+  files:
+  - mrsofc_fx_MPI-ESM1-2-LR_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp119/r1i1p1f1/fx/sftlf/gr/v20190410
+  ds_id: c3s-cmip6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp119.r1i1p1f1.fx.sftlf.gr.v20190410
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 143 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 83771
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gr
+    version: v20190410
+  files:
+  - sftlf_fx_IPSL-CM6A-LR_ssp119_r1i1p1f1_gr.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp370/r1i1p1f1/Ofx/deptho/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp370.r1i1p1f1.Ofx.deptho.gn.v20190710
+  var_id: deptho
+  array_dims: j i
+  array_shape: 220 256
+  time: undefined
+  latitude: -83.97 89.73
+  longitude: 0.01 360.00
+  size: 4732784
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190710
+  files:
+  - deptho_Ofx_MPI-ESM1-2-LR_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp126/r1i1p1f1/Ofx/deptho/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp126.r1i1p1f1.Ofx.deptho.gn.v20191108
+  var_id: deptho
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20191108
+  files:
+  - deptho_Ofx_NorESM2-MM_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/fx/mrsofc/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp126.r1i1p1f1.fx.mrsofc.gn.v20190710
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gn
+    version: v20190710
+  files:
+  - mrsofc_fx_MPI-ESM1-2-HR_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM5-0/ssp126/r1i1p1f1/fx/sftgif/gr1/v20190619
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM5-0.ssp126.r1i1p1f1.fx.sftgif.gr1.v20190619
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93608
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM5-0
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gr1
+    version: v20190619
+  files:
+  - sftgif_fx_INM-CM5-0_ssp126_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp370/r1i1p1f1/Ofx/areacello/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp370.r1i1p1f1.Ofx.areacello.gn.v20190627
+  var_id: areacello
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069824
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: areacello
+    grid_label: gn
+    version: v20190627
+  files:
+  - areacello_Ofx_MIROC6_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM5-0/ssp126/r1i1p1f1/fx/orog/gr1/v20190619
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM5-0.ssp126.r1i1p1f1.fx.orog.gr1.v20190619
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93600
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM5-0
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gr1
+    version: v20190619
+  files:
+  - orog_fx_INM-CM5-0_ssp126_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp245/r1i1p1f1/Ofx/sftof/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp245.r1i1p1f1.Ofx.sftof.gn.v20190710
+  var_id: sftof
+  array_dims: j i
+  array_shape: 220 256
+  time: undefined
+  latitude: -83.97 89.73
+  longitude: 0.01 360.00
+  size: 4732784
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftof_Ofx_MPI-ESM1-2-LR_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp370/r1i1p1f1/fx/sftlf/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp370.r1i1p1f1.fx.sftlf.gn.v20191108
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 96 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 61056
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftlf_fx_NorESM2-LM_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp370/r1i1p1f1/fx/orog/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp370.r1i1p1f1.fx.orog.gn.v20190710
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190710
+  files:
+  - orog_fx_MPI-ESM1-2-LR_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp585/r1i1p1f1/fx/orog/gn/v20180701
+  ds_id: c3s-cmip6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp585.r1i1p1f1.fx.orog.gn.v20180701
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 96 96
+  time: undefined
+  latitude: 1.00 96.00
+  longitude: 1.00 96.00
+  size: 38400
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NOAA-GFDL
+    source_id: GFDL-ESM4
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20180701
+  files:
+  - orog_fx_GFDL-ESM4_ssp585_r1i1p1f1_gn.nc
+
+- path: CMIP/MIROC/MIROC6/historical/r1i1p1f1/Ofx/areacello/gn/v20190311
+  ds_id: c3s-cmip6.CMIP.MIROC.MIROC6.historical.r1i1p1f1.Ofx.areacello.gn.v20190311
+  var_id: areacello
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069824
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: areacello
+    grid_label: gn
+    version: v20190311
+  files:
+  - areacello_Ofx_MIROC6_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp245/r1i1p1f1/fx/sftlf/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp245.r1i1p1f1.fx.sftlf.gn.v20191108
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 192 288
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 358.75
+  size: 232704
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftlf_fx_NorESM2-MM_ssp245_r1i1p1f1_gn.nc
+
+- path: CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/Ofx/deptho/gn/v20190710
+  ds_id: c3s-cmip6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.Ofx.deptho.gn.v20190710
+  var_id: deptho
+  array_dims: j i
+  array_shape: 220 256
+  time: undefined
+  latitude: -83.97 89.73
+  longitude: 0.01 360.00
+  size: 4732784
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190710
+  files:
+  - deptho_Ofx_MPI-ESM1-2-LR_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp126/r1i1p1f1/fx/sftgif/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp126.r1i1p1f1.fx.sftgif.gn.v20190429
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37376
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftgif_fx_CanESM5_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp245/r1i1p1f1/fx/sftgif/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp245.r1i1p1f1.fx.sftgif.gn.v20190429
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37376
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftgif_fx_CanESM5_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp534-over/r1i1p1f1/fx/orog/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp534-over.r1i1p1f1.fx.orog.gn.v20190603
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216320
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp534-over
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190603
+  files:
+  - orog_fx_MRI-ESM2-0_ssp534-over_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp370/r1i1p1f1/fx/orog/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp370.r1i1p1f1.fx.orog.gn.v20190603
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216320
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190603
+  files:
+  - orog_fx_MRI-ESM2-0_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp245/r1i1p1f1/Ofx/deptho/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp245.r1i1p1f1.Ofx.deptho.gn.v20190429
+  var_id: deptho
+  array_dims: j i
+  array_shape: 291 360
+  time: undefined
+  latitude: -78.39 89.74
+  longitude: 0.05 359.99
+  size: 8802444
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190429
+  files:
+  - deptho_Ofx_CanESM5_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp585/r1i1p1f1/Ofx/deptho/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp585.r1i1p1f1.Ofx.deptho.gn.v20190710
+  var_id: deptho
+  array_dims: j i
+  array_shape: 220 256
+  time: undefined
+  latitude: -83.97 89.73
+  longitude: 0.01 360.00
+  size: 4732784
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190710
+  files:
+  - deptho_Ofx_MPI-ESM1-2-LR_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp534-over/r1i1p1f1/fx/orog/gn/v20190807
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp534-over.r1i1p1f1.fx.orog.gn.v20190807
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 128 256
+  time: undefined
+  latitude: -88.93 88.93
+  longitude: 0.00 358.59
+  size: 140288
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp534-over
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190807
+  files:
+  - orog_fx_MIROC6_ssp534-over_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp245/r1i1p1f1/fx/orog/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp245.r1i1p1f1.fx.orog.gn.v20190710
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190710
+  files:
+  - orog_fx_MPI-ESM1-2-LR_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM4-8/ssp126/r1i1p1f1/fx/sftgif/gr1/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM4-8.ssp126.r1i1p1f1.fx.sftgif.gr1.v20190603
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93608
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM4-8
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gr1
+    version: v20190603
+  files:
+  - sftgif_fx_INM-CM4-8_ssp126_r1i1p1f1_gr1.nc
+
+- path: CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Ofx/areacello/gn/v20190710
+  ds_id: c3s-cmip6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.Ofx.areacello.gn.v20190710
+  var_id: areacello
+  array_dims: j i
+  array_shape: 404 802
+  time: undefined
+  latitude: -78.72 89.76
+  longitude: 0.01 360.00
+  size: 27221496
+  size_gb: 0.03
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-HR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: areacello
+    grid_label: gn
+    version: v20190710
+  files:
+  - areacello_Ofx_MPI-ESM1-2-HR_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp585/r1i1p1f1/fx/sftgif/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp585.r1i1p1f1.fx.sftgif.gn.v20190603
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216328
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190603
+  files:
+  - sftgif_fx_MRI-ESM2-0_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp434/r1i1p1f1/fx/mrsofc/gr/v20190506
+  ds_id: c3s-cmip6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp434.r1i1p1f1.fx.mrsofc.gr.v20190506
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 143 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 83516
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: ssp434
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gr
+    version: v20190506
+  files:
+  - mrsofc_fx_IPSL-CM6A-LR_ssp434_r1i1p1f1_gr.nc
+
+- path: CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/fx/sftlf/gn/v20190603
+  ds_id: c3s-cmip6.CMIP.MRI.MRI-ESM2-0.historical.r1i1p1f1.fx.sftlf.gn.v20190603
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216324
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190603
+  files:
+  - sftlf_fx_MRI-ESM2-0_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp119/r1i1p1f1/Ofx/sftof/gn/v20190807
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp119.r1i1p1f1.Ofx.sftof.gn.v20190807
+  var_id: sftof
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069827
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190807
+  files:
+  - sftof_Ofx_MIROC6_ssp119_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp434/r1i1p1f1/fx/sftlf/gr/v20190506
+  ds_id: c3s-cmip6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp434.r1i1p1f1.fx.sftlf.gr.v20190506
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 143 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 83771
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: ssp434
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gr
+    version: v20190506
+  files:
+  - sftlf_fx_IPSL-CM6A-LR_ssp434_r1i1p1f1_gr.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp370/r1i1p1f1/Ofx/areacello/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp370.r1i1p1f1.Ofx.areacello.gn.v20190710
+  var_id: areacello
+  array_dims: j i
+  array_shape: 404 802
+  time: undefined
+  latitude: -78.72 89.76
+  longitude: 0.01 360.00
+  size: 27221496
+  size_gb: 0.03
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: areacello
+    grid_label: gn
+    version: v20190710
+  files:
+  - areacello_Ofx_MPI-ESM1-2-HR_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp245/r1i1p1f1/fx/orog/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp245.r1i1p1f1.fx.orog.gn.v20190627
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 128 256
+  time: undefined
+  latitude: -88.93 88.93
+  longitude: 0.00 358.59
+  size: 140288
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190627
+  files:
+  - orog_fx_MIROC6_ssp245_r1i1p1f1_gn.nc
+
+- path: CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/fx/orog/gr1/v20190726
+  ds_id: c3s-cmip6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.fx.orog.gr1.v20190726
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 180 288
+  time: undefined
+  latitude: -89.50 89.50
+  longitude: 0.62 359.38
+  size: 218608
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: NOAA-GFDL
+    source_id: GFDL-ESM4
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gr1
+    version: v20190726
+  files:
+  - orog_fx_GFDL-ESM4_historical_r1i1p1f1_gr1.nc
+
+- path: CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/fx/orog/gn/v20190710
+  ds_id: c3s-cmip6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.fx.orog.gn.v20190710
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-HR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190710
+  files:
+  - orog_fx_MPI-ESM1-2-HR_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp585/r1i1p1f1/Ofx/sftof/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp585.r1i1p1f1.Ofx.sftof.gn.v20190429
+  var_id: sftof
+  array_dims: j i
+  array_shape: 291 360
+  time: undefined
+  latitude: -78.39 89.74
+  longitude: 0.05 359.99
+  size: 8802447
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftof_Ofx_CanESM5_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp370/r1i1p1f1/fx/sftgif/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp370.r1i1p1f1.fx.sftgif.gn.v20190603
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216328
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190603
+  files:
+  - sftgif_fx_MRI-ESM2-0_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp126/r1i1p1f1/fx/orog/gr1/v20180701
+  ds_id: c3s-cmip6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp126.r1i1p1f1.fx.orog.gr1.v20180701
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 180 288
+  time: undefined
+  latitude: -89.50 89.50
+  longitude: 0.62 359.38
+  size: 218608
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NOAA-GFDL
+    source_id: GFDL-ESM4
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gr1
+    version: v20180701
+  files:
+  - orog_fx_GFDL-ESM4_ssp126_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp126/r1i1p1f1/fx/orog/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp126.r1i1p1f1.fx.orog.gn.v20190710
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190710
+  files:
+  - orog_fx_MPI-ESM1-2-LR_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp126/r1i1p1f1/fx/sftlf/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp126.r1i1p1f1.fx.sftlf.gn.v20190710
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftlf_fx_MPI-ESM1-2-LR_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM4-8/ssp245/r1i1p1f1/fx/orog/gr1/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM4-8.ssp245.r1i1p1f1.fx.orog.gr1.v20190603
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93600
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM4-8
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gr1
+    version: v20190603
+  files:
+  - orog_fx_INM-CM4-8_ssp245_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp370/r1i1p1f1/Ofx/deptho/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp370.r1i1p1f1.Ofx.deptho.gn.v20190429
+  var_id: deptho
+  array_dims: j i
+  array_shape: 291 360
+  time: undefined
+  latitude: -78.39 89.74
+  longitude: 0.05 359.99
+  size: 8802444
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190429
+  files:
+  - deptho_Ofx_CanESM5_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp126/r1i1p1f1/fx/orog/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp126.r1i1p1f1.fx.orog.gn.v20190627
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 128 256
+  time: undefined
+  latitude: -88.93 88.93
+  longitude: 0.00 358.59
+  size: 140288
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190627
+  files:
+  - orog_fx_MIROC6_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/fx/orog/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp126.r1i1p1f1.fx.orog.gn.v20190710
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190710
+  files:
+  - orog_fx_MPI-ESM1-2-HR_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp370/r1i1p1f1/fx/mrsofc/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp370.r1i1p1f1.fx.mrsofc.gn.v20190710
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gn
+    version: v20190710
+  files:
+  - mrsofc_fx_MPI-ESM1-2-HR_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp585/r1i1p1f1/fx/orog/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp585.r1i1p1f1.fx.orog.gn.v20191108
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 192 288
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 358.75
+  size: 232704
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20191108
+  files:
+  - orog_fx_NorESM2-MM_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM4-8/ssp585/r1i1p1f1/fx/sftlf/gr1/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM4-8.ssp585.r1i1p1f1.fx.sftlf.gr1.v20190603
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93604
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM4-8
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gr1
+    version: v20190603
+  files:
+  - sftlf_fx_INM-CM4-8_ssp585_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp245/r1i1p1f1/Ofx/deptho/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp245.r1i1p1f1.Ofx.deptho.gn.v20190710
+  var_id: deptho
+  array_dims: j i
+  array_shape: 220 256
+  time: undefined
+  latitude: -83.97 89.73
+  longitude: 0.01 360.00
+  size: 4732784
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190710
+  files:
+  - deptho_Ofx_MPI-ESM1-2-LR_ssp245_r1i1p1f1_gn.nc
+
+- path: CMIP/CCCma/CanESM5/historical/r1i1p1f1/fx/sftlf/gn/v20190429
+  ds_id: c3s-cmip6.CMIP.CCCma.CanESM5.historical.r1i1p1f1.fx.sftlf.gn.v20190429
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37380
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftlf_fx_CanESM5_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp370/r1i1p1f1/Ofx/deptho/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp370.r1i1p1f1.Ofx.deptho.gn.v20191108
+  var_id: deptho
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20191108
+  files:
+  - deptho_Ofx_NorESM2-LM_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp370/r1i1p1f1/fx/sftlf/gr/v20190119
+  ds_id: c3s-cmip6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp370.r1i1p1f1.fx.sftlf.gr.v20190119
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 143 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 83771
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gr
+    version: v20190119
+  files:
+  - sftlf_fx_IPSL-CM6A-LR_ssp370_r1i1p1f1_gr.nc
+
+- path: CMIP/INM/INM-CM5-0/historical/r1i1p1f1/fx/orog/gr1/v20190610
+  ds_id: c3s-cmip6.CMIP.INM.INM-CM5-0.historical.r1i1p1f1.fx.orog.gr1.v20190610
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93600
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: INM
+    source_id: INM-CM5-0
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gr1
+    version: v20190610
+  files:
+  - orog_fx_INM-CM5-0_historical_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp119/r1i1p1f1/fx/sftgif/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp119.r1i1p1f1.fx.sftgif.gn.v20190429
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37376
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftgif_fx_CanESM5_ssp119_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp585/r1i1p1f1/Ofx/deptho/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp585.r1i1p1f1.Ofx.deptho.gn.v20191108
+  var_id: deptho
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20191108
+  files:
+  - deptho_Ofx_NorESM2-LM_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp370/r1i1p1f1/fx/mrsofc/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp370.r1i1p1f1.fx.mrsofc.gn.v20190710
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gn
+    version: v20190710
+  files:
+  - mrsofc_fx_MPI-ESM1-2-LR_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp534-over/r1i1p1f1/Ofx/deptho/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp534-over.r1i1p1f1.Ofx.deptho.gn.v20190429
+  var_id: deptho
+  array_dims: j i
+  array_shape: 291 360
+  time: undefined
+  latitude: -78.39 89.74
+  longitude: 0.05 359.99
+  size: 8802444
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp534-over
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190429
+  files:
+  - deptho_Ofx_CanESM5_ssp534-over_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp126/r1i1p1f1/fx/sftlf/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp126.r1i1p1f1.fx.sftlf.gn.v20190603
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216324
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190603
+  files:
+  - sftlf_fx_MRI-ESM2-0_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp370/r1i1p1f1/Ofx/areacello/gn/v20190119
+  ds_id: c3s-cmip6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp370.r1i1p1f1.Ofx.areacello.gn.v20190119
+  var_id: areacello
+  array_dims: y x
+  array_shape: 332 362
+  time: undefined
+  latitude: -85.79 89.74
+  longitude: -180.00 179.99
+  size: 5768832
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: areacello
+    grid_label: gn
+    version: v20190119
+  files:
+  - areacello_Ofx_IPSL-CM6A-LR_ssp370_r1i1p1f1_gn.nc
+
+- path: CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Ofx/sftof/gn/v20191108
+  ds_id: c3s-cmip6.CMIP.NCC.NorESM2-MM.historical.r1i1p1f1.Ofx.sftof.gn.v20191108
+  var_id: sftof
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftof_Ofx_NorESM2-MM_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp245/r1i1p1f1/fx/mrsofc/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp245.r1i1p1f1.fx.mrsofc.gn.v20190710
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gn
+    version: v20190710
+  files:
+  - mrsofc_fx_MPI-ESM1-2-HR_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp534-over/r1i1p1f1/fx/sftlf/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp534-over.r1i1p1f1.fx.sftlf.gn.v20190429
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37380
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp534-over
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftlf_fx_CanESM5_ssp534-over_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp119/r1i1p1f1/fx/sftgif/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp119.r1i1p1f1.fx.sftgif.gn.v20190603
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216328
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190603
+  files:
+  - sftgif_fx_MRI-ESM2-0_ssp119_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM4-8/ssp585/r1i1p1f1/fx/orog/gr1/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM4-8.ssp585.r1i1p1f1.fx.orog.gr1.v20190603
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93600
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM4-8
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gr1
+    version: v20190603
+  files:
+  - orog_fx_INM-CM4-8_ssp585_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp126/r1i1p1f1/Ofx/deptho/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp126.r1i1p1f1.Ofx.deptho.gn.v20190429
+  var_id: deptho
+  array_dims: j i
+  array_shape: 291 360
+  time: undefined
+  latitude: -78.39 89.74
+  longitude: 0.05 359.99
+  size: 8802444
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190429
+  files:
+  - deptho_Ofx_CanESM5_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp370/r1i1p1f1/fx/mrsofc/gr/v20190119
+  ds_id: c3s-cmip6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp370.r1i1p1f1.fx.mrsofc.gr.v20190119
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 143 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 83516
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gr
+    version: v20190119
+  files:
+  - mrsofc_fx_IPSL-CM6A-LR_ssp370_r1i1p1f1_gr.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp370/r1i1p1f1/Ofx/sftof/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp370.r1i1p1f1.Ofx.sftof.gn.v20191108
+  var_id: sftof
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftof_Ofx_NorESM2-LM_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp245/r1i1p1f1/fx/orog/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp245.r1i1p1f1.fx.orog.gn.v20190603
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216320
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190603
+  files:
+  - orog_fx_MRI-ESM2-0_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp245/r1i1p1f1/fx/orog/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp245.r1i1p1f1.fx.orog.gn.v20191108
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 96 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 61056
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20191108
+  files:
+  - orog_fx_NorESM2-LM_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp370/r1i1p1f1/fx/orog/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp370.r1i1p1f1.fx.orog.gn.v20191108
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 192 288
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 358.75
+  size: 232704
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20191108
+  files:
+  - orog_fx_NorESM2-MM_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp126/r1i1p1f1/fx/orog/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp126.r1i1p1f1.fx.orog.gn.v20190429
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37376
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190429
+  files:
+  - orog_fx_CanESM5_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/fx/sftlf/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp126.r1i1p1f1.fx.sftlf.gn.v20190710
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftlf_fx_MPI-ESM1-2-HR_ssp126_r1i1p1f1_gn.nc
+
+- path: CMIP/INM/INM-CM5-0/historical/r1i1p1f1/fx/mrsofc/gr1/v20190610
+  ds_id: c3s-cmip6.CMIP.INM.INM-CM5-0.historical.r1i1p1f1.fx.mrsofc.gr1.v20190610
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93600
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: INM
+    source_id: INM-CM5-0
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gr1
+    version: v20190610
+  files:
+  - mrsofc_fx_INM-CM5-0_historical_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp119/r1i1p1f1/fx/orog/gn/v20180701
+  ds_id: c3s-cmip6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp119.r1i1p1f1.fx.orog.gn.v20180701
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 96 96
+  time: undefined
+  latitude: 1.00 96.00
+  longitude: 1.00 96.00
+  size: 38400
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NOAA-GFDL
+    source_id: GFDL-ESM4
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20180701
+  files:
+  - orog_fx_GFDL-ESM4_ssp119_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp245/r1i1p1f1/fx/mrsofc/gr/v20190119
+  ds_id: c3s-cmip6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp245.r1i1p1f1.fx.mrsofc.gr.v20190119
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 143 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 83516
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gr
+    version: v20190119
+  files:
+  - mrsofc_fx_IPSL-CM6A-LR_ssp245_r1i1p1f1_gr.nc
+
+- path: CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Ofx/areacello/gn/v20191108
+  ds_id: c3s-cmip6.CMIP.NCC.NorESM2-MM.historical.r1i1p1f1.Ofx.areacello.gn.v20191108
+  var_id: areacello
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: areacello
+    grid_label: gn
+    version: v20191108
+  files:
+  - areacello_Ofx_NorESM2-MM_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp126/r1i1p1f1/Ofx/sftof/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp126.r1i1p1f1.Ofx.sftof.gn.v20191108
+  var_id: sftof
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftof_Ofx_NorESM2-MM_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp245/r1i1p1f1/fx/sftlf/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp245.r1i1p1f1.fx.sftlf.gn.v20190710
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftlf_fx_MPI-ESM1-2-HR_ssp245_r1i1p1f1_gn.nc
+
+- path: CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/fx/mrsofc/gn/v20190710
+  ds_id: c3s-cmip6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.fx.mrsofc.gn.v20190710
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 192 384
+  time: undefined
+  latitude: -89.28 89.28
+  longitude: 0.00 359.06
+  size: 308736
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-HR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gn
+    version: v20190710
+  files:
+  - mrsofc_fx_MPI-ESM1-2-HR_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp119/r1i1p1f1/fx/sftlf/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp119.r1i1p1f1.fx.sftlf.gn.v20190429
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37380
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftlf_fx_CanESM5_ssp119_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp245/r1i1p1f1/Ofx/deptho/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp245.r1i1p1f1.Ofx.deptho.gn.v20190627
+  var_id: deptho
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069824
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190627
+  files:
+  - deptho_Ofx_MIROC6_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp534-over/r1i1p1f1/fx/sftlf/gn/v20190807
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp534-over.r1i1p1f1.fx.sftlf.gn.v20190807
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 128 256
+  time: undefined
+  latitude: -88.93 88.93
+  longitude: 0.00 358.59
+  size: 140292
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp534-over
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190807
+  files:
+  - sftlf_fx_MIROC6_ssp534-over_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp245/r1i1p1f1/fx/sftlf/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp245.r1i1p1f1.fx.sftlf.gn.v20190603
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216324
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190603
+  files:
+  - sftlf_fx_MRI-ESM2-0_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp534-over/r1i1p1f1/fx/mrsofc/gr/v20190909
+  ds_id: c3s-cmip6.ScenarioMIP.IPSL.IPSL-CM6A-LR.ssp534-over.r1i1p1f1.fx.mrsofc.gr.v20190909
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 143 144
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 357.50
+  size: 83516
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: ssp534-over
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gr
+    version: v20190909
+  files:
+  - mrsofc_fx_IPSL-CM6A-LR_ssp534-over_r1i1p1f1_gr.nc
+
+- path: ScenarioMIP/INM/INM-CM5-0/ssp370/r1i1p1f1/fx/mrsofc/gr1/v20190618
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM5-0.ssp370.r1i1p1f1.fx.mrsofc.gr1.v20190618
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93600
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM5-0
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gr1
+    version: v20190618
+  files:
+  - mrsofc_fx_INM-CM5-0_ssp370_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp245/r1i1p1f1/fx/orog/gr1/v20180701
+  ds_id: c3s-cmip6.ScenarioMIP.NOAA-GFDL.GFDL-ESM4.ssp245.r1i1p1f1.fx.orog.gr1.v20180701
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 180 288
+  time: undefined
+  latitude: -89.50 89.50
+  longitude: 0.62 359.38
+  size: 218608
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NOAA-GFDL
+    source_id: GFDL-ESM4
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gr1
+    version: v20180701
+  files:
+  - orog_fx_GFDL-ESM4_ssp245_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp119/r1i1p1f1/Ofx/deptho/gn/v20190807
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp119.r1i1p1f1.Ofx.deptho.gn.v20190807
+  var_id: deptho
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069824
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190807
+  files:
+  - deptho_Ofx_MIROC6_ssp119_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp370/r1i1p1f1/fx/orog/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp370.r1i1p1f1.fx.orog.gn.v20190627
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 128 256
+  time: undefined
+  latitude: -88.93 88.93
+  longitude: 0.00 358.59
+  size: 140288
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190627
+  files:
+  - orog_fx_MIROC6_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp585/r1i1p1f1/fx/orog/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp585.r1i1p1f1.fx.orog.gn.v20190603
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216320
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190603
+  files:
+  - orog_fx_MRI-ESM2-0_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp585/r1i1p1f1/Ofx/sftof/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp585.r1i1p1f1.Ofx.sftof.gn.v20190710
+  var_id: sftof
+  array_dims: j i
+  array_shape: 220 256
+  time: undefined
+  latitude: -83.97 89.73
+  longitude: 0.01 360.00
+  size: 4732784
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftof_Ofx_MPI-ESM1-2-LR_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp370/r1i1p1f1/fx/orog/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp370.r1i1p1f1.fx.orog.gn.v20190429
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37376
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190429
+  files:
+  - orog_fx_CanESM5_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM4-8/ssp585/r1i1p1f1/fx/sftgif/gr1/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM4-8.ssp585.r1i1p1f1.fx.sftgif.gr1.v20190603
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93608
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM4-8
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gr1
+    version: v20190603
+  files:
+  - sftgif_fx_INM-CM4-8_ssp585_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp370/r1i1p1f1/Ofx/areacello/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp370.r1i1p1f1.Ofx.areacello.gn.v20191108
+  var_id: areacello
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: areacello
+    grid_label: gn
+    version: v20191108
+  files:
+  - areacello_Ofx_NorESM2-MM_ssp370_r1i1p1f1_gn.nc
+
+- path: CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/Ofx/sftof/gn/v20190710
+  ds_id: c3s-cmip6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.Ofx.sftof.gn.v20190710
+  var_id: sftof
+  array_dims: j i
+  array_shape: 220 256
+  time: undefined
+  latitude: -83.97 89.73
+  longitude: 0.01 360.00
+  size: 4732784
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftof_Ofx_MPI-ESM1-2-LR_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp245/r1i1p1f1/Ofx/deptho/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp245.r1i1p1f1.Ofx.deptho.gn.v20190710
+  var_id: deptho
+  array_dims: j i
+  array_shape: 404 802
+  time: undefined
+  latitude: -78.72 89.76
+  longitude: 0.01 360.00
+  size: 27221496
+  size_gb: 0.03
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190710
+  files:
+  - deptho_Ofx_MPI-ESM1-2-HR_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM4-8/ssp126/r1i1p1f1/fx/mrsofc/gr1/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM4-8.ssp126.r1i1p1f1.fx.mrsofc.gr1.v20190603
+  var_id: mrsofc
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93600
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM4-8
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: mrsofc
+    grid_label: gr1
+    version: v20190603
+  files:
+  - mrsofc_fx_INM-CM4-8_ssp126_r1i1p1f1_gr1.nc
+
+- path: CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Ofx/deptho/gn/v20191108
+  ds_id: c3s-cmip6.CMIP.NCC.NorESM2-MM.historical.r1i1p1f1.Ofx.deptho.gn.v20191108
+  var_id: deptho
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20191108
+  files:
+  - deptho_Ofx_NorESM2-MM_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp245/r1i1p1f1/Ofx/sftof/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp245.r1i1p1f1.Ofx.sftof.gn.v20191108
+  var_id: sftof
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftof_Ofx_NorESM2-MM_ssp245_r1i1p1f1_gn.nc
+
+- path: CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/fx/orog/gn/v20191108
+  ds_id: c3s-cmip6.CMIP.NCC.NorESM2-MM.historical.r1i1p1f1.fx.orog.gn.v20191108
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 192 288
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 358.75
+  size: 232704
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20191108
+  files:
+  - orog_fx_NorESM2-MM_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp585/r1i1p1f1/Ofx/sftof/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp585.r1i1p1f1.Ofx.sftof.gn.v20190627
+  var_id: sftof
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069827
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190627
+  files:
+  - sftof_Ofx_MIROC6_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM5-0/ssp370/r1i1p1f1/fx/orog/gr1/v20190618
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM5-0.ssp370.r1i1p1f1.fx.orog.gr1.v20190618
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93600
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM5-0
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gr1
+    version: v20190618
+  files:
+  - orog_fx_INM-CM5-0_ssp370_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp126/r1i1p1f1/fx/sftlf/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp126.r1i1p1f1.fx.sftlf.gn.v20190429
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37380
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftlf_fx_CanESM5_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp370/r1i1p1f1/Ofx/sftof/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp370.r1i1p1f1.Ofx.sftof.gn.v20190710
+  var_id: sftof
+  array_dims: j i
+  array_shape: 404 802
+  time: undefined
+  latitude: -78.72 89.76
+  longitude: 0.01 360.00
+  size: 27221496
+  size_gb: 0.03
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftof_Ofx_MPI-ESM1-2-HR_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp245/r1i1p1f1/fx/sftlf/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp245.r1i1p1f1.fx.sftlf.gn.v20190627
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 128 256
+  time: undefined
+  latitude: -88.93 88.93
+  longitude: 0.00 358.59
+  size: 140292
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190627
+  files:
+  - sftlf_fx_MIROC6_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp245/r1i1p1f1/Ofx/deptho/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp245.r1i1p1f1.Ofx.deptho.gn.v20191108
+  var_id: deptho
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20191108
+  files:
+  - deptho_Ofx_NorESM2-MM_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp585/r1i1p1f1/fx/orog/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp585.r1i1p1f1.fx.orog.gn.v20190627
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 128 256
+  time: undefined
+  latitude: -88.93 88.93
+  longitude: 0.00 358.59
+  size: 140288
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190627
+  files:
+  - orog_fx_MIROC6_ssp585_r1i1p1f1_gn.nc
+
+- path: CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/fx/sftlf/gn/v20191108
+  ds_id: c3s-cmip6.CMIP.NCC.NorESM2-MM.historical.r1i1p1f1.fx.sftlf.gn.v20191108
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 192 288
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 358.75
+  size: 232704
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftlf_fx_NorESM2-MM_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp119/r1i1p1f1/fx/sftlf/gn/v20190807
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp119.r1i1p1f1.fx.sftlf.gn.v20190807
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 128 256
+  time: undefined
+  latitude: -88.93 88.93
+  longitude: 0.00 358.59
+  size: 140292
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190807
+  files:
+  - sftlf_fx_MIROC6_ssp119_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp370/r1i1p1f1/fx/sftgif/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp370.r1i1p1f1.fx.sftgif.gn.v20190429
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37376
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftgif_fx_CanESM5_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp370/r1i1p1f1/Ofx/areacello/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp370.r1i1p1f1.Ofx.areacello.gn.v20190429
+  var_id: areacello
+  array_dims: j i
+  array_shape: 291 360
+  time: undefined
+  latitude: -78.39 89.74
+  longitude: 0.05 359.99
+  size: 8802444
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: areacello
+    grid_label: gn
+    version: v20190429
+  files:
+  - areacello_Ofx_CanESM5_ssp370_r1i1p1f1_gn.nc
+
+- path: CMIP/INM/INM-CM5-0/historical/r1i1p1f1/fx/sftgif/gr1/v20190610
+  ds_id: c3s-cmip6.CMIP.INM.INM-CM5-0.historical.r1i1p1f1.fx.sftgif.gr1.v20190610
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93608
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: INM
+    source_id: INM-CM5-0
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gr1
+    version: v20190610
+  files:
+  - sftgif_fx_INM-CM5-0_historical_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp585/r1i1p1f1/Ofx/sftof/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp585.r1i1p1f1.Ofx.sftof.gn.v20191108
+  var_id: sftof
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftof_Ofx_NorESM2-MM_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM4-8/ssp126/r1i1p1f1/fx/orog/gr1/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM4-8.ssp126.r1i1p1f1.fx.orog.gr1.v20190603
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93600
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM4-8
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gr1
+    version: v20190603
+  files:
+  - orog_fx_INM-CM4-8_ssp126_r1i1p1f1_gr1.nc
+
+- path: CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/fx/sftlf/gn/v20190710
+  ds_id: c3s-cmip6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.fx.sftlf.gn.v20190710
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftlf_fx_MPI-ESM1-2-LR_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp370/r1i1p1f1/Ofx/sftof/gn/v20190627
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp370.r1i1p1f1.Ofx.sftof.gn.v20190627
+  var_id: sftof
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069827
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190627
+  files:
+  - sftof_Ofx_MIROC6_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp126/r1i1p1f1/Ofx/sftof/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp126.r1i1p1f1.Ofx.sftof.gn.v20191108
+  var_id: sftof
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20191108
+  files:
+  - sftof_Ofx_NorESM2-LM_ssp126_r1i1p1f1_gn.nc
+
+- path: CMIP/MIROC/MIROC6/historical/r1i1p1f1/fx/sftlf/gn/v20190311
+  ds_id: c3s-cmip6.CMIP.MIROC.MIROC6.historical.r1i1p1f1.fx.sftlf.gn.v20190311
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 128 256
+  time: undefined
+  latitude: -88.93 88.93
+  longitude: 0.00 358.59
+  size: 140292
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190311
+  files:
+  - sftlf_fx_MIROC6_historical_r1i1p1f1_gn.nc
+
+- path: CMIP/CCCma/CanESM5/historical/r1i1p1f1/fx/sftgif/gn/v20190429
+  ds_id: c3s-cmip6.CMIP.CCCma.CanESM5.historical.r1i1p1f1.fx.sftgif.gn.v20190429
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37376
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftgif_fx_CanESM5_historical_r1i1p1f1_gn.nc
+
+- path: CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Ofx/sftof/gn/v20190710
+  ds_id: c3s-cmip6.CMIP.MPI-M.MPI-ESM1-2-HR.historical.r1i1p1f1.Ofx.sftof.gn.v20190710
+  var_id: sftof
+  array_dims: j i
+  array_shape: 404 802
+  time: undefined
+  latitude: -78.72 89.76
+  longitude: 0.01 360.00
+  size: 27221496
+  size_gb: 0.03
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-HR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftof_Ofx_MPI-ESM1-2-HR_historical_r1i1p1f1_gn.nc
+
+- path: CMIP/SNU/SAM0-UNICON/historical/r1i1p1f1/fx/sftgif/gn/v20190323
+  ds_id: c3s-cmip6.CMIP.SNU.SAM0-UNICON.historical.r1i1p1f1.fx.sftgif.gn.v20190323
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 192 288
+  time: undefined
+  latitude: -90.00 90.00
+  longitude: 0.00 358.75
+  size: 232712
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: SNU
+    source_id: SAM0-UNICON
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190323
+  files:
+  - sftgif_fx_SAM0-UNICON_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp370/r1i1p1f1/Ofx/deptho/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp370.r1i1p1f1.Ofx.deptho.gn.v20191108
+  var_id: deptho
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20191108
+  files:
+  - deptho_Ofx_NorESM2-MM_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp119/r1i1p1f1/Ofx/deptho/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp119.r1i1p1f1.Ofx.deptho.gn.v20190429
+  var_id: deptho
+  array_dims: j i
+  array_shape: 291 360
+  time: undefined
+  latitude: -78.39 89.74
+  longitude: 0.05 359.99
+  size: 8802444
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190429
+  files:
+  - deptho_Ofx_CanESM5_ssp119_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-LM/ssp245/r1i1p1f1/Ofx/deptho/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-LM.ssp245.r1i1p1f1.Ofx.deptho.gn.v20191108
+  var_id: deptho
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-LM
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20191108
+  files:
+  - deptho_Ofx_NorESM2-LM_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp534-over/r1i1p1f1/fx/sftgif/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp534-over.r1i1p1f1.fx.sftgif.gn.v20190603
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216328
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp534-over
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190603
+  files:
+  - sftgif_fx_MRI-ESM2-0_ssp534-over_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM5-0/ssp245/r1i1p1f1/fx/sftgif/gr1/v20190619
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM5-0.ssp245.r1i1p1f1.fx.sftgif.gr1.v20190619
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93608
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM5-0
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gr1
+    version: v20190619
+  files:
+  - sftgif_fx_INM-CM5-0_ssp245_r1i1p1f1_gr1.nc
+
+- path: CMIP/CCCma/CanESM5/historical/r1i1p1f1/Ofx/areacello/gn/v20190429
+  ds_id: c3s-cmip6.CMIP.CCCma.CanESM5.historical.r1i1p1f1.Ofx.areacello.gn.v20190429
+  var_id: areacello
+  array_dims: j i
+  array_shape: 291 360
+  time: undefined
+  latitude: -78.39 89.74
+  longitude: 0.05 359.99
+  size: 8802444
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: areacello
+    grid_label: gn
+    version: v20190429
+  files:
+  - areacello_Ofx_CanESM5_historical_r1i1p1f1_gn.nc
+
+- path: CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/fx/sftgif/gn/v20190603
+  ds_id: c3s-cmip6.CMIP.MRI.MRI-ESM2-0.historical.r1i1p1f1.fx.sftgif.gn.v20190603
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216328
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190603
+  files:
+  - sftgif_fx_MRI-ESM2-0_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM4-8/ssp370/r1i1p1f1/fx/sftgif/gr1/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM4-8.ssp370.r1i1p1f1.fx.sftgif.gr1.v20190603
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93608
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM4-8
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gr1
+    version: v20190603
+  files:
+  - sftgif_fx_INM-CM4-8_ssp370_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp126/r1i1p1f1/fx/sftgif/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp126.r1i1p1f1.fx.sftgif.gn.v20190603
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216328
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp126
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190603
+  files:
+  - sftgif_fx_MRI-ESM2-0_ssp126_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp585/r1i1p1f1/fx/sftgif/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp585.r1i1p1f1.fx.sftgif.gn.v20190429
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 64 128
+  time: undefined
+  latitude: -87.86 87.86
+  longitude: 0.00 357.19
+  size: 37376
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftgif_fx_CanESM5_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/EC-Earth-Consortium/EC-Earth3-Veg/ssp119/r1i1p1f1/fx/sftlf/gr/v20200226
+  ds_id: c3s-cmip6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp119.r1i1p1f1.fx.sftlf.gr.v20200226
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 256 512
+  time: undefined
+  latitude: -89.46 89.46
+  longitude: 0.00 359.30
+  size: 542720
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: EC-Earth-Consortium
+    source_id: EC-Earth3-Veg
+    experiment_id: ssp119
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gr
+    version: v20200226
+  files:
+  - sftlf_fx_EC-Earth3-Veg_ssp119_r1i1p1f1_gr.nc
+
+- path: CMIP/INM/INM-CM5-0/historical/r1i1p1f1/fx/sftlf/gr1/v20190610
+  ds_id: c3s-cmip6.CMIP.INM.INM-CM5-0.historical.r1i1p1f1.fx.sftlf.gr1.v20190610
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93604
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: INM
+    source_id: INM-CM5-0
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gr1
+    version: v20190610
+  files:
+  - sftlf_fx_INM-CM5-0_historical_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/MRI/MRI-ESM2-0/ssp534-over/r1i1p1f1/fx/sftlf/gn/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.MRI.MRI-ESM2-0.ssp534-over.r1i1p1f1.fx.sftlf.gn.v20190603
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 160 320
+  time: undefined
+  latitude: -89.14 89.14
+  longitude: 0.00 358.88
+  size: 216324
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MRI
+    source_id: MRI-ESM2-0
+    experiment_id: ssp534-over
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gn
+    version: v20190603
+  files:
+  - sftlf_fx_MRI-ESM2-0_ssp534-over_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp245/r1i1p1f1/Ofx/sftof/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.DKRZ.MPI-ESM1-2-HR.ssp245.r1i1p1f1.Ofx.sftof.gn.v20190710
+  var_id: sftof
+  array_dims: j i
+  array_shape: 404 802
+  time: undefined
+  latitude: -78.72 89.76
+  longitude: 0.01 360.00
+  size: 27221496
+  size_gb: 0.03
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: DKRZ
+    source_id: MPI-ESM1-2-HR
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftof_Ofx_MPI-ESM1-2-HR_ssp245_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/CCCma/CanESM5/ssp370/r1i1p1f1/Ofx/sftof/gn/v20190429
+  ds_id: c3s-cmip6.ScenarioMIP.CCCma.CanESM5.ssp370.r1i1p1f1.Ofx.sftof.gn.v20190429
+  var_id: sftof
+  array_dims: j i
+  array_shape: 291 360
+  time: undefined
+  latitude: -78.39 89.74
+  longitude: 0.05 359.99
+  size: 8802447
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: CCCma
+    source_id: CanESM5
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190429
+  files:
+  - sftof_Ofx_CanESM5_ssp370_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/NCC/NorESM2-MM/ssp585/r1i1p1f1/Ofx/deptho/gn/v20191108
+  ds_id: c3s-cmip6.ScenarioMIP.NCC.NorESM2-MM.ssp585.r1i1p1f1.Ofx.deptho.gn.v20191108
+  var_id: deptho
+  array_dims: j i
+  array_shape: 385 360
+  time: undefined
+  latitude: -80.11 89.76
+  longitude: 0.00 359.99
+  size: 11645380
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: NCC
+    source_id: NorESM2-MM
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20191108
+  files:
+  - deptho_Ofx_NorESM2-MM_ssp585_r1i1p1f1_gn.nc
+
+- path: CMIP/IPSL/IPSL-CM6A-LR/historical/r1i1p1f1/Ofx/areacello/gn/v20180803
+  ds_id: c3s-cmip6.CMIP.IPSL.IPSL-CM6A-LR.historical.r1i1p1f1.Ofx.areacello.gn.v20180803
+  var_id: areacello
+  array_dims: y x
+  array_shape: 332 362
+  time: undefined
+  latitude: -85.79 89.74
+  longitude: -180.00 179.99
+  size: 5768832
+  size_gb: 0.01
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: IPSL
+    source_id: IPSL-CM6A-LR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: areacello
+    grid_label: gn
+    version: v20180803
+  files:
+  - areacello_Ofx_IPSL-CM6A-LR_historical_r1i1p1f1_gn.nc
+
+- path: CMIP/MIROC/MIROC6/historical/r1i1p1f1/Ofx/sftof/gn/v20190311
+  ds_id: c3s-cmip6.CMIP.MIROC.MIROC6.historical.r1i1p1f1.Ofx.sftof.gn.v20190311
+  var_id: sftof
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069827
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: sftof
+    grid_label: gn
+    version: v20190311
+  files:
+  - sftof_Ofx_MIROC6_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM4-8/ssp370/r1i1p1f1/fx/sftlf/gr1/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM4-8.ssp370.r1i1p1f1.fx.sftlf.gr1.v20190603
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93604
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM4-8
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gr1
+    version: v20190603
+  files:
+  - sftlf_fx_INM-CM4-8_ssp370_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/MIROC/MIROC6/ssp534-over/r1i1p1f1/Ofx/deptho/gn/v20190807
+  ds_id: c3s-cmip6.ScenarioMIP.MIROC.MIROC6.ssp534-over.r1i1p1f1.Ofx.deptho.gn.v20190807
+  var_id: deptho
+  array_dims: y x
+  array_shape: 256 360
+  time: undefined
+  latitude: -88.00 89.75
+  longitude: 0.02 359.97
+  size: 4069824
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MIROC
+    source_id: MIROC6
+    experiment_id: ssp534-over
+    member_id: r1i1p1f1
+    table_id: Ofx
+    variable_id: deptho
+    grid_label: gn
+    version: v20190807
+  files:
+  - deptho_Ofx_MIROC6_ssp534-over_r1i1p1f1_gn.nc
+
+- path: CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/fx/orog/gn/v20190710
+  ds_id: c3s-cmip6.CMIP.MPI-M.MPI-ESM1-2-LR.historical.r1i1p1f1.fx.orog.gn.v20190710
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: CMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: historical
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gn
+    version: v20190710
+  files:
+  - orog_fx_MPI-ESM1-2-LR_historical_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp585/r1i1p1f1/fx/sftgif/gn/v20190710
+  ds_id: c3s-cmip6.ScenarioMIP.MPI-M.MPI-ESM1-2-LR.ssp585.r1i1p1f1.fx.sftgif.gn.v20190710
+  var_id: sftgif
+  array_dims: lat lon
+  array_shape: 96 192
+  time: undefined
+  latitude: -88.57 88.57
+  longitude: 0.00 358.12
+  size: 80640
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: MPI-M
+    source_id: MPI-ESM1-2-LR
+    experiment_id: ssp585
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftgif
+    grid_label: gn
+    version: v20190710
+  files:
+  - sftgif_fx_MPI-ESM1-2-LR_ssp585_r1i1p1f1_gn.nc
+
+- path: ScenarioMIP/INM/INM-CM4-8/ssp245/r1i1p1f1/fx/sftlf/gr1/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM4-8.ssp245.r1i1p1f1.fx.sftlf.gr1.v20190603
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93604
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM4-8
+    experiment_id: ssp245
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gr1
+    version: v20190603
+  files:
+  - sftlf_fx_INM-CM4-8_ssp245_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/INM/INM-CM4-8/ssp370/r1i1p1f1/fx/orog/gr1/v20190603
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM4-8.ssp370.r1i1p1f1.fx.orog.gr1.v20190603
+  var_id: orog
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93600
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM4-8
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: orog
+    grid_label: gr1
+    version: v20190603
+  files:
+  - orog_fx_INM-CM4-8_ssp370_r1i1p1f1_gr1.nc
+
+- path: ScenarioMIP/INM/INM-CM5-0/ssp370/r1i1p1f1/fx/sftlf/gr1/v20190618
+  ds_id: c3s-cmip6.ScenarioMIP.INM.INM-CM5-0.ssp370.r1i1p1f1.fx.sftlf.gr1.v20190618
+  var_id: sftlf
+  array_dims: lat lon
+  array_shape: 120 180
+  time: undefined
+  latitude: -89.25 89.25
+  longitude: 0.00 358.00
+  size: 93604
+  size_gb: 0.0
+  file_count: 1
+  facets:
+    mip_era: c3s-cmip6
+    activity_id: ScenarioMIP
+    institution_id: INM
+    source_id: INM-CM5-0
+    experiment_id: ssp370
+    member_id: r1i1p1f1
+    table_id: fx
+    variable_id: sftlf
+    grid_label: gr1
+    version: v20190618
+  files:
+  - sftlf_fx_INM-CM5-0_ssp370_r1i1p1f1_gr1.nc
