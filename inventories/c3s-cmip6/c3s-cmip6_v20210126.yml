@@ -32341,7 +32341,7 @@
     grid_label: gn
     version: v20190429
 
-- path: CMIP6/CMIP6/CMIP/NCC/NorCPM1/historical/r1i1p1f1/day/pr/gn/v20191005
+- path: CMIP6/CMIP/NCC/NorCPM1/historical/r1i1p1f1/day/pr/gn/v20191005
   ds_id: CMIP6.CMIP.NCC.NorCPM1.historical.r1i1p1f1.day.pr.gn.v20191005
   var_id: pr
   array_dims: time lat lon
@@ -32364,7 +32364,7 @@
     grid_label: gn
     version: v20191005
 
-- path: CMIP6/CMIP6/CMIP/NCC/NorCPM1/historical/r1i1p1f1/day/tas/gn/v20191005
+- path: CMIP6/CMIP/NCC/NorCPM1/historical/r1i1p1f1/day/tas/gn/v20191005
   ds_id: CMIP6.CMIP.NCC.NorCPM1.historical.r1i1p1f1.day.tas.gn.v20191005
   var_id: tas
   array_dims: time lat lon
@@ -32388,7 +32388,7 @@
     grid_label: gn
     version: v20191005
 
-- path: CMIP6/CMIP6/CMIP/NCC/NorCPM1/historical/r1i1p1f1/day/tasmin/gn/v20191005
+- path: CMIP6/CMIP/NCC/NorCPM1/historical/r1i1p1f1/day/tasmin/gn/v20191005
   ds_id: CMIP6.CMIP.NCC.NorCPM1.historical.r1i1p1f1.day.tasmin.gn.v20191005
   var_id: tasmin
   array_dims: time lat lon
