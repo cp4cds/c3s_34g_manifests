@@ -46060,7 +46060,7 @@
   files:
   - rlds_Amon_CanESM5_historical_r1i1p1f1_gn_185001-201412.nc
 
-- path: CMIP6/CMIP6/CMIP/NCC/NorCPM1/historical/r1i1p1f1/day/pr/gn/v20191005
+- path: CMIP6/CMIP/NCC/NorCPM1/historical/r1i1p1f1/day/pr/gn/v20191005
   ds_id: CMIP6.CMIP.NCC.NorCPM1.historical.r1i1p1f1.day.pr.gn.v20191005
   var_id: pr
   array_dims: time lat lon
@@ -46087,7 +46087,7 @@
   - pr_day_NorCPM1_historical_r1i1p1f1_gn_20150101-20181231.nc
   - pr_day_NorCPM1_historical_r1i1p1f1_gn_20190101-20291231.nc
 
-- path: CMIP6/CMIP6/CMIP/NCC/NorCPM1/historical/r1i1p1f1/day/tas/gn/v20191005
+- path: CMIP6/CMIP/NCC/NorCPM1/historical/r1i1p1f1/day/tas/gn/v20191005
   ds_id: CMIP6.CMIP.NCC.NorCPM1.historical.r1i1p1f1.day.tas.gn.v20191005
   var_id: tas
   array_dims: time lat lon
@@ -46115,7 +46115,7 @@
   - tas_day_NorCPM1_historical_r1i1p1f1_gn_20150101-20181231.nc
   - tas_day_NorCPM1_historical_r1i1p1f1_gn_20190101-20291231.nc
 
-- path: CMIP6/CMIP6/CMIP/NCC/NorCPM1/historical/r1i1p1f1/day/tasmin/gn/v20191005
+- path: CMIP6/CMIP/NCC/NorCPM1/historical/r1i1p1f1/day/tasmin/gn/v20191005
   ds_id: CMIP6.CMIP.NCC.NorCPM1.historical.r1i1p1f1.day.tasmin.gn.v20191005
   var_id: tasmin
   array_dims: time lat lon
