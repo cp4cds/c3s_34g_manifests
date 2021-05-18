@@ -1,7 +1,7 @@
 sources:
   c3s-cmip6:
     args:
-      urlpath: '{{ CATALOG_DIR }}/c3s-cmip6/c3s-cmip6_v20210517.csv'
+      urlpath: '{{ CATALOG_DIR }}/c3s-cmip6/c3s-cmip6_v20210517.csv.gz'
     cache:
     - argkey: urlpath
       type: file
