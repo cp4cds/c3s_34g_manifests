@@ -1,12 +1,11 @@
 sources:
   c3s-cmip6:
+    args:
+      urlpath: '{{ CATALOG_DIR }}/c3s-cmip6/c3s-cmip6_v20210611.csv.gz'
+    cache:
+    - argkey: urlpath
+      type: file
     description: c3s-cmip6 datasets
     driver: intake.source.csv.CSVSource
-    cache:
-      - argkey: urlpath
-        type: file
-    args:
-      urlpath: '{{ CATALOG_DIR }}/c3s-cmip6_v20210313.csv.gz'
     metadata:
-      last_updated: '2021-03-13T21:09:38Z'
-      origin_urlpath: ../inventories/c3s-cmip6/c3s-cmip6_files_latest.yml
+      last_updated: '2021-06-11T07:52:00Z'
