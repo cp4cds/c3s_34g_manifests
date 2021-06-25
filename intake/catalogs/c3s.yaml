@@ -1,11 +1,11 @@
 sources:
   c3s-cmip6:
     args:
-      urlpath: '{{ CATALOG_DIR }}/c3s-cmip6/c3s-cmip6_v20210611.csv.gz'
+      urlpath: '{{ CATALOG_DIR }}/c3s-cmip6/r3/c3s-cmip6_v20210625.csv.gz'
     cache:
     - argkey: urlpath
       type: file
     description: c3s-cmip6 datasets
     driver: intake.source.csv.CSVSource
     metadata:
-      last_updated: '2021-06-11T07:52:00Z'
+      last_updated: '2021-06-25T07:22:27Z'
