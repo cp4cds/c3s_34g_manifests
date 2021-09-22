@@ -10,4 +10,4 @@ sources:
     description: c3s-cmip6 datasets
     driver: intake.source.csv.CSVSource
     metadata:
-      last_updated: '2021-06-25T07:22:27Z'
+      last_updated: '2021-09-22T10:22:27Z'
