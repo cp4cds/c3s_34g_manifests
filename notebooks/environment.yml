@@ -1,0 +1,9 @@
+# conda env create -f environment.yml
+name: c3s-notebooks
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - python=3
+  - jupyterlab
+  - pandas
