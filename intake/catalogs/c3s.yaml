@@ -31,6 +31,7 @@ sources:
         compression: gzip
         dtype:
           level: object
+          experiment_id: object
     description: c3s-cordex datasets
     driver: intake.source.csv.CSVSource
     metadata:
