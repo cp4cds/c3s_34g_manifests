@@ -1,4 +1,16 @@
 sources:
+  c3s-cmip5:
+    args:
+      urlpath: '{{ CATALOG_DIR }}/c3s-cmip5/c3s-cmip6_v20220422.csv.gz'
+      csv_kwargs:
+        blocksize: null
+        compression: gzip
+        dtype:
+          level: object
+    description: c3s-cmip5 datasets
+    driver: intake.source.csv.CSVSource
+    metadata:
+      last_updated: '2022-04-22T22:48:00Z'
   c3s-cmip6:
     args:
       urlpath: '{{ CATALOG_DIR }}/c3s-cmip6/r3/c3s-cmip6_v20210625.csv.gz'
