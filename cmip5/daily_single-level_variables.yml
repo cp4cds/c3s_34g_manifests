@@ -1,0 +1,31 @@
+variables:
+  Near-surface (2m) air temperature (tas):
+    units: 'K'
+    description: 'Temperature of the air near the surface.'
+  Daily maximum near-surface air temperature (tasmax):
+    units: 'K'
+    description: 'Daily maximum of the temperature of the air near the surface.'
+  Daily mimimum near-surface air temperature:
+    units: 'K'
+    description: 'Daily minimum of the temperature of the air near the surface.'
+  Mean sea level pressure (psl):
+    units: 'Pa'
+    description: 'Air pressure at sea level.'
+  Near-surface 10m Wind Speed (sfcWind):
+    units: 'm.s^-2'
+    description: 'Magnitude of the two-dimensional horizontal air velocity near the surface.'
+  Near surface specific humidity (huss):
+    units: '1'
+    description: 'Amount of moisture in the air near the surface divided by amount of air plus moist at that location.'
+  Mean precipitation flux (pr):
+    units: 'kg.m^-2.s^-1'
+    description: 'Amount of water per unit area and time.'
+  Snowfall flux (prsn):
+    units: 'kg.m-^2.s^-1'
+    description: 'Mass of water in the form of snow precipitating per unit area.'
+  Near-Surface Relative Humidity (rhs):
+    units: '%'
+    description: 'Amount of water vapour present in air expressed as a percentage of the amount needed for saturation at the same temperature.'
+  Near-surface downwelling shortwave radiation(rsds):
+    units: 'W.m^-2'
+    description: 'Radiative shortwave flux of energy downward at the surface per unit area.'
