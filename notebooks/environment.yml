@@ -8,4 +8,8 @@ dependencies:
   - jupyterlab
   - pandas
   - intake
+  - dask
+  - fsspec
+  - requests
+  - aiohttp
   - yaml
