@@ -7,3 +7,9 @@ dependencies:
   - python=3
   - jupyterlab
   - pandas
+  - intake
+  - dask
+  - fsspec
+  - requests
+  - aiohttp
+  - yaml
