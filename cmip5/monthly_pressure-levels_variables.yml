@@ -1,0 +1,19 @@
+variables:
+  Air temperature (ta):
+    units: 'K'
+    description: 'Temperature of the air.'
+  Zonal component of Wind (ua):
+    units: 'm.s^-1'
+    description: 'Magnitude of the zonal (eastward) component of the two-dimensional horizontal air velocity.'
+  Meridional component of Wind (va):
+    units: 'm.s^-1'
+    description: 'Magnitude of the meridional (northward) component of the two-dimensional horizontal air velocity.'
+  Relative humidity (hur):
+    units: '%'
+    description: 'Amount of moisture in the air divided by the maximum amount of moisture that could exist in the air at a specific temperature and location.'
+  Specific humidity (hus):
+    units: 'fraction'
+    description: 'Amount of moisture in the air divided by amount of air plus moisture at that location.'
+  Geopotential height	(zg):
+    units: 'm'
+    description: 'Gravitational potential energy per unit mass normalised by the standard gravity at mean sea level at the same latitude. It is also used as vertical coordinate referenced to Earth's mean sea level since its value is proportional to the elevation above the mean sea level.'
