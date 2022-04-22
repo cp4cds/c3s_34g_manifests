@@ -5,7 +5,7 @@ variables:
   Daily maximum near-surface air temperature (tasmax):
     units: 'K'
     description: 'Daily maximum of the temperature of the air near the surface.'
-  Daily mimimum near-surface air temperature:
+  Daily mimimum near-surface air temperature (tasmin):
     units: 'K'
     description: 'Daily minimum of the temperature of the air near the surface.'
   Mean sea level pressure (psl):

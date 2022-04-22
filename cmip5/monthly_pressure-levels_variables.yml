@@ -14,6 +14,6 @@ variables:
   Specific humidity (hus):
     units: 'fraction'
     description: 'Amount of moisture in the air divided by amount of air plus moisture at that location.'
-  Geopotential height	(zg):
+  Geopotential height (zg):
     units: 'm'
-    description: 'Gravitational potential energy per unit mass normalised by the standard gravity at mean sea level at the same latitude. It is also used as vertical coordinate referenced to Earth's mean sea level since its value is proportional to the elevation above the mean sea level.'
+    description: "Gravitational potential energy per unit mass normalised by the standard gravity at mean sea level at the same latitude. It is also used as vertical coordinate referenced to Earth's mean sea level since its value is proportional to the elevation above the mean sea level."
