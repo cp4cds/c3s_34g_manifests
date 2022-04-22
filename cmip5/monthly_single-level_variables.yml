@@ -1,0 +1,121 @@
+variables:
+  Near-surface (2m) air temperature (tas):
+    units: 'K'
+    description: 'Temperature of the air near the surface.'
+  Surface skin temperature (ts):
+    units: 'K'
+    description: 'Temperature at the interface (not the bulk temperature of the medium above or below) between air and sea for open-sea regions.'
+  Daily maximum near-surface air temperature (tasmax):
+    units: 'K'
+    description: 'Daily maximum near-surface air temperature.'
+  Daily minimum near-surface air temperature (tasmin):
+    units: 'K'
+    description: 'Daily minimum near-surface air temperature.'
+  Sea-level pressure (psl):
+    units: 'Pa'
+    description: 'Pressure of the air pressure at sea level.'
+  Surface pressure (ps):
+    units: 'Pa'
+    description: 'Pressure of air at the lower boundary of the atmopshere'
+  Near-surface zonal component of wind (uas):
+    units: 'm.s^-1'
+    description: 'Magnitude of the zonal (eastward) component of the two-dimensional horizontal air velocity near the surface.'
+  Near-surface meridional component of wind (vas):
+    units: 'm.s^-1'
+    description: 'Magnitude of the meridional (northward) component of the two-dimensional horizontal air velocity near the surface.'
+  Near-surface wind speed (sfcWind):
+    units: 'm.s^-1'
+    description: 'Mean of the near-surface wind speed, not the speed computed from the mean zonal and meridional components of wind'
+  Near-surface relative humidity (hurs):
+    units: '%'
+    description: 'Amount of moisture in the air near the surface divided by the maximum amount of moisture that could exist in the air at a specific temperature and location.'
+  Near-surface specific humidity (huss):
+    units: '1'
+    description: 'Amount of moisture in the air near the surface divided by amount of air plus moist at that location.'
+  Precipitation flux (pr):
+    units: 'kg.m^-2.s^-1'
+    description: 'Amount of water per unit area and time.'
+  Snowfall flux (prsn):
+    units: 'kg.m^-2.s^-1'
+    description: 'Mass of water in the form of snow precipitating per unit area.'
+  Evaporation (evspsbl):
+    units: 'kg.m^-2.s^-1'
+    description: 'Evaporation rate. It includes conversion to vapor phase from both the liquid and solid phase, i.e., includes sublimation.'
+  Surface eastward wind stress (tauu):
+    units: 'Pa'
+    description: 'Eastward component of the horizontal drag exerted by the atmosphere on the surface through turbulent processes.'
+  Surface northward wind stress (tauv):
+    units: 'Pa'
+    description: 'Northward component of the horizontal drag exerted by the atmosphere on the surface through turbulent processes.'
+  Surface latent heat flux (hfls):
+    units: 'W.m^-2'
+    description: 'Flux per unit area of heat between the surface and the air on account of evaporation including sublimation. Positive when directed upward (negative downward).'
+  Surface sensible heat flux (hfss):
+    units: 'W.m^-2'
+    description: 'Flux per unit area of heat between the surface and the air by motion of air only. Positive when directed upward (negative downward).'
+  Surface downwelling longwave radiation (rlds):
+    units: 'W.m^-2'
+    description: 'Longwave radiation incidient on the surface from the above per unit area.'
+  Surface upwelling longwave radiation (rlus):
+    units: 'W.m^-2'
+    description: 'Longwave radiation emitted from the surface per unit area.'
+  Surface downwelling shortwave radiation (rsds):
+    units: 'W.m^-2'
+    description: 'Shortwave radiation incidient on the surface from the above per unit area.'
+  Surface upwelling shortwave radiation (rsus):
+    units: 'W.m^-2'
+    description: 'Shortwave radiation emittted from the surface per unit area.'
+  Top of atmosphere incident shortwave radiation (rsdt):
+    units: 'W.m^-2'
+    description: 'Incident solar radiation at the top of atmosphere'
+  Top of atmosphere outgoing shortwave radiation (rsut):
+    units: 'W.m^-2'
+    description: 'Shortwave radiation emitted from the top of the atmosphere to space per unit area.'
+  Top of atmosphere outgoing clear-sky shortwave radiation (rsutcs):
+    units: 'W.m^-2'
+    description: 'Shortwave radiation emitted under clear sky conditions from the top of the atmosphere to space per unit area.'
+  Top of atmosphere outgoing longwave radiation (rlut):
+    units: 'W.m^-2'
+    description: 'Longwave radiation emitted from the top of the atmosphere to space per unit area.'
+  Top of atmosphere outgoing clear-sky longwave radiation (rlutcs):
+    units: 'W.m^-2'
+    description: 'Longwave radiation emitted under clear sky conditions from the top of the atmosphere to space per unit area.'
+  Total cloud fraction (clt):
+    units: '1'
+    description: 'Total refers to the whole atmosphere column, as seen from the surface or the top of the atmosphere. Cloud cover refers to fraction of horizontal area occupied by clouds.'
+  Total column soil moisture content (mrsos):
+    units: 'kg.m^-2'
+    description: 'Vertical sum per unit area from the surface down to the bottom of the soil model of water in all phases contained in soil.'
+  Total runoff (mrro):
+    units: 'kg.m^-2.s^-1'
+    description: 'Amount per unit area of surface and subsurface liquid water which drains from land.'
+  Surface snow amount (snw):
+    units: 'kg.m^-2'
+    description: 'Snow amount on the ground, excluding that on the plant or vegetation canopy, per unit area.'
+  Sea surface temperature (tos):
+    units: 'K'
+    description: 'Temperature of sea water near the surface.'
+  Sea surface salinity (sos):
+    units: '1.e^-3'
+    description: 'Salt content of sea water close to the sea surface.'
+  Sea surface height above geoid (zos):
+    units: 'm'
+    description: 'Vertical distance between the actual sea surface and a surface of constant geopotential with which mean sea level would coincide if the ocean were at rest.'
+  Sea ice fraction (sic):
+    units: 'Dimensionless'
+    description: 'Area of the sea surface occupied by sea ice.'
+  Sea ice thickness (sit):
+    units: 'm'
+    description: 'Vertical extent of ocean sea ice.'
+  Snow depth over sea ice (snd):
+    units: 'm'
+    description: 'Mean thickness of snow in the ocean portion of the grid cell (averaging over the entire ocean portion, including the snow-free ocean fraction). Reported as 0.0 in regions free of snow-covered sea ice.'
+  Sea ice plus snow amount (sim):
+    units: 'kg.m^-2'
+    description: 'Mass per unit area of sea ice plus snow in the ocean portion of the grid cell averaged over the entire ocean portion, including the ice-free fraction. Reported as 0.0 in regions free of sea ice.'
+  Sea ice surface temperature (tsice):
+    units: 'K'
+    description: 'Temperature that exists at the interface of tea sea-ice and the overlying medium which may be air or snow.'
+  Ambient aerosol optical thickness at 550 nm (od550aer):
+    units: '1'
+    description: 'Ambient aerosol optical thickness at wavelength 550nm.'
