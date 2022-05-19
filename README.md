@@ -1,2 +1,5 @@
 # c3s_34g_manifests
-Manifest files for CDS
+
+This repo contains:
+* Manifest files for CDS
+* Intake catalogs for CDS
