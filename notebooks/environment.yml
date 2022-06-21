@@ -1,5 +1,5 @@
 # conda env create -f environment.yml
-name: c3s-notebooks
+name: c3s-catalogs
 channels:
   - conda-forge
 dependencies:
