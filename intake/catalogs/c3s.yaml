@@ -61,7 +61,7 @@ sources:
       last_updated: '2022-05-19T20:42:00Z'
   c3s-cmip6:
     args:
-      urlpath: '{{ CATALOG_DIR }}/c3s-cmip6/r3/c3s-cmip6_v20210625.csv.gz'
+      urlpath: '{{ CATALOG_DIR }}/c3s-cmip6/c3s-cmip6_v20220819.csv.gz'
       csv_kwargs:
         blocksize: null
         compression: gzip
@@ -70,7 +70,7 @@ sources:
     description: c3s-cmip6 datasets
     driver: intake.source.csv.CSVSource
     metadata:
-      last_updated: '2021-09-22T10:22:27Z'
+      last_updated: '2022-08-30T09:04:27Z'
   c3s-cmip6-decadal:
     args:
       urlpath: '{{ CATALOG_DIR }}/c3s-cmip6-decadal/c3s-cmip6-decadal_v20220621.csv.gz'
