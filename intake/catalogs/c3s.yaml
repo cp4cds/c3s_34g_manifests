@@ -120,3 +120,16 @@ sources:
     driver: intake.source.csv.CSVSource
     metadata:
       last_updated: '2022-09-29T16:16:00Z'
+  c3s-atlas:
+    args:
+      urlpath: '{{ CATALOG_DIR }}/c3s-atlas/c3s-atlas_v20230109.csv.gz'
+      csv_kwargs:
+        blocksize: null
+        compression: gzip
+        dtype:
+          level: object
+          experiment_id: object
+    description: c3s-atlas datasets
+    driver: intake.source.csv.CSVSource
+    metadata:
+      last_updated: '2023-01-09T21:12:00Z'
