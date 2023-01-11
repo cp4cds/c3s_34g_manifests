@@ -128,8 +128,8 @@ sources:
         compression: gzip
         dtype:
           level: object
-          experiment_id: object
+          domain: object
     description: c3s-atlas datasets
     driver: intake.source.csv.CSVSource
     metadata:
-      last_updated: '2023-01-09T21:12:00Z'
+      last_updated: '2023-01-11T19:58:00Z'
