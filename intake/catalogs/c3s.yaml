@@ -122,14 +122,14 @@ sources:
       last_updated: '2022-09-29T16:16:00Z'
   c3s-atlas:
     args:
-      urlpath: '{{ CATALOG_DIR }}/c3s-atlas/c3s-atlas_v20230109.csv.gz'
+      urlpath: '{{ CATALOG_DIR }}/c3s-atlas/c3s-ipcc-atlas_v20230201.csv.gz'
       csv_kwargs:
         blocksize: null
         compression: gzip
         dtype:
           level: object
           domain: object
-    description: c3s-atlas datasets
+    description: c3s-ipcc-atlas datasets
     driver: intake.source.csv.CSVSource
     metadata:
-      last_updated: '2023-01-11T19:58:00Z'
+      last_updated: '2023-02-01T17:02:00Z'
