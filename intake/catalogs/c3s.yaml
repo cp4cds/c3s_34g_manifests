@@ -120,7 +120,7 @@ sources:
     driver: intake.source.csv.CSVSource
     metadata:
       last_updated: '2022-09-29T16:16:00Z'
-  c3s-atlas:
+  c3s-ipcc-atlas:
     args:
       urlpath: '{{ CATALOG_DIR }}/c3s-atlas/c3s-ipcc-atlas_v20230201.csv.gz'
       csv_kwargs:
