@@ -1,0 +1,6 @@
+gsiftp://gridftp.ipsl.upmc.fr:2811/c3s-ipcc-ar6-atlas/CMIP6/ssp245/prsn_CMIP6_ssp245_mon_201501-210012.nc file:///work/ik1017/Ingest/C3SATLAS/update_corrected_20230525/c3s-ipcc-ar6-atlas/CMIP6/ssp245/prsn_CMIP6_ssp245_mon_201501-210012.nc
+gsiftp://gridftp.ipsl.upmc.fr:2811/c3s-ipcc-ar6-atlas/CMIP6/historical/prsn_CMIP6_historical_mon_185001-201412.nc file:///work/ik1017/Ingest/C3SATLAS/update_corrected_20230525/c3s-ipcc-ar6-atlas/CMIP6/historical/prsn_CMIP6_historical_mon_185001-201412.nc
+gsiftp://gridftp.ipsl.upmc.fr:2811/c3s-ipcc-ar6-atlas/CMIP6/ssp585/prsn_CMIP6_ssp585_mon_201501-210012.nc file:///work/ik1017/Ingest/C3SATLAS/update_corrected_20230525/c3s-ipcc-ar6-atlas/CMIP6/ssp585/prsn_CMIP6_ssp585_mon_201501-210012.nc
+gsiftp://gridftp.ipsl.upmc.fr:2811/c3s-ipcc-ar6-atlas/CMIP6/ssp370/prsn_CMIP6_ssp370_mon_201501-210012.nc file:///work/ik1017/Ingest/C3SATLAS/update_corrected_20230525/c3s-ipcc-ar6-atlas/CMIP6/ssp370/prsn_CMIP6_ssp370_mon_201501-210012.ncnc
+gsiftp://gridftp.ipsl.upmc.fr:2811/c3s-ipcc-ar6-atlas/CMIP6/ssp126/prsn_CMIP6_ssp126_mon_201501-210012.nc file:///work/ik1017/Ingest/C3SATLAS/update_corrected_20230525/c3s-ipcc-ar6-atlas/CMIP6/ssp126/prsn_CMIP6_ssp126_mon_201501-210012.nc
+
