@@ -87,7 +87,6 @@ sources:
     args:
       urlpath: '{{ CATALOG_DIR }}/c3s-cmip6-decadal/c3s-cmip6-decadal_v20230323.csv.gz'
       csv_kwargs:
-        blocksize: null
         compression: gzip
         dtype:
           level: object
@@ -99,7 +98,6 @@ sources:
     args:
       urlpath: '{{ CATALOG_DIR }}/c3s-cmip6-decadal/c3s-cmip6-decadal-DWD_v20220621.csv.gz'
       csv_kwargs:
-        blocksize: null
         compression: gzip
         dtype:
           level: object
