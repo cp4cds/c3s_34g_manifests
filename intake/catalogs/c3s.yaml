@@ -93,7 +93,7 @@ sources:
     description: c3s-cmip6-decadal datasets
     driver: intake.source.csv.CSVSource
     metadata:
-      last_updated: '2023-03-23T15:00:00Z'
+      last_updated: '2023-06-19T10:58:00Z'
   c3s-cmip6-decadal-dwd:
     args:
       urlpath: '{{ CATALOG_DIR }}/c3s-cmip6-decadal/c3s-cmip6-decadal-DWD_v20220621.csv.gz'
