@@ -107,6 +107,18 @@ sources:
     driver: intake.source.csv.CSVSource
     metadata:
       last_updated: '2022-06-21T18:46:00Z'
+  c3s-cmip6-decadal-ec-earth:
+    args:
+      urlpath: '{{ CATALOG_DIR }}/c3s-cmip6-decadal/c3s-cmip6-decadal-EC-EARTH_v20230619.csv.gz'
+      csv_kwargs:
+        blocksize: null
+        compression: gzip
+        dtype:
+          level: object
+    description: c3s-cmip6-decadal EC-EARTH datasets
+    driver: intake.source.csv.CSVSource
+    metadata:
+      last_updated: '2023-06-19T10:32:00Z'
   c3s-cordex:
     args:
       urlpath: '{{ CATALOG_DIR }}/c3s-cordex/c3s-cordex_v20220929.csv.gz'
