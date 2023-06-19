@@ -111,7 +111,6 @@ sources:
     args:
       urlpath: '{{ CATALOG_DIR }}/c3s-cmip6-decadal/c3s-cmip6-decadal-EC-EARTH_v20230619.csv.gz'
       csv_kwargs:
-        blocksize: null
         compression: gzip
         dtype:
           level: object
