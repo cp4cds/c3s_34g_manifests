@@ -56,7 +56,7 @@ sources:
       last_updated: '2023-02-03T16:42:00Z'
   c3s-cmip6:
     args:
-      urlpath: '{{ CATALOG_DIR }}/c3s-cmip6/c3s-cmip6_v20221118.csv.gz'
+      urlpath: '{{ CATALOG_DIR }}/c3s-cmip6/c3s-cmip6_v20230622.csv.gz'
       csv_kwargs:
         compression: gzip
         dtype:
@@ -64,18 +64,7 @@ sources:
     description: c3s-cmip6 datasets
     driver: intake.source.csv.CSVSource
     metadata:
-      last_updated: '2022-11-21T13:00:00Z'
-  c3s-cmip6-r3:
-    args:
-      urlpath: '{{ CATALOG_DIR }}/c3s-cmip6/r3/c3s-cmip6_v20210625.csv.gz'
-      csv_kwargs:
-        compression: gzip
-        dtype:
-          level: object
-    description: c3s-cmip6 datasets release 3
-    driver: intake.source.csv.CSVSource
-    metadata:
-      last_updated: '2021-09-22T10:22:27Z'
+      last_updated: '2023-06-22T15:16:00Z'
   c3s-cmip6-decadal:
     args:
       urlpath: '{{ CATALOG_DIR }}/c3s-cmip6-decadal/c3s-cmip6-decadal_v20230620.csv.gz'
@@ -87,28 +76,6 @@ sources:
     driver: intake.source.csv.CSVSource
     metadata:
       last_updated: '2023-06-19T12:37:00Z'
-  c3s-cmip6-decadal-dwd:
-    args:
-      urlpath: '{{ CATALOG_DIR }}/c3s-cmip6-decadal/c3s-cmip6-decadal-DWD_v20220621.csv.gz'
-      csv_kwargs:
-        compression: gzip
-        dtype:
-          level: object
-    description: c3s-cmip6-decadal DWD datasets
-    driver: intake.source.csv.CSVSource
-    metadata:
-      last_updated: '2022-06-21T18:46:00Z'
-  c3s-cmip6-decadal-ec-earth:
-    args:
-      urlpath: '{{ CATALOG_DIR }}/c3s-cmip6-decadal/c3s-cmip6-decadal-EC-EARTH_v20230619.csv.gz'
-      csv_kwargs:
-        compression: gzip
-        dtype:
-          level: object
-    description: c3s-cmip6-decadal EC-EARTH datasets
-    driver: intake.source.csv.CSVSource
-    metadata:
-      last_updated: '2023-06-19T10:32:00Z'
   c3s-cordex:
     args:
       urlpath: '{{ CATALOG_DIR }}/c3s-cordex/c3s-cordex_v20220929.csv.gz'
