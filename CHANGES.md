@@ -2,9 +2,18 @@
 
 ## Release 2024-07-11
 
-Added catalogs for atlas and cmip6-decadal.
+Added catalogs for atlas-v1.
 
 Last release with the domain: http://copernicus-climate.eu/
+
+
+## Release 2023-02-03
+
+* added c3s-atlas manifest and intake catalog
+* updated c3s-cmip5 manifest and intake catalog with latest version
+* added c3s-cmip6-decadal-dwd
+* fixed c3s-cmip6
+* fixed c3s-cordex
 
 ## Release 2022-05-19
 
