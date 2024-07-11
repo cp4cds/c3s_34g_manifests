@@ -1,5 +1,11 @@
 # CHANGES
 
+## Release 2024-07-11
+
+Added catalogs for atlas and cmip6-decadal.
+
+Last release with the domain: http://copernicus-climate.eu/
+
 ## Release 2022-05-19
 
 * updated manifest files:
