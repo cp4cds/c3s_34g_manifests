@@ -1,7 +1,7 @@
 sources:
   c3s-cmip5:
     args:
-      urlpath: '{{ CATALOG_DIR }}/c3s-cmip5/c3s-cmip5_v20230203.csv.gz'
+      urlpath: '{{ CATALOG_DIR }}/c3s-cmip5/c3s-cmip5_v20240711.csv.gz'
       csv_kwargs:
         compression: gzip
         dtype:
@@ -9,10 +9,10 @@ sources:
     description: c3s-cmip5 datasets
     driver: intake.source.csv.CSVSource
     metadata:
-      last_updated: '2023-02-03T16:42:00Z'
+      last_updated: '2024-07-11T16:15:00Z'
   c3s-cmip5-daily-pressure-level:
     args:
-      urlpath: '{{ CATALOG_DIR }}/c3s-cmip5/c3s-cmip5-daily-pressure-level_v20230203.csv.gz'
+      urlpath: '{{ CATALOG_DIR }}/c3s-cmip5/c3s-cmip5-daily-pressure-level_v20240711.csv.gz'
       csv_kwargs:
         compression: gzip
         dtype:
@@ -20,10 +20,10 @@ sources:
     description: c3s-cmip5 daily-pressure-level datasets
     driver: intake.source.csv.CSVSource
     metadata:
-      last_updated: '2023-02-03T16:42:00Z'
+      last_updated: '2024-07-11T16:15:00Z'
   c3s-cmip5-daily-single-level:
     args:
-      urlpath: '{{ CATALOG_DIR }}/c3s-cmip5/c3s-cmip5-daily-single-level_v20230203.csv.gz'
+      urlpath: '{{ CATALOG_DIR }}/c3s-cmip5/c3s-cmip5-daily-single-level_v20240711.csv.gz'
       csv_kwargs:
         compression: gzip
         dtype:
@@ -31,10 +31,10 @@ sources:
     description: c3s-cmip5 daily-single-level datasets
     driver: intake.source.csv.CSVSource
     metadata:
-      last_updated: '2023-02-03T16:42:00Z'
+      last_updated: '2024-07-11T16:15:00Z'
   c3s-cmip5-monthly-pressure-level:
     args:
-      urlpath: '{{ CATALOG_DIR }}/c3s-cmip5/c3s-cmip5-monthly-pressure-level_v20230203.csv.gz'
+      urlpath: '{{ CATALOG_DIR }}/c3s-cmip5/c3s-cmip5-monthly-pressure-level_v20240711.csv.gz'
       csv_kwargs:
         compression: gzip
         dtype:
@@ -42,10 +42,10 @@ sources:
     description: c3s-cmip5 monthly-pressure-level datasets
     driver: intake.source.csv.CSVSource
     metadata:
-      last_updated: '2023-02-03T16:42:00Z'
+      last_updated: '2024-07-11T16:15:00Z'
   c3s-cmip5-monthly-single-level:
     args:
-      urlpath: '{{ CATALOG_DIR }}/c3s-cmip5/c3s-cmip5-monthly-single-level_v20230203.csv.gz'
+      urlpath: '{{ CATALOG_DIR }}/c3s-cmip5/c3s-cmip5-monthly-single-level_v20240711.csv.gz'
       csv_kwargs:
         compression: gzip
         dtype:
@@ -53,7 +53,7 @@ sources:
     description: c3s-cmip5 monthly-single-level datasets
     driver: intake.source.csv.CSVSource
     metadata:
-      last_updated: '2023-02-03T16:42:00Z'
+      last_updated: '2024-07-11T16:15:00Z'
   c3s-cmip6:
     args:
       urlpath: '{{ CATALOG_DIR }}/c3s-cmip6/c3s-cmip6_v20231114.csv.gz'
@@ -102,7 +102,7 @@ sources:
       last_updated: '2023-03-23T16:05:00Z'
   c3s-cica-atlas:
     args:
-      urlpath: '{{ CATALOG_DIR }}/c3s-atlas/c3s-cica-atlas_v20240131.csv.gz'
+      urlpath: '{{ CATALOG_DIR }}/c3s-atlas/c3s-cica-atlas_v20240711.csv.gz'
       csv_kwargs:
         compression: gzip
         dtype:
@@ -111,4 +111,4 @@ sources:
     description: c3s-cica-atlas datasets
     driver: intake.source.csv.CSVSource
     metadata:
-      last_updated: '2024-01-31T17:56:00Z'
+      last_updated: '2024-07-11T16:15:00Z'
