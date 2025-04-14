@@ -123,4 +123,4 @@ sources:
     description: c3s-cica-atlas v02 datasets
     driver: intake.source.csv.CSVSource
     metadata:
-      last_updated: '2025-04-14T14:59:00Z'
+      last_updated: '2025-04-14T16:57:00Z'
