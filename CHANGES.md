@@ -1,13 +1,22 @@
 # CHANGES
 
+## Release 2025-04-29
+
+Changes:
+
+* Updated catalogs for new CDS domain: http://climate.copernicus.eu/
+
+
 ## Release 2024-07-11
 
-Added catalogs for atlas-v1.
+Changes:
 
-Last release with the domain: http://copernicus-climate.eu/
-
+* Added catalogs for atlas-v1.
+* Last release with the domain: http://copernicus-climate.eu/
 
 ## Release 2023-02-03
+
+Changes:
 
 * added c3s-atlas manifest and intake catalog
 * updated c3s-cmip5 manifest and intake catalog with latest version
@@ -16,6 +25,8 @@ Last release with the domain: http://copernicus-climate.eu/
 * fixed c3s-cordex
 
 ## Release 2022-05-19
+
+Changes:
 
 * updated manifest files:
     * CMIP5
