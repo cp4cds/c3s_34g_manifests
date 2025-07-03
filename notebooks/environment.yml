@@ -6,8 +6,8 @@ dependencies:
   - pip
   - python=3
   - jupyterlab
-  - pandas
-  - intake
+  - pandas >=2
+  - intake <2
   - dask
   - fsspec
   - requests
