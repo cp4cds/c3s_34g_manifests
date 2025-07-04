@@ -1,5 +1,11 @@
 # CHANGES
 
+## Release 2025-05-06
+
+Changes:
+
+* Added catalog for atlas-v2
+
 ## Release 2025-04-29
 
 Changes:
