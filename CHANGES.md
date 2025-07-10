@@ -1,6 +1,13 @@
 # CHANGES
 
-## Release 2025-07-02
+## Release 2025-07-10
+
+Changes:
+
+* Updated manifest file for CORDEX.
+
+
+## Release 2025-07-04
 
 Changes:
 
