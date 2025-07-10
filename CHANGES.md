@@ -1,5 +1,12 @@
 # CHANGES
 
+## Release 2025-07-02
+
+Changes:
+
+* Updated cordex intake catalog with some fixes.
+
+
 ## Release 2025-05-06
 
 Changes:
