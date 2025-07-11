@@ -1,10 +1,20 @@
 # CHANGES
 
+
+## Release 2025-07-11
+
+Changes:
+
+* Removed obsolete versions from cordex intake catalog.
+* Generated manifest: cordex/manifest_C3S_CORDEX_20250711.txt.gz 
+
+
 ## Release 2025-07-04
 
 Changes:
 
 * Updated cordex intake catalog with some fixes.
+* Generated manifest: cordex/manifest_C3S_CORDEX_20250704.txt.gz
 
 
 ## Release 2025-05-06
