@@ -1,5 +1,11 @@
 # CHANGES
 
+## Release 2025-07-14
+
+Changes:
+
+* Updated intake catalog from latest at IPSL
+* Generated manifest: cordex/manifest_C3S_CORDEX_20250714.txt.gz 
 
 ## Release 2025-07-11
 
