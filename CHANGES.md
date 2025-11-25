@@ -1,5 +1,11 @@
 # CHANGES
 
+## Release 2025-11-25
+
+Changes:
+
+* Updated intake catalog of atlas v01. Added prefix `v01` to path (#65).
+
 ## Release 2025-07-14
 
 Changes:
