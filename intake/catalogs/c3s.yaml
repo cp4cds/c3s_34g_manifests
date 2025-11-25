@@ -102,7 +102,7 @@ sources:
       last_updated: '2023-03-23T16:05:00Z'
   c3s-cica-atlas-v01:
     args:
-      urlpath: '{{ CATALOG_DIR }}/c3s-atlas/c3s-cica-atlas_v20240711.csv.gz'
+      urlpath: '{{ CATALOG_DIR }}/c3s-atlas/c3s-cica-atlas-v01_v20251125.csv.gz'
       csv_kwargs:
         compression: gzip
         dtype:
@@ -111,7 +111,7 @@ sources:
     description: c3s-cica-atlas v1 datasets
     driver: intake.source.csv.CSVSource
     metadata:
-      last_updated: '2024-07-11T16:15:00Z'
+      last_updated: '2025-11-25T16:23:00Z'
   c3s-cica-atlas:
     args:
       urlpath: '{{ CATALOG_DIR }}/c3s-atlas/c3s-cica-atlas-v02_v20250415.csv.gz'
