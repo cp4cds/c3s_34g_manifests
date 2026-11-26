@@ -1,0 +1,6 @@
+Institution,Model,Experiments,Files,Catalog TB
+CMCC,CMCC-CM2-SR5,"dcppA-hindcast, dcppB-forecast",1830,0.030506708149
+DWD,MPI-ESM1-2-LR,dcppA-hindcast,4960,0.290309908282
+EC-Earth-Consortium,EC-Earth3,"dcppA-hindcast, dcppB-forecast",60390,5.705631013328
+MOHC,HadGEM3-GC31-MM,"dcppA-hindcast, dcppB-forecast",43920,2.311833977847
+MPI-M,MPI-ESM1-2-HR,dcppA-hindcast,4130,1.404987309298
