@@ -1,0 +1,59 @@
+Institution,Model,Experiments,Files,Catalog TB
+AS-RCEC,TaiESM1,"historical, ssp126, ssp245, ssp370, ssp585",896,0.188649727377
+AWI,AWI-CM-1-1-MR,"historical, ssp126, ssp245, ssp370, ssp585",18697,0.460483802427
+AWI,AWI-ESM-1-1-LR,historical,6935,0.032853079104
+BCC,BCC-CSM2-MR,"historical, ssp126, ssp245, ssp370, ssp585",359,0.372341775156
+BCC,BCC-ESM1,historical,41,0.021129759548
+CAMS,CAMS-CSM1-0,"historical, ssp119, ssp126, ssp245, ssp370, ssp585",137,0.126627770884
+CAS,FGOALS-f3-L,"historical, ssp126, ssp245, ssp370, ssp585",490,0.228107747896
+CAS,FGOALS-g3,"historical, ssp119, ssp126, ssp245, ssp370, ssp434, ssp460, ssp534-over, ssp585",5747,0.145221219413
+CCCR-IITM,IITM-ESM,"historical, ssp126, ssp245, ssp370, ssp585",2116,0.099549344084
+CCCma,CanESM5,"historical, ssp119, ssp126, ssp245, ssp370, ssp434, ssp460, ssp534-over, ssp585",524,0.127280696055
+CCCma,CanESM5-CanOE,"historical, ssp126, ssp245, ssp370, ssp585",245,0.029514666315
+CMCC,CMCC-CM2-HR4,historical,198,0.102159856601
+CMCC,CMCC-CM2-SR5,"historical, ssp126, ssp245, ssp370, ssp585",416,0.233361730011
+CMCC,CMCC-ESM2,"historical, ssp126, ssp245, ssp585",411,0.258489006111
+CNRM-CERFACS,CNRM-CM6-1,"historical, ssp126, ssp245, ssp370, ssp585",237,0.16800172567
+CNRM-CERFACS,CNRM-CM6-1-HR,"historical, ssp126, ssp245, ssp370, ssp585",308,1.073542619298
+CNRM-CERFACS,CNRM-ESM2-1,"historical, ssp119, ssp126, ssp245, ssp370, ssp434, ssp460, ssp534-over, ssp585",404,0.275889476596
+CSIRO,ACCESS-ESM1-5,historical,81,0.064185447908
+CSIRO-ARCCSS,ACCESS-CM2,"historical, ssp126, ssp245, ssp370, ssp585",325,0.178566791284
+E3SM-Project,E3SM-1-0,historical,388,0.046940580315
+E3SM-Project,E3SM-1-1,"historical, ssp585",639,0.031089600788
+E3SM-Project,E3SM-1-1-ECA,historical,692,0.048991194579
+EC-Earth-Consortium,EC-Earth3,"historical, ssp119, ssp126, ssp245, ssp370, ssp434, ssp534-over, ssp585",9574,0.382567819208
+EC-Earth-Consortium,EC-Earth3-AerChem,"historical, ssp370",12137,0.431275074741
+EC-Earth-Consortium,EC-Earth3-CC,"historical, ssp245, ssp585",15765,0.541948710352
+EC-Earth-Consortium,EC-Earth3-Veg,"historical, ssp119, ssp126, ssp245, ssp370, ssp585",3709,0.126531488698
+EC-Earth-Consortium,EC-Earth3-Veg-LR,"historical, ssp119, ssp126, ssp245, ssp370, ssp585",27270,0.370669113842
+FIO-QLNM,FIO-ESM-2-0,"historical, ssp126, ssp245, ssp585",328,0.129112499525
+HAMMOZ-Consortium,MPI-ESM-1-2-HAM,"historical, ssp370",153,0.006729473086
+INM,INM-CM4-8,"historical, ssp126, ssp245, ssp370, ssp585",643,0.121077754973
+INM,INM-CM5-0,"historical, ssp126, ssp245, ssp370, ssp585",641,0.132942837863
+IPSL,IPSL-CM5A2-INCA,"historical, ssp126, ssp370",168,0.02285998043
+IPSL,IPSL-CM6A-LR,"historical, ssp119, ssp126, ssp245, ssp370, ssp434, ssp460, ssp534-over, ssp585",586,0.279855639325
+KIOST,KIOST-ESM,"historical, ssp126, ssp245, ssp585",171,0.136629663664
+MIROC,MIROC-ES2H,historical,32,0.022438126742
+MIROC,MIROC-ES2L,"historical, ssp119, ssp126, ssp245, ssp370, ssp534-over, ssp585",5084,0.064705791591
+MIROC,MIROC6,"historical, ssp119, ssp126, ssp245, ssp370, ssp434, ssp460, ssp534-over, ssp585",1350,0.244391039123
+MOHC,HadGEM3-GC31-LL,"historical, ssp126, ssp245, ssp585",356,0.105589711583
+MOHC,HadGEM3-GC31-MM,"historical, ssp126, ssp585",1160,0.426313661175
+MOHC,UKESM1-0-LL,"historical, ssp119, ssp126, ssp245, ssp370, ssp434, ssp534-over, ssp585",734,0.190299003593
+MPI-M,MPI-ESM1-2-HR,historical,1559,0.099398370289
+MPI-M,MPI-ESM1-2-LR,"historical, ssp126, ssp245, ssp370, ssp585",1432,0.083805971004
+MRI,MRI-ESM2-0,"historical, ssp119, ssp126, ssp245, ssp370, ssp434, ssp460, ssp534-over, ssp585",751,0.671672819005
+NASA-GISS,GISS-E2-1-G,"historical, ssp119, ssp245, ssp434, ssp460, ssp585",223,0.019733550632
+NASA-GISS,GISS-E2-1-H,historical,150,0.011808738656
+NCAR,CESM2,"historical, ssp126, ssp245, ssp370, ssp585",680,0.287658452019
+NCAR,CESM2-FV2,historical,203,0.021259311368
+NCAR,CESM2-WACCM,"historical, ssp245, ssp370, ssp534-over, ssp585",775,0.333414160935
+NCAR,CESM2-WACCM-FV2,historical,220,0.023259804913
+NCC,NorCPM1,historical,60,0.01655427567
+NCC,NorESM2-LM,"historical, ssp126, ssp245, ssp370, ssp585",1694,0.060518451776
+NCC,NorESM2-MM,"historical, ssp126, ssp245, ssp370, ssp585",2357,0.290920275405
+NIMS-KMA,KACE-1-0-G,"historical, ssp126, ssp245, ssp370, ssp585",171,0.136769027082
+NOAA-GFDL,GFDL-ESM4,"historical, ssp119, ssp126, ssp245, ssp370, ssp585",480,0.31805364438
+NUIST,NESM3,"historical, ssp126, ssp245, ssp585",188,0.080895182345
+SNU,SAM0-UNICON,historical,1608,0.115274209088
+THU,CIESM,"historical, ssp126, ssp245, ssp585",159,0.120298525175
+UA,MCM-UA-1-0,"historical, ssp126, ssp245, ssp370, ssp585",140,0.021965883644
